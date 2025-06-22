@@ -1,70 +1,70 @@
 {
   "https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8": {
-    "last_checked": 1750381130.1814375,
+    "last_checked": 1750554291.105211,
     "is_active": false
   },
   "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8": {
-    "last_checked": 1750381130.1589382,
+    "last_checked": 1750554291.106678,
     "is_active": false
   },
   "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8": {
-    "last_checked": 1750381129.9547548,
+    "last_checked": 1750554290.111656,
     "is_active": true
   },
   "http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8": {
-    "last_checked": 1750381130.076088,
+    "last_checked": 1750554290.377577,
     "is_active": false
   },
   "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8": {
-    "last_checked": 1750381130.6281264,
+    "last_checked": 1750554291.4152424,
     "is_active": true
   },
   "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8": {
-    "last_checked": 1750381131.0086913,
-    "is_active": true
+    "last_checked": 1750554299.0272584,
+    "is_active": false
   },
   "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8": {
-    "last_checked": 1750381131.5173593,
+    "last_checked": 1750554292.6564739,
     "is_active": true
   },
   "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8": {
-    "last_checked": 1750381130.9586968,
+    "last_checked": 1750554291.0028043,
     "is_active": true
   },
   "https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8": {
-    "last_checked": 1750381130.8361,
+    "last_checked": 1750554291.7494252,
     "is_active": true
   },
   "https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8": {
-    "last_checked": 1750381132.5394247,
+    "last_checked": 1750554293.4986598,
     "is_active": false
   },
   "https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8": {
-    "last_checked": 1750381132.18214,
+    "last_checked": 1750554293.2507544,
     "is_active": true
   },
   "https://livecdn.live247stream.com/joshua/tv/playlist.m3u8": {
-    "last_checked": 1750381132.7705615,
+    "last_checked": 1750554293.4810417,
     "is_active": true
   },
   "https://livecdn.live247stream.com/grace/tv/playlist.m3u8": {
-    "last_checked": 1750381132.297438,
+    "last_checked": 1750554293.368492,
     "is_active": true
   },
   "https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8": {
-    "last_checked": 1750381132.9982731,
+    "last_checked": 1750554293.5911689,
     "is_active": true
   },
   "https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8": {
-    "last_checked": 1750381133.2910655,
+    "last_checked": 1750554293.7880683,
     "is_active": true
   },
   "https://livecdn.live247stream.com/isaac/tv/playlist.m3u8": {
-    "last_checked": 1750381132.6550636,
+    "last_checked": 1750554293.443366,
     "is_active": true
   },
   "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8": {
-    "last_checked": 1750381133.5448527,
+    "last_checked": 1750554293.793955,
     "is_active": true
   },
   "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8": {
@@ -72,79 +72,79 @@
     "is_active": true
   },
   "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8": {
-    "last_checked": 1750381133.7626758,
+    "last_checked": 1750554293.9077547,
     "is_active": true
   },
   "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363": {
-    "last_checked": 1750381133.6952178,
+    "last_checked": 1750554294.1332176,
     "is_active": false
   },
   "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8": {
-    "last_checked": 1750381133.7825985,
-    "is_active": true
+    "last_checked": 1750554301.6315982,
+    "is_active": false
   },
   "https://bloomberg.com/media-manifest/streams/asia.m3u8": {
-    "last_checked": 1750381133.8526192,
+    "last_checked": 1750554294.2968464,
     "is_active": true
   },
   "https://bloomberg.com/media-manifest/streams/asia-event.m3u8": {
-    "last_checked": 1750381133.8867295,
+    "last_checked": 1750554294.4141064,
     "is_active": true
   },
   "https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8": {
-    "last_checked": 1750381133.659574,
+    "last_checked": 1750554294.2337918,
     "is_active": false
   },
   "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8": {
-    "last_checked": 1750381133.9681635,
+    "last_checked": 1750554294.4107451,
     "is_active": true
   },
   "http://124.109.47.101/hls/stream1.m3u8": {
-    "last_checked": 1750381134.2145514,
-    "is_active": true
+    "last_checked": 1750554300.9148102,
+    "is_active": false
   },
   "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8": {
-    "last_checked": 1750381134.1854491,
+    "last_checked": 1750554294.6908607,
     "is_active": false
   },
   "https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8": {
-    "last_checked": 1750381134.1042516,
+    "last_checked": 1750554294.6206486,
     "is_active": false
   },
   "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8": {
-    "last_checked": 1750381134.405362,
+    "last_checked": 1750554294.879887,
     "is_active": true
   },
   "https://cdn.live247stream.com/pmi/tv/playlist.m3u8": {
-    "last_checked": 1750381134.3783016,
+    "last_checked": 1750554295.5049455,
     "is_active": true
   },
   "https://livecdn.live247stream.com/praise/tv/playlist.m3u8": {
-    "last_checked": 1750381134.4941084,
-    "is_active": true
+    "last_checked": 1750554296.0255568,
+    "is_active": false
   },
   "https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8": {
-    "last_checked": 1750381133.6471276,
+    "last_checked": 1750554294.2319844,
     "is_active": false
   },
   "https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8": {
-    "last_checked": 1750381133.2271717,
+    "last_checked": 1750554294.133213,
     "is_active": false
   },
   "https://cdn.bmstudiopk.com/vop/live/playlist.m3u8": {
-    "last_checked": 1750381133.6952136,
+    "last_checked": 1750554294.4467702,
     "is_active": false
   },
   "https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8": {
-    "last_checked": 1750381133.977768,
+    "last_checked": 1750554295.4532,
     "is_active": false
   },
   "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8": {
-    "last_checked": 1750381134.8002703,
+    "last_checked": 1750554297.3125522,
     "is_active": true
   },
   "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8": {
-    "last_checked": 1750381134.538122,
+    "last_checked": 1750554296.9630897,
     "is_active": false
   },
   "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8": {
@@ -156,7 +156,7 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/92News.stream/playlist.m3u8": {
-    "last_checked": 1750381135.4877949,
+    "last_checked": 1750554298.1876254,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/AhlEBait.stream/playlist.m3u8": {
@@ -168,7 +168,7 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8": {
-    "last_checked": 1750381135.249491,
+    "last_checked": 1750554297.7493596,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8": {
@@ -180,7 +180,7 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8": {
-    "last_checked": 1750381135.475595,
+    "last_checked": 1750554298.403758,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8": {
@@ -188,7 +188,7 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8": {
-    "last_checked": 1750381135.5157197,
+    "last_checked": 1750554298.622546,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8": {
@@ -204,7 +204,7 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8": {
-    "last_checked": 1750381135.7017002,
+    "last_checked": 1750554298.8941174,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8": {
@@ -216,7 +216,7 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8": {
-    "last_checked": 1750381135.7098129,
+    "last_checked": 1750554299.1121554,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8": {
@@ -232,15 +232,15 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8": {
-    "last_checked": 1750381135.2938967,
+    "last_checked": 1750554297.9664145,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/GeoTez.stream/playlist.m3u8": {
-    "last_checked": 1750381135.7370446,
+    "last_checked": 1750554299.4614713,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/GNNHD.stream/playlist.m3u8": {
-    "last_checked": 1750381135.991513,
+    "last_checked": 1750554299.3319423,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8": {
@@ -252,7 +252,7 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8": {
-    "last_checked": 1750381135.9903624,
+    "last_checked": 1750554299.817487,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8": {
@@ -264,7 +264,7 @@
     "is_active": true
   },
   "https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8": {
-    "last_checked": 1750381137.0281782,
+    "last_checked": 1750554295.344997,
     "is_active": false
   },
   "http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8": {
@@ -284,15 +284,15 @@
     "is_active": true
   },
   "http://121.91.61.106:8000/play/a00l/index.m3u8": {
-    "last_checked": 1750381141.1124165,
+    "last_checked": 1750554301.6976197,
     "is_active": false
   },
   "http://121.91.61.106:8000/play/a04h/index.m3u8": {
-    "last_checked": 1750381141.1927521,
+    "last_checked": 1750554301.8871279,
     "is_active": false
   },
   "https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8": {
-    "last_checked": 1750381141.846713,
+    "last_checked": 1750554303.209072,
     "is_active": false
   },
   "http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8": {
@@ -300,19 +300,19 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/LahoreNewsHD.stream/playlist.m3u8": {
-    "last_checked": 1750381135.993736,
+    "last_checked": 1750554299.826214,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/NeoNewsHD.stream/playlist.m3u8": {
-    "last_checked": 1750381136.2971523,
+    "last_checked": 1750554300.0346081,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/NewsOne.stream/playlist.m3u8": {
-    "last_checked": 1750381136.2131107,
+    "last_checked": 1750554300.0500922,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8": {
-    "last_checked": 1750381136.2156932,
+    "last_checked": 1750554300.2517078,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/PeaceTvUrdu.stream/playlist.m3u8": {
@@ -336,7 +336,7 @@
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8": {
-    "last_checked": 1750381136.4344413,
+    "last_checked": 1750554300.4678822,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/Urdu1.stream/playlist.m3u8": {
@@ -344,11 +344,11 @@
     "is_active": false
   },
   "https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8": {
-    "last_checked": 1750381136.850201,
+    "last_checked": 1750554300.87911,
     "is_active": true
   },
   "http://125.209.88.166:45793/BRN/PublicNewsHD.stream/playlist.m3u8": {
-    "last_checked": 1750381136.2148948,
+    "last_checked": 1750554300.2682102,
     "is_active": true
   },
   "http://iptv-org.github.io/iptv/sample.m3u8": {
@@ -356,27 +356,31 @@
     "is_active": false
   },
   "https://video.primexsports.com/pnn/live/playlist.m3u8": {
-    "last_checked": 1750381130.5653875,
+    "last_checked": 1750554290.9355934,
     "is_active": false
   },
   "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8": {
-    "last_checked": 1750381130.890141,
+    "last_checked": 1750554291.7972984,
     "is_active": true
   },
   "https://video.primexsports.com/suchnews/live/playlist.m3u8": {
-    "last_checked": 1750381130.670426,
+    "last_checked": 1750554291.2112012,
     "is_active": true
   },
   "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8": {
-    "last_checked": 1750381131.4521604,
+    "last_checked": 1750554292.5935824,
     "is_active": true
   },
   "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8": {
-    "last_checked": 1750381131.3510156,
+    "last_checked": 1750554292.58653,
     "is_active": true
   },
   "https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8": {
-    "last_checked": 1750381134.1058285,
+    "last_checked": 1750554301.6840024,
+    "is_active": false
+  },
+  "https://stream717.duckdns.org/hls/stream1.m3u8": {
+    "last_checked": 1750554296.9276001,
     "is_active": true
   }
 }
