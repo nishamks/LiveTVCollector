@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 07:34:10",
+  "date": "2025-06-28 14:01:14",
   "channels": {
     "Music": [
       {
@@ -1429,13 +1429,6 @@
         "url": "http://188.60.179.180:8000/play/a0oy"
       },
       {
-        "name": "Rai Scuola (576p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
-      },
-      {
         "name": "Rai Storia (576p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png",
         "group": "Undefined",
@@ -2798,6 +2791,22 @@
         "group": "Music;News",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8"
+      }
+    ],
+    "Education": [
+      {
+        "name": "Rai Scuola",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd"
+      },
+      {
+        "name": "Rai Scuola (576p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
       }
     ],
     "Family;Movies": [

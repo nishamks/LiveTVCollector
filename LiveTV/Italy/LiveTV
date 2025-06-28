@@ -1212,12 +1212,6 @@
     "img": "https://i.imgur.com/40g5Urz.png"
   },
   {
-    "name": "Rai Scuola (576p) [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png"
-  },
-  {
     "name": "Rai Storia (576p) [Geo-blocked]",
     "type": "Undefined",
     "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
@@ -2356,6 +2350,18 @@
     "type": "Music;News",
     "url": "https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8",
     "img": "https://www.lyngsat.com/logo/tv/rr/radio-italia-anni-60-tv-it.png"
+  },
+  {
+    "name": "Rai Scuola",
+    "type": "Education",
+    "url": "https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png"
+  },
+  {
+    "name": "Rai Scuola (576p) [Geo-blocked]",
+    "type": "Education",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png"
   },
   {
     "name": "Rakuten TV Family Movies (1080p)",

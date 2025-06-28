@@ -295,6 +295,18 @@ Logo: https://i.imgur.com/rF3tpbR.jpeg
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 
+Group: Education
+Name: Rai Scuola
+URL: https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: Rai Scuola (576p) [Geo-blocked]
+URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+
 Group: Education;Religious
 Name: Telepace 3 (1080p)
 URL: https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
@@ -2566,11 +2578,6 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: Rai Premium (1080p)
 URL: http://188.60.179.180:8000/play/a0oy
 Logo: https://i.imgur.com/40g5Urz.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
-Name: Rai Scuola (576p) [Geo-blocked]
-URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Rai Storia (576p) [Geo-blocked]
