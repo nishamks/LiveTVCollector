@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-30 13:47:36",
+  "date": "2025-07-01 06:36:05",
   "channels": {
     "News": [
       {
@@ -1286,6 +1286,13 @@
     ],
     "Kids": [
       {
+        "name": "BabyFirst Spanish",
+        "logo": "https://i.imgur.com/WxLHBwu.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8"
+      },
+      {
         "name": "Bob Esponja LATAM",
         "logo": "https://i.imgur.com/nmZ2nId.png",
         "group": "Kids",
@@ -2256,6 +2263,13 @@
         "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8"
       },
       {
+        "name": "08 | CANAL N |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalN.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030"
+      },
+      {
         "name": "09 | ATV HD |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg",
         "group": "TV PERU",
@@ -2820,7 +2834,7 @@
         "logo": "http://imgfz.com/i/Dk3PgdU.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_480p/chunks.m3u8"
+        "url": "https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_ori_480p/chunks.m3u8"
       },
       {
         "name": "127 | GTV PISCO ᴴᴰ |",
@@ -4345,27 +4359,34 @@
         "url": "https://video.ejeserver.com/live/verteve.m3u8"
       }
     ],
-    "SERIES": [
+    "INFANTILES": [
       {
         "name": "| RETRO PALMARES TV |",
         "logo": "https://i.imgur.com/4e6jtKv.jpeg",
-        "group": "SERIES",
+        "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8"
       },
       {
         "name": "| RETRO TV ᴴᴰ |",
         "logo": "https://i.imgur.com/aRS9b7q.jpeg",
-        "group": "SERIES",
+        "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8"
       },
       {
         "name": "| RETRO X TV |",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "SERIES",
+        "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8"
+      },
+      {
+        "name": "| XTREMA KIDS |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "INFANTILES",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1126563396.m3u8"
       }
     ]
   }
