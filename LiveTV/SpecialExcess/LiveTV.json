@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-02 06:13:32",
+  "date": "2025-07-02 13:43:02",
   "channels": {
     "Películas": [
       {
@@ -1052,7 +1052,7 @@
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/vive_kdd_logo-1920x0180_-_ankit_sinha_6.jpg",
         "group": "",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=149.102.236.246"
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanalddrama-runtimeusa/playlist.m3u8?ip=213.94.63.250"
       },
       {
         "name": "Runtime Romance",
