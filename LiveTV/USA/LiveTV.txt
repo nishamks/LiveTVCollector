@@ -18532,6 +18532,11 @@ URL: http://user.scalecdn.co:8080/live/26725074/92867131/84929.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: Pure Flix TV
+URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: Dr. Phil's Merit TV (Merit Street)
 URL: https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -20026,11 +20031,6 @@ Source: https://raw.githubusercontent.com/clseibold/tubi-m3u/refs/heads/main/tub
 --------------------------------------------------
 
 Group: Premium Channels
-Name: Pure Flix TV
-URL: http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: HBO (West)
 URL: http://user.scalecdn.co:8080/live/26725074/92867131/2490.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png

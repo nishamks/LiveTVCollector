@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-11 07:10:09",
+  "date": "2025-07-11 13:56:15",
   "channels": {
     "Religious": [
       {
@@ -27413,6 +27413,13 @@
         "url": "http://user.scalecdn.co:8080/live/26725074/92867131/84929.ts"
       },
       {
+        "name": "Pure Flix TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Network Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts"
+      },
+      {
         "name": "Dr. Phil's Merit TV (Merit Street)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Network Channels",
@@ -27492,14 +27499,1105 @@
         "url": "https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8"
       }
     ],
-    "Premium Channels": [
+    "Shopping": [
       {
-        "name": "Pure Flix TV",
+        "name": "QVC (West)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Premium Channels",
+        "group": "Shopping",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts"
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8"
       },
+      {
+        "name": "QVC (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
+      },
+      {
+        "name": "QVC 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
+      },
+      {
+        "name": "QVC 3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
+      },
+      {
+        "name": "QVC 4 (In The Kitchen)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
+      },
+      {
+        "name": "QVC 5 (Fashion Finds)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8"
+      },
+      {
+        "name": "QVC 6 (Holiday Headquarters)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8"
+      },
+      {
+        "name": "QVC 7 (The Big Dish Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8"
+      },
+      {
+        "name": "QVC 8 (The Retail Therapy Channel)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8"
+      },
+      {
+        "name": "HSN (Home Shopping Network) (West)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8"
+      },
+      {
+        "name": "HSN (Home Shopping Network) (East)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8"
+      },
+      {
+        "name": "HSN 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8"
+      },
+      {
+        "name": "Shop HQ",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://live.shophq.com/evine/cleanfeed/master.m3u8"
+      },
+      {
+        "name": "Shop LC",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8"
+      },
+      {
+        "name": "JTV (Jewelry Television)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8"
+      },
+      {
+        "name": "JTV 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Shopping",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8"
+      }
+    ],
+    "ESPN+": [
+      {
+        "name": "ESPN+ 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/13612.ts"
+      },
+      {
+        "name": "ESPN+ 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/82369.ts"
+      },
+      {
+        "name": "ESPN+ 3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/100697.ts"
+      },
+      {
+        "name": "ESPN+ 4",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/80010.ts"
+      },
+      {
+        "name": "ESPN+ 5",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/58847.ts"
+      },
+      {
+        "name": "ESPN+ 6",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/64548.ts"
+      },
+      {
+        "name": "ESPN+ 7",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/42726.ts"
+      },
+      {
+        "name": "ESPN+ 8",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/6718.ts"
+      },
+      {
+        "name": "ESPN+ 9",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/49409.ts"
+      },
+      {
+        "name": "ESPN+ 10",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/73971.ts"
+      },
+      {
+        "name": "ESPN+ 11",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/86778.ts"
+      },
+      {
+        "name": "ESPN+ 12",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/86802.ts"
+      },
+      {
+        "name": "ESPN+ 13",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/80491.ts"
+      },
+      {
+        "name": "ESPN+ 14",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/12824.ts"
+      },
+      {
+        "name": "ESPN+ 15",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/38203.ts"
+      },
+      {
+        "name": "ESPN+ 16",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/87341.ts"
+      },
+      {
+        "name": "ESPN+ 17",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/18011.ts"
+      },
+      {
+        "name": "ESPN+ 18",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/74390.ts"
+      },
+      {
+        "name": "ESPN+ 19",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/2357.ts"
+      },
+      {
+        "name": "ESPN+ 20",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/70517.ts"
+      },
+      {
+        "name": "ESPN+ 21",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/11136.ts"
+      },
+      {
+        "name": "ESPN+ 22",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/37091.ts"
+      },
+      {
+        "name": "ESPN+ 23",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/83889.ts"
+      },
+      {
+        "name": "ESPN+ 24",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/24763.ts"
+      },
+      {
+        "name": "ESPN+ 25",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/111401.ts"
+      },
+      {
+        "name": "ESPN+ 26",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/12444.ts"
+      },
+      {
+        "name": "ESPN+ 27",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/81256.ts"
+      },
+      {
+        "name": "ESPN+ 28",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/81013.ts"
+      },
+      {
+        "name": "ESPN+ 29",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/96441.ts"
+      },
+      {
+        "name": "ESPN+ 30",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/95000.ts"
+      },
+      {
+        "name": "ESPN+ 31",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/93599.ts"
+      },
+      {
+        "name": "ESPN+ 32",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/80463.ts"
+      },
+      {
+        "name": "ESPN+ 33",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/97614.ts"
+      },
+      {
+        "name": "ESPN+ 34",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/72289.ts"
+      },
+      {
+        "name": "ESPN+ 35",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/72862.ts"
+      },
+      {
+        "name": "ESPN+ 36",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/63366.ts"
+      },
+      {
+        "name": "ESPN+ 37",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/22652.ts"
+      },
+      {
+        "name": "ESPN+ 38",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/26982.ts"
+      },
+      {
+        "name": "ESPN+ 39",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/49740.ts"
+      },
+      {
+        "name": "ESPN+ 40",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/19077.ts"
+      },
+      {
+        "name": "ESPN+ 41",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/85061.ts"
+      },
+      {
+        "name": "ESPN+ 42",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/19267.ts"
+      },
+      {
+        "name": "ESPN+ 43",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/88734.ts"
+      },
+      {
+        "name": "ESPN+ 44",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/13722.ts"
+      },
+      {
+        "name": "ESPN+ 45",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/48213.ts"
+      },
+      {
+        "name": "ESPN+ 46",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/6740.ts"
+      },
+      {
+        "name": "ESPN+ 47",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/61271.ts"
+      },
+      {
+        "name": "ESPN+ 48",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/52777.ts"
+      },
+      {
+        "name": "ESPN+ 49",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/23579.ts"
+      },
+      {
+        "name": "ESPN+ 50",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/9860.ts"
+      },
+      {
+        "name": "ESPN+ 51",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/70100.ts"
+      },
+      {
+        "name": "ESPN+ 52",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/25635.ts"
+      },
+      {
+        "name": "ESPN+ 53",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/67871.ts"
+      },
+      {
+        "name": "ESPN+ 54",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/25764.ts"
+      },
+      {
+        "name": "ESPN+ 55",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/13685.ts"
+      },
+      {
+        "name": "ESPN+ 56",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/10791.ts"
+      },
+      {
+        "name": "ESPN+ 57",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/44309.ts"
+      },
+      {
+        "name": "ESPN+ 58",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/31905.ts"
+      },
+      {
+        "name": "ESPN+ 59",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/82184.ts"
+      },
+      {
+        "name": "ESPN+ 60",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/49621.ts"
+      },
+      {
+        "name": "ESPN+ 61",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/74809.ts"
+      },
+      {
+        "name": "ESPN+ 62",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/62082.ts"
+      },
+      {
+        "name": "ESPN+ 63",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/60043.ts"
+      },
+      {
+        "name": "ESPN+ 64",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/39115.ts"
+      },
+      {
+        "name": "ESPN+ 65",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/29778.ts"
+      },
+      {
+        "name": "ESPN+ 66",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/55713.ts"
+      },
+      {
+        "name": "ESPN+ 67",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/76492.ts"
+      },
+      {
+        "name": "ESPN+ 68",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/111967.ts"
+      },
+      {
+        "name": "ESPN+ 69",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/62580.ts"
+      },
+      {
+        "name": "ESPN+ 70",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/67110.ts"
+      },
+      {
+        "name": "ESPN+ 71",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/93424.ts"
+      },
+      {
+        "name": "ESPN+ 72",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/51358.ts"
+      },
+      {
+        "name": "ESPN+ 73",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/20885.ts"
+      },
+      {
+        "name": "ESPN+ 74",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/85245.ts"
+      },
+      {
+        "name": "ESPN+ 75",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/83018.ts"
+      },
+      {
+        "name": "ESPN+ 76",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/20502.ts"
+      },
+      {
+        "name": "ESPN+ 77",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/53153.ts"
+      },
+      {
+        "name": "ESPN+ 78",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/19850.ts"
+      },
+      {
+        "name": "ESPN+ 79",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/87918.ts"
+      },
+      {
+        "name": "ESPN+ 80",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/88226.ts"
+      },
+      {
+        "name": "ESPN+ 81",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/34410.ts"
+      },
+      {
+        "name": "ESPN+ 82",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/420.ts"
+      },
+      {
+        "name": "ESPN+ 83",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/52668.ts"
+      },
+      {
+        "name": "ESPN+ 84",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/103174.ts"
+      },
+      {
+        "name": "ESPN+ 85",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/110879.ts"
+      },
+      {
+        "name": "ESPN+ 86",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/45965.ts"
+      },
+      {
+        "name": "ESPN+ 87",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/42004.ts"
+      },
+      {
+        "name": "ESPN+ 88",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/40607.ts"
+      },
+      {
+        "name": "ESPN+ 89",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/23116.ts"
+      },
+      {
+        "name": "ESPN+ 90",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/62583.ts"
+      },
+      {
+        "name": "ESPN+ 91",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/8012.ts"
+      },
+      {
+        "name": "ESPN+ 92",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/87048.ts"
+      },
+      {
+        "name": "ESPN+ 93",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/57348.ts"
+      },
+      {
+        "name": "ESPN+ 94",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/41100.ts"
+      },
+      {
+        "name": "ESPN+ 95",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/42071.ts"
+      },
+      {
+        "name": "ESPN+ 96",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/88801.ts"
+      },
+      {
+        "name": "ESPN+ 97",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/11502.ts"
+      },
+      {
+        "name": "ESPN+ 98",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/5769.ts"
+      },
+      {
+        "name": "ESPN+ 99",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/60573.ts"
+      },
+      {
+        "name": "ESPN+ 100",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/22042.ts"
+      },
+      {
+        "name": "ESPN+ 101",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/67981.ts"
+      },
+      {
+        "name": "ESPN+ 102",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/77365.ts"
+      },
+      {
+        "name": "ESPN+ 103",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/22580.ts"
+      },
+      {
+        "name": "ESPN+ 104",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/88640.ts"
+      },
+      {
+        "name": "ESPN+ 105",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/82651.ts"
+      },
+      {
+        "name": "ESPN+ 106",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/91074.ts"
+      },
+      {
+        "name": "ESPN+ 107",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/59101.ts"
+      },
+      {
+        "name": "ESPN+ 108",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/78196.ts"
+      },
+      {
+        "name": "ESPN+ 109",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/35709.ts"
+      },
+      {
+        "name": "ESPN+ 110",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ESPN+",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://nonamevos.com:80/live/4500/4500/29518.ts"
+      }
+    ],
+    "MLB": [
+      {
+        "name": "MLB | Arizona Diamondbacks",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390398.ts"
+      },
+      {
+        "name": "MLB | Atlanta Braves",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390399.ts"
+      },
+      {
+        "name": "MLB | Baltimore Orioles",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390400.ts"
+      },
+      {
+        "name": "MLB | Boston Red Sox",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390401.ts"
+      },
+      {
+        "name": "MLB | Chicago Cubs",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390402.ts"
+      },
+      {
+        "name": "MLB | Chicago White Sox",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390406.ts"
+      },
+      {
+        "name": "MLB | Cincinnati Reds",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390403.ts"
+      },
+      {
+        "name": "MLB | Cleveland Guardians",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390404.ts"
+      },
+      {
+        "name": "MLB | Colorado Rockies",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390405.ts"
+      },
+      {
+        "name": "MLB | Detroit Tigers",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390407.ts"
+      },
+      {
+        "name": "MLB | Houston Astros",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390408.ts"
+      },
+      {
+        "name": "MLB | Kansas City Royals",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390409.ts"
+      },
+      {
+        "name": "MLB | Los Angeles Angels",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390410.ts"
+      },
+      {
+        "name": "MLB | Los Angeles Dodgers",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390411.ts"
+      },
+      {
+        "name": "MLB | Miami Marlins",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390412.ts"
+      },
+      {
+        "name": "MLB | Milwaukee Brewers",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390413.ts"
+      },
+      {
+        "name": "MLB | Minnesota Twins",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390414.ts"
+      },
+      {
+        "name": "MLB | New York Mets",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390415.ts"
+      },
+      {
+        "name": "MLB | New York Yankees",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390416.ts"
+      },
+      {
+        "name": "MLB | Oakland Athletics",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390417.ts"
+      },
+      {
+        "name": "MLB | Philadelphia Phillies",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390418.ts"
+      },
+      {
+        "name": "MLB | Pittsburgh Pirates",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390419.ts"
+      },
+      {
+        "name": "MLB | San Diego Padres",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390420.ts"
+      },
+      {
+        "name": "MLB | San Francisco Giants",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390422.ts"
+      },
+      {
+        "name": "MLB | Seattle Mariners",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390421.ts"
+      },
+      {
+        "name": "MLB | St. Louis Cardinals",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390423.ts"
+      },
+      {
+        "name": "MLB | Tampa Bay Rays",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390424.ts"
+      },
+      {
+        "name": "MLB | Texas Rangers",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390425.ts"
+      },
+      {
+        "name": "MLB | Toronto Blue Jays",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390426.ts"
+      },
+      {
+        "name": "MLB | Washington Nations",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "MLB",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390427.ts"
+      }
+    ],
+    "Premium Channels": [
       {
         "name": "HBO (West)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -28759,1104 +29857,6 @@
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://hardcoremedia.xyz:80/BG992263/38692743/254177"
-      }
-    ],
-    "Shopping": [
-      {
-        "name": "QVC (West)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8"
-      },
-      {
-        "name": "QVC (East)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
-      },
-      {
-        "name": "QVC 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
-      },
-      {
-        "name": "QVC 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
-      },
-      {
-        "name": "QVC 4 (In The Kitchen)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
-      },
-      {
-        "name": "QVC 5 (Fashion Finds)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8"
-      },
-      {
-        "name": "QVC 6 (Holiday Headquarters)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8"
-      },
-      {
-        "name": "QVC 7 (The Big Dish Channel)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8"
-      },
-      {
-        "name": "QVC 8 (The Retail Therapy Channel)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8"
-      },
-      {
-        "name": "HSN (Home Shopping Network) (West)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8"
-      },
-      {
-        "name": "HSN (Home Shopping Network) (East)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8"
-      },
-      {
-        "name": "HSN 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8"
-      },
-      {
-        "name": "Shop HQ",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://live.shophq.com/evine/cleanfeed/master.m3u8"
-      },
-      {
-        "name": "Shop LC",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8"
-      },
-      {
-        "name": "JTV (Jewelry Television)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8"
-      },
-      {
-        "name": "JTV 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Shopping",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8"
-      }
-    ],
-    "ESPN+": [
-      {
-        "name": "ESPN+ 1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/13612.ts"
-      },
-      {
-        "name": "ESPN+ 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/82369.ts"
-      },
-      {
-        "name": "ESPN+ 3",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/100697.ts"
-      },
-      {
-        "name": "ESPN+ 4",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/80010.ts"
-      },
-      {
-        "name": "ESPN+ 5",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/58847.ts"
-      },
-      {
-        "name": "ESPN+ 6",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/64548.ts"
-      },
-      {
-        "name": "ESPN+ 7",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/42726.ts"
-      },
-      {
-        "name": "ESPN+ 8",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/6718.ts"
-      },
-      {
-        "name": "ESPN+ 9",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/49409.ts"
-      },
-      {
-        "name": "ESPN+ 10",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/73971.ts"
-      },
-      {
-        "name": "ESPN+ 11",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/86778.ts"
-      },
-      {
-        "name": "ESPN+ 12",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/86802.ts"
-      },
-      {
-        "name": "ESPN+ 13",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/80491.ts"
-      },
-      {
-        "name": "ESPN+ 14",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/12824.ts"
-      },
-      {
-        "name": "ESPN+ 15",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/38203.ts"
-      },
-      {
-        "name": "ESPN+ 16",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/87341.ts"
-      },
-      {
-        "name": "ESPN+ 17",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/18011.ts"
-      },
-      {
-        "name": "ESPN+ 18",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/74390.ts"
-      },
-      {
-        "name": "ESPN+ 19",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/2357.ts"
-      },
-      {
-        "name": "ESPN+ 20",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/70517.ts"
-      },
-      {
-        "name": "ESPN+ 21",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/11136.ts"
-      },
-      {
-        "name": "ESPN+ 22",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/37091.ts"
-      },
-      {
-        "name": "ESPN+ 23",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/83889.ts"
-      },
-      {
-        "name": "ESPN+ 24",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/24763.ts"
-      },
-      {
-        "name": "ESPN+ 25",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/111401.ts"
-      },
-      {
-        "name": "ESPN+ 26",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/12444.ts"
-      },
-      {
-        "name": "ESPN+ 27",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/81256.ts"
-      },
-      {
-        "name": "ESPN+ 28",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/81013.ts"
-      },
-      {
-        "name": "ESPN+ 29",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/96441.ts"
-      },
-      {
-        "name": "ESPN+ 30",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/95000.ts"
-      },
-      {
-        "name": "ESPN+ 31",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/93599.ts"
-      },
-      {
-        "name": "ESPN+ 32",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/80463.ts"
-      },
-      {
-        "name": "ESPN+ 33",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/97614.ts"
-      },
-      {
-        "name": "ESPN+ 34",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/72289.ts"
-      },
-      {
-        "name": "ESPN+ 35",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/72862.ts"
-      },
-      {
-        "name": "ESPN+ 36",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/63366.ts"
-      },
-      {
-        "name": "ESPN+ 37",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/22652.ts"
-      },
-      {
-        "name": "ESPN+ 38",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/26982.ts"
-      },
-      {
-        "name": "ESPN+ 39",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/49740.ts"
-      },
-      {
-        "name": "ESPN+ 40",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/19077.ts"
-      },
-      {
-        "name": "ESPN+ 41",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/85061.ts"
-      },
-      {
-        "name": "ESPN+ 42",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/19267.ts"
-      },
-      {
-        "name": "ESPN+ 43",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/88734.ts"
-      },
-      {
-        "name": "ESPN+ 44",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/13722.ts"
-      },
-      {
-        "name": "ESPN+ 45",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/48213.ts"
-      },
-      {
-        "name": "ESPN+ 46",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/6740.ts"
-      },
-      {
-        "name": "ESPN+ 47",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/61271.ts"
-      },
-      {
-        "name": "ESPN+ 48",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/52777.ts"
-      },
-      {
-        "name": "ESPN+ 49",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/23579.ts"
-      },
-      {
-        "name": "ESPN+ 50",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/9860.ts"
-      },
-      {
-        "name": "ESPN+ 51",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/70100.ts"
-      },
-      {
-        "name": "ESPN+ 52",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/25635.ts"
-      },
-      {
-        "name": "ESPN+ 53",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/67871.ts"
-      },
-      {
-        "name": "ESPN+ 54",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/25764.ts"
-      },
-      {
-        "name": "ESPN+ 55",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/13685.ts"
-      },
-      {
-        "name": "ESPN+ 56",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/10791.ts"
-      },
-      {
-        "name": "ESPN+ 57",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/44309.ts"
-      },
-      {
-        "name": "ESPN+ 58",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/31905.ts"
-      },
-      {
-        "name": "ESPN+ 59",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/82184.ts"
-      },
-      {
-        "name": "ESPN+ 60",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/49621.ts"
-      },
-      {
-        "name": "ESPN+ 61",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/74809.ts"
-      },
-      {
-        "name": "ESPN+ 62",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/62082.ts"
-      },
-      {
-        "name": "ESPN+ 63",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/60043.ts"
-      },
-      {
-        "name": "ESPN+ 64",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/39115.ts"
-      },
-      {
-        "name": "ESPN+ 65",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/29778.ts"
-      },
-      {
-        "name": "ESPN+ 66",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/55713.ts"
-      },
-      {
-        "name": "ESPN+ 67",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/76492.ts"
-      },
-      {
-        "name": "ESPN+ 68",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/111967.ts"
-      },
-      {
-        "name": "ESPN+ 69",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/62580.ts"
-      },
-      {
-        "name": "ESPN+ 70",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/67110.ts"
-      },
-      {
-        "name": "ESPN+ 71",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/93424.ts"
-      },
-      {
-        "name": "ESPN+ 72",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/51358.ts"
-      },
-      {
-        "name": "ESPN+ 73",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/20885.ts"
-      },
-      {
-        "name": "ESPN+ 74",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/85245.ts"
-      },
-      {
-        "name": "ESPN+ 75",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/83018.ts"
-      },
-      {
-        "name": "ESPN+ 76",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/20502.ts"
-      },
-      {
-        "name": "ESPN+ 77",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/53153.ts"
-      },
-      {
-        "name": "ESPN+ 78",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/19850.ts"
-      },
-      {
-        "name": "ESPN+ 79",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/87918.ts"
-      },
-      {
-        "name": "ESPN+ 80",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/88226.ts"
-      },
-      {
-        "name": "ESPN+ 81",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/34410.ts"
-      },
-      {
-        "name": "ESPN+ 82",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/420.ts"
-      },
-      {
-        "name": "ESPN+ 83",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/52668.ts"
-      },
-      {
-        "name": "ESPN+ 84",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/103174.ts"
-      },
-      {
-        "name": "ESPN+ 85",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/110879.ts"
-      },
-      {
-        "name": "ESPN+ 86",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/45965.ts"
-      },
-      {
-        "name": "ESPN+ 87",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/42004.ts"
-      },
-      {
-        "name": "ESPN+ 88",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/40607.ts"
-      },
-      {
-        "name": "ESPN+ 89",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/23116.ts"
-      },
-      {
-        "name": "ESPN+ 90",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/62583.ts"
-      },
-      {
-        "name": "ESPN+ 91",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/8012.ts"
-      },
-      {
-        "name": "ESPN+ 92",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/87048.ts"
-      },
-      {
-        "name": "ESPN+ 93",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/57348.ts"
-      },
-      {
-        "name": "ESPN+ 94",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/41100.ts"
-      },
-      {
-        "name": "ESPN+ 95",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/42071.ts"
-      },
-      {
-        "name": "ESPN+ 96",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/88801.ts"
-      },
-      {
-        "name": "ESPN+ 97",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/11502.ts"
-      },
-      {
-        "name": "ESPN+ 98",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/5769.ts"
-      },
-      {
-        "name": "ESPN+ 99",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/60573.ts"
-      },
-      {
-        "name": "ESPN+ 100",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/22042.ts"
-      },
-      {
-        "name": "ESPN+ 101",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/67981.ts"
-      },
-      {
-        "name": "ESPN+ 102",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/77365.ts"
-      },
-      {
-        "name": "ESPN+ 103",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/22580.ts"
-      },
-      {
-        "name": "ESPN+ 104",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/88640.ts"
-      },
-      {
-        "name": "ESPN+ 105",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/82651.ts"
-      },
-      {
-        "name": "ESPN+ 106",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/91074.ts"
-      },
-      {
-        "name": "ESPN+ 107",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/59101.ts"
-      },
-      {
-        "name": "ESPN+ 108",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/78196.ts"
-      },
-      {
-        "name": "ESPN+ 109",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/35709.ts"
-      },
-      {
-        "name": "ESPN+ 110",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "ESPN+",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://nonamevos.com:80/live/4500/4500/29518.ts"
-      }
-    ],
-    "MLB": [
-      {
-        "name": "MLB | Arizona Diamondbacks",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390398.ts"
-      },
-      {
-        "name": "MLB | Atlanta Braves",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390399.ts"
-      },
-      {
-        "name": "MLB | Baltimore Orioles",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390400.ts"
-      },
-      {
-        "name": "MLB | Boston Red Sox",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390401.ts"
-      },
-      {
-        "name": "MLB | Chicago Cubs",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390402.ts"
-      },
-      {
-        "name": "MLB | Chicago White Sox",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390406.ts"
-      },
-      {
-        "name": "MLB | Cincinnati Reds",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390403.ts"
-      },
-      {
-        "name": "MLB | Cleveland Guardians",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390404.ts"
-      },
-      {
-        "name": "MLB | Colorado Rockies",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390405.ts"
-      },
-      {
-        "name": "MLB | Detroit Tigers",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390407.ts"
-      },
-      {
-        "name": "MLB | Houston Astros",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390408.ts"
-      },
-      {
-        "name": "MLB | Kansas City Royals",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390409.ts"
-      },
-      {
-        "name": "MLB | Los Angeles Angels",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390410.ts"
-      },
-      {
-        "name": "MLB | Los Angeles Dodgers",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390411.ts"
-      },
-      {
-        "name": "MLB | Miami Marlins",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390412.ts"
-      },
-      {
-        "name": "MLB | Milwaukee Brewers",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390413.ts"
-      },
-      {
-        "name": "MLB | Minnesota Twins",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390414.ts"
-      },
-      {
-        "name": "MLB | New York Mets",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390415.ts"
-      },
-      {
-        "name": "MLB | New York Yankees",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390416.ts"
-      },
-      {
-        "name": "MLB | Oakland Athletics",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390417.ts"
-      },
-      {
-        "name": "MLB | Philadelphia Phillies",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390418.ts"
-      },
-      {
-        "name": "MLB | Pittsburgh Pirates",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390419.ts"
-      },
-      {
-        "name": "MLB | San Diego Padres",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390420.ts"
-      },
-      {
-        "name": "MLB | San Francisco Giants",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390422.ts"
-      },
-      {
-        "name": "MLB | Seattle Mariners",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390421.ts"
-      },
-      {
-        "name": "MLB | St. Louis Cardinals",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390423.ts"
-      },
-      {
-        "name": "MLB | Tampa Bay Rays",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390424.ts"
-      },
-      {
-        "name": "MLB | Texas Rangers",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390425.ts"
-      },
-      {
-        "name": "MLB | Toronto Blue Jays",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390426.ts"
-      },
-      {
-        "name": "MLB | Washington Nations",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "MLB",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390427.ts"
       }
     ],
     "PPV (Pay Per View)": [

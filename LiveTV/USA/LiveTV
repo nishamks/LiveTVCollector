@@ -23340,6 +23340,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Pure Flix TV",
+    "type": "Network Channels",
+    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Dr. Phil's Merit TV (Merit Street)",
     "type": "Network Channels",
     "url": "https://amg26296-amg26296c2-merit-worldwide-6642.playouts.now.amagi.tv/playlist/amg26296-meritstreetmediafast-meritplushd-meritworldwide/playlist.m3u8",
@@ -23406,9 +23412,939 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Pure Flix TV",
-    "type": "Premium Channels",
-    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/257231.ts",
+    "name": "QVC (West)",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC (East)",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 2",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 3",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 4 (In The Kitchen)",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 5 (Fashion Finds)",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 6 (Holiday Headquarters)",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 7 (The Big Dish Channel)",
+    "type": "Shopping",
+    "url": "https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QVC 8 (The Retail Therapy Channel)",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "HSN (Home Shopping Network) (West)",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "HSN (Home Shopping Network) (East)",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "HSN 2",
+    "type": "Shopping",
+    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Shop HQ",
+    "type": "Shopping",
+    "url": "http://live.shophq.com/evine/cleanfeed/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Shop LC",
+    "type": "Shopping",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "JTV (Jewelry Television)",
+    "type": "Shopping",
+    "url": "http://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "JTV 2",
+    "type": "Shopping",
+    "url": "http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 1",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/13612.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 2",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/82369.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 3",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/100697.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 4",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/80010.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 5",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/58847.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 6",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/64548.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 7",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/42726.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 8",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/6718.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 9",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/49409.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 10",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/73971.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 11",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/86778.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 12",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/86802.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 13",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/80491.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 14",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/12824.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 15",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/38203.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 16",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/87341.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 17",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/18011.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 18",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/74390.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 19",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/2357.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 20",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/70517.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 21",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/11136.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 22",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/37091.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 23",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/83889.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 24",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/24763.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 25",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/111401.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 26",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/12444.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 27",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/81256.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 28",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/81013.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 29",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/96441.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 30",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/95000.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 31",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/93599.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 32",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/80463.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 33",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/97614.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 34",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/72289.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 35",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/72862.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 36",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/63366.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 37",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/22652.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 38",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/26982.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 39",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/49740.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 40",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/19077.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 41",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/85061.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 42",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/19267.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 43",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/88734.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 44",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/13722.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 45",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/48213.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 46",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/6740.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 47",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/61271.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 48",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/52777.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 49",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/23579.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 50",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/9860.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 51",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/70100.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 52",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/25635.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 53",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/67871.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 54",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/25764.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 55",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/13685.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 56",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/10791.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 57",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/44309.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 58",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/31905.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 59",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/82184.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 60",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/49621.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 61",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/74809.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 62",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/62082.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 63",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/60043.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 64",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/39115.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 65",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/29778.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 66",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/55713.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 67",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/76492.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 68",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/111967.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 69",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/62580.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 70",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/67110.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 71",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/93424.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 72",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/51358.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 73",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/20885.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 74",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/85245.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 75",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/83018.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 76",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/20502.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 77",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/53153.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 78",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/19850.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 79",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/87918.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 80",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/88226.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 81",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/34410.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 82",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/420.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 83",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/52668.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 84",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/103174.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 85",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/110879.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 86",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/45965.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 87",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/42004.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 88",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/40607.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 89",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/23116.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 90",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/62583.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 91",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/8012.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 92",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/87048.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 93",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/57348.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 94",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/41100.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 95",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/42071.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 96",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/88801.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 97",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/11502.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 98",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/5769.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 99",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/60573.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 100",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/22042.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 101",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/67981.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 102",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/77365.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 103",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/22580.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 104",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/88640.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 105",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/82651.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 106",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/91074.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 107",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/59101.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 108",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/78196.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 109",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/35709.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN+ 110",
+    "type": "ESPN+",
+    "url": "http://nonamevos.com:80/live/4500/4500/29518.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Arizona Diamondbacks",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390398.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Atlanta Braves",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390399.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Baltimore Orioles",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390400.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Boston Red Sox",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390401.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Chicago Cubs",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390402.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Chicago White Sox",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390406.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Cincinnati Reds",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390403.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Cleveland Guardians",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390404.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Colorado Rockies",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390405.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Detroit Tigers",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390407.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Houston Astros",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390408.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Kansas City Royals",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390409.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Los Angeles Angels",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390410.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Los Angeles Dodgers",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390411.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Miami Marlins",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390412.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Milwaukee Brewers",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390413.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Minnesota Twins",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390414.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | New York Mets",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390415.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | New York Yankees",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390416.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Oakland Athletics",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390417.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Philadelphia Phillies",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390418.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Pittsburgh Pirates",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390419.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | San Diego Padres",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390420.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | San Francisco Giants",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390422.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Seattle Mariners",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390421.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | St. Louis Cardinals",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390423.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Tampa Bay Rays",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390424.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Texas Rangers",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390425.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Toronto Blue Jays",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390426.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB | Washington Nations",
+    "type": "MLB",
+    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390427.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -24489,942 +25425,6 @@
     "name": "CineBox | Western",
     "type": "Premium Channels",
     "url": "http://hardcoremedia.xyz:80/BG992263/38692743/254177",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC (West)",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC (East)",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC 2",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC 3",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC 4 (In The Kitchen)",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC 5 (Fashion Finds)",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC 6 (Holiday Headquarters)",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC 7 (The Big Dish Channel)",
-    "type": "Shopping",
-    "url": "https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "QVC 8 (The Retail Therapy Channel)",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc8us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HSN (Home Shopping Network) (West)",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HSN (Home Shopping Network) (East)",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "HSN 2",
-    "type": "Shopping",
-    "url": "http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Shop HQ",
-    "type": "Shopping",
-    "url": "http://live.shophq.com/evine/cleanfeed/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Shop LC",
-    "type": "Shopping",
-    "url": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "JTV (Jewelry Television)",
-    "type": "Shopping",
-    "url": "http://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "JTV 2",
-    "type": "Shopping",
-    "url": "http://content.jwplatform.com/live/broadcast/RW3cCwlw.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 1",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/13612.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 2",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/82369.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 3",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/100697.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 4",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/80010.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 5",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/58847.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 6",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/64548.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 7",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/42726.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 8",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/6718.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 9",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/49409.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 10",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/73971.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 11",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/86778.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 12",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/86802.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 13",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/80491.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 14",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/12824.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 15",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/38203.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 16",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/87341.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 17",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/18011.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 18",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/74390.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 19",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/2357.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 20",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/70517.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 21",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/11136.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 22",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/37091.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 23",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/83889.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 24",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/24763.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 25",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/111401.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 26",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/12444.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 27",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/81256.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 28",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/81013.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 29",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/96441.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 30",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/95000.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 31",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/93599.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 32",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/80463.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 33",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/97614.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 34",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/72289.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 35",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/72862.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 36",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/63366.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 37",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/22652.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 38",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/26982.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 39",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/49740.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 40",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/19077.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 41",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/85061.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 42",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/19267.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 43",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/88734.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 44",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/13722.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 45",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/48213.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 46",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/6740.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 47",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/61271.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 48",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/52777.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 49",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/23579.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 50",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/9860.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 51",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/70100.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 52",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/25635.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 53",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/67871.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 54",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/25764.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 55",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/13685.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 56",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/10791.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 57",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/44309.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 58",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/31905.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 59",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/82184.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 60",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/49621.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 61",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/74809.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 62",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/62082.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 63",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/60043.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 64",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/39115.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 65",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/29778.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 66",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/55713.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 67",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/76492.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 68",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/111967.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 69",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/62580.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 70",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/67110.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 71",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/93424.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 72",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/51358.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 73",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/20885.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 74",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/85245.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 75",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/83018.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 76",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/20502.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 77",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/53153.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 78",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/19850.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 79",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/87918.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 80",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/88226.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 81",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/34410.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 82",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/420.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 83",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/52668.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 84",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/103174.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 85",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/110879.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 86",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/45965.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 87",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/42004.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 88",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/40607.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 89",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/23116.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 90",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/62583.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 91",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/8012.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 92",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/87048.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 93",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/57348.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 94",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/41100.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 95",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/42071.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 96",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/88801.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 97",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/11502.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 98",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/5769.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 99",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/60573.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 100",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/22042.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 101",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/67981.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 102",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/77365.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 103",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/22580.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 104",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/88640.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 105",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/82651.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 106",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/91074.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 107",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/59101.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 108",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/78196.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 109",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/35709.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN+ 110",
-    "type": "ESPN+",
-    "url": "http://nonamevos.com:80/live/4500/4500/29518.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Arizona Diamondbacks",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390398.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Atlanta Braves",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390399.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Baltimore Orioles",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390400.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Boston Red Sox",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390401.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Chicago Cubs",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390402.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Chicago White Sox",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390406.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Cincinnati Reds",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390403.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Cleveland Guardians",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390404.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Colorado Rockies",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390405.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Detroit Tigers",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390407.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Houston Astros",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390408.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Kansas City Royals",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390409.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Los Angeles Angels",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390410.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Los Angeles Dodgers",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390411.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Miami Marlins",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390412.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Milwaukee Brewers",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390413.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Minnesota Twins",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390414.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | New York Mets",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390415.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | New York Yankees",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390416.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Oakland Athletics",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390417.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Philadelphia Phillies",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390418.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Pittsburgh Pirates",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390419.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | San Diego Padres",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390420.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | San Francisco Giants",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390422.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Seattle Mariners",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390421.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | St. Louis Cardinals",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390423.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Tampa Bay Rays",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390424.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Texas Rangers",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390425.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Toronto Blue Jays",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390426.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MLB | Washington Nations",
-    "type": "MLB",
-    "url": "http://user.scalecdn.co:8080/live/26725074/92867131/390427.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
