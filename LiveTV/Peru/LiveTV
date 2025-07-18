@@ -2942,7 +2942,7 @@
   {
     "name": "| RETRO TV ᴴᴰ |",
     "type": "INFANTILES",
-    "url": "https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/chocobeats/chunks.m3u8",
     "img": "https://i.imgur.com/NvdxH5Y.jpeg"
   },
   {
@@ -2962,12 +2962,6 @@
     "type": "INFANTILES",
     "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
     "img": "https://i.imgur.com/RVb6sTv.jpeg"
-  },
-  {
-    "name": "| BAYRES TV HD |",
-    "type": "INFANTILES",
-    "url": "https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "| HIPER TV |",
