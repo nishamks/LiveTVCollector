@@ -20484,6 +20484,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "HITN",
+    "type": "Latino (Spanish)",
+    "url": "http://vocotv.pro:80/live/gast/gast/636619.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Taste Made en Español",
     "type": "Latino (Spanish)",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8",
@@ -24842,7 +24848,19 @@
   {
     "name": "MGM+ Marquee",
     "type": "Premium Channels",
-    "url": "http://hardcoremedia.xyz:80/live/BG992263/38692743/129989.ts",
+    "url": "http://vocotv.pro:80/live/gast/gast/802.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Flix (West)",
+    "type": "Premium Channels",
+    "url": "http://vocotv.pro:80/live/gast/gast/295772.ts",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Flix (East)",
+    "type": "Premium Channels",
+    "url": "http://vocotv.pro:80/live/gast/gast/295792.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
