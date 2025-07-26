@@ -1,219 +1,223 @@
-#EXTM3U tvg-updated="2025-07-21T02:18:02+00:00"
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:28+00:00",Ekattor TV
+#EXTM3U tvg-updated="2025-07-26T02:08:51+00:00"
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:00+00:00",Ekattor TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ekattor_tv_f3a4c7ba.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:28+00:00",NEWS 24 HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/news_24_hd_1f032011.m3u8
-#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:29+00:00",BTV World
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:01+00:00",BTV World
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/btv_world_3ed43667.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:30+00:00",JAMUNA TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:01+00:00",NEWS 24 HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/news_24_hd_1f032011.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:02+00:00",JAMUNA TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/jamuna_tv_8f86e9df.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:31+00:00",INDEPENDENT TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:03+00:00",SOMOY TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/somoy_tv_8980bbca.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:04+00:00",INDEPENDENT TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/independent_tv_a1567ac0.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:32+00:00",Channel 24
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:05+00:00",Channel 24
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/channel_24_19576259.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:33+00:00",RTV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:06+00:00",RTV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/rtv_2fff91bd.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:34+00:00",ATN NEWS [BD]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/atn_news_bd_4d637374.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:35+00:00",DBC News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:06+00:00",DBC News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/dbc_news_5f092be9.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:36+00:00",SATV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:07+00:00",ATN NEWS [BD]
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/atn_news_bd_4d637374.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:08+00:00",SATV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/satv_b99c62e9.m3u8
-#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:37+00:00",NTV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ntv_5e6028b0.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:38+00:00",Channel I
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:08+00:00",Channel I
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/channel_i_61608dbc.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:39+00:00",Banglavision
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:10+00:00",NTV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ntv_5e6028b0.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:10+00:00",Banglavision
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/banglavision_4c031ff8.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:40+00:00",Deepto TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:11+00:00",Deepto TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/deepto_tv_2819812b.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:41+00:00",Ekushey TV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:12+00:00",Ekushey TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ekushey_tv_1af92712.m3u8
-#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:41+00:00",Desh TV
+#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:13+00:00",Desh TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/desh_tv_4c8bb589.m3u8
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:41+00:00",Bangla TV
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:13+00:00",Bangla TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/bangla_tv_c9829a06.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:42+00:00",Mohona Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:13+00:00",Mohona Tv
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/mohona_tv_b7d39776.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:43+00:00",BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:15+00:00",BOISHAKHI TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/boishakhi_tv_2085b8be.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:44+00:00",Kumilla tv
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:15+00:00",Asian TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/asian_tv_d28ecfdf.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:17+00:00",Kumilla tv
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/kumilla_tv_de1f6952.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:46+00:00",Me-tv
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:19+00:00",Me-tv
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/metv_2a43828e.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:46+00:00",Deshi tv
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/deshi_tv_4db67e7b.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:46+00:00",Sananda tv
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sananda_tv_b7523dca.m3u8
-#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:46+00:00",Deshi Tv
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/deshi_tv_77bdbd5f.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:47+00:00",IB TV USA
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ib_tv_usa_5106d14e.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:48+00:00",Amar Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/amar_bangla_3b494e98.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:49+00:00",Kushbo tv
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/kushbo_tv_6fbd562b.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:49+00:00",Amar Digital
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/amar_digital_cff8a6c9.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:50+00:00",DEPTO BANGLA HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/depto_bangla_hd_86380483.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:51+00:00",DesheBideshe
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/deshebideshe_d76dae8d.m3u8
-#EXTINF:-1 tvg-logo="https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:51+00:00",Time Televison
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/time_televison_ac73fe90.m3u8
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:52+00:00",iON TV Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ion_tv_bangla_24e68b49.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="BANGLA" tvg-last-checked="2025-07-21T02:16:52+00:00",PeaceTvBangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/peacetvbangla_f4bae051.m3u8
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:16:53+00:00",Live Sports-1
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/live_sports1_a892fbf4.m3u8
-#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:16:54+00:00",Live Sports-3
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/live_sports3_5e6e7a3e.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:16:55+00:00",GAZI TV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/gazi_tv_f66a2127.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:16:56+00:00",T-Sports [1]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tsports_1_ef36432c.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:16:57+00:00",T-Sports [2]
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tsports_2_11a013e1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS" tvg-last-checked="2025-07-21T02:16:59+00:00",Geo Super TV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/geo_super_tv_188ceaa1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:16:59+00:00",BeIN Sports Extra
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/bein_sports_extra_8e59512c.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:00+00:00",RTV Sports
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/rtv_sports_b474b048.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:00+00:00",Raching.com
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/rachingcom_fde32896.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:01+00:00",Sport Italia So
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sport_italia_so_a1a2dc7a.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:01+00:00",Oman Sports TV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/oman_sports_tv_f7b3232f.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:01+00:00",SportsGrid
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sportsgrid_7bc5e0c5.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:01+00:00",Tennis Channel
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tennis_channel_731a566f.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:02+00:00",Trace Sports Stars
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/trace_sports_stars_58714535.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:02+00:00",BeiN Sports Extra
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/bein_sports_extra_054f76b6.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:02+00:00",Europe  Sports 2 HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/europe_sports_2_hd_ffd48b2b.m3u8
-#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:03+00:00",Europe Sports 1 HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/europe_sports_1_hd_c704abb3.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:03+00:00",Live
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/live_226f842e.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:04+00:00",Sky Sports Action
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sky_sports_action_0bca3b67.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:05+00:00",Live Sports Football Laliga
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/live_sports_football_laliga_7c73e614.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-21T02:17:05+00:00",Redbull TV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/redbull_tv_b4147376.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="English News" tvg-last-checked="2025-07-21T02:17:05+00:00",Al Jazeera
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/al_jazeera_96904556.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News" tvg-last-checked="2025-07-21T02:17:06+00:00",CNN
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/cnn_1b4cce25.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="English News" tvg-last-checked="2025-07-21T02:17:06+00:00",DW
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/dw_b5fd8b75.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="English News" tvg-last-checked="2025-07-21T02:17:06+00:00",Al Jazeera
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/al_jazeera_e4a352d9.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic" tvg-last-checked="2025-07-21T02:17:08+00:00",Saudi Quran
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/saudi_quran_de5aacd1.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic" tvg-last-checked="2025-07-21T02:17:09+00:00",Madina live
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/madina_live_2314eede.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="English News" tvg-last-checked="2025-07-21T02:17:11+00:00",BBC News
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/bbc_news_f26f4c94.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10" group-title="Islamic" tvg-last-checked="2025-07-21T02:17:11+00:00",iqra Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/iqra_bangla_4fa6aee4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids" tvg-last-checked="2025-07-21T02:17:12+00:00",Nick Jr
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/nick_jr_0a0b839b.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10" group-title="Islamic" tvg-last-checked="2025-07-21T02:17:14+00:00",Mercy
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/mercy_bc7d920d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids" tvg-last-checked="2025-07-21T02:17:14+00:00",Pogo
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/pogo_6ada5be8.m3u8
-#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary" tvg-last-checked="2025-07-21T02:17:15+00:00",Travel xp
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/travel_xp_e22dfc89.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary" tvg-last-checked="2025-07-21T02:17:15+00:00",Love nature
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/love_nature_5d7d97e3.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:16+00:00",Star Jalsha HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/star_jalsha_hd_6bf1b851.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:17+00:00",Zee Bangla HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zee_bangla_hd_07e6b04e.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:18+00:00",Colors Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/colors_bangla_c91e3d05.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:19+00:00",Colors Bangla Cinema
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/colors_bangla_cinema_1da75fa7.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:20+00:00",Akash Aath
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/akash_aath_cc9eff02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:21+00:00",Enter 10 Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/enter_10_bangla_f31912aa.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wJdNPAfkGDb7D52d7HRbJ5hLgCUB7Ss74mStkPgemQ&s" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:25+00:00",DD Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/dd_bangla_bac51587.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:26+00:00",TARA BANGLA CINEMA
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tara_bangla_cinema_6637a982.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:27+00:00",Enter 10 Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/enter_10_bangla_0ff6e8fe.m3u8
-#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:29+00:00",News18 Bangla News
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/news18_bangla_news_fefc64b6.m3u8
-#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:30+00:00",TV9 Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tv9_bangla_dbb5e03d.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Indian-Bangla" tvg-last-checked="2025-07-21T02:17:31+00:00",R Bangla
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/r_bangla_907b648c.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:32+00:00",Zoom
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zoom_4c1af9a5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:33+00:00",Music India
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/music_india_79d672ab.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:34+00:00",ICC_9XM
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/icc9xm_eecea312.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:35+00:00",8X music
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/8x_music_8b961e67.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:36+00:00",Music Mastii
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/music_mastii_ea44fd16.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:37+00:00",Zing
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zing_ea519a82.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:37+00:00",Hindi Hits HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/hindi_hits_hd_fee116cc.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:41+00:00",B4U Music
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/b4u_music_5823fc24.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:41+00:00",SUN MUSIC
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sun_music_4d239341.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:42+00:00",4 Fun TV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/4_fun_tv_e7d5d950.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:43+00:00",PTC Hits
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ptc_hits_5b64dd5b.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:43+00:00",Afrobeats
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/afrobeats_80faa459.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:44+00:00",MUZZIK
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/muzzik_4e00bf4a.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:45+00:00",Oxygen Music
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/oxygen_music_5e984e87.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:45+00:00",M20 Music
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/m20_music_7c121430.m3u8
-#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:46+00:00",V2Beat
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/v2beat_84505774.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:48+00:00",Q MUSIC
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/q_music_3ab1a305.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:48+00:00",California Music Channel
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/california_music_channel_108437c6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi" tvg-last-checked="2025-07-21T02:17:48+00:00",Zee One
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zee_one_f5b97bbc.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-21T02:17:50+00:00",Power Love
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/power_love_0d3f02b3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi" tvg-last-checked="2025-07-21T02:17:51+00:00",Zee Bolly Wood HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zee_bolly_wood_hd_264f7b88.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi" tvg-last-checked="2025-07-21T02:17:52+00:00",Zee Amol Cinema
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zee_amol_cinema_993e7260.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi" tvg-last-checked="2025-07-21T02:17:53+00:00",Colors Cineplex HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/colors_cineplex_hd_7a2e6822.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie" tvg-last-checked="2025-07-21T02:17:53+00:00",Lotus
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/lotus_92faae0d.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="English Movie" tvg-last-checked="2025-07-21T02:17:53+00:00",My Cinema
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/my_cinema_7178e5e2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi" tvg-last-checked="2025-07-21T02:17:55+00:00",SONY MAX SD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sony_max_sd_3aec6fe9.m3u8
-#EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942 tvg-last-checked="2025-07-21T02:17:56+00:00",width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="FM-Radio",width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg",Radio Mirchi
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/width1200height900resizemode4imgsize42753radiomirchiagenciesjpg_grouptitlefmradiowidth1200height900resizemode4imgsize42753radiomirchiagenciesjpgradio_mirchi_02de46bd.m3u8
-#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="FM-Radio" tvg-last-checked="2025-07-21T02:17:57+00:00",Spice FM
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/spice_fm_7a2c24f5.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="English Movie" tvg-last-checked="2025-07-21T02:18:00+00:00",MNX-HD
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/mnxhd_7db12b61.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA" tvg-last-checked="2025-07-21T02:18:02+00:00",Movie Bangla TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:20+00:00",Movie Bangla TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/movie_bangla_tv_8f9b70d9.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:20+00:00",Deshi tv
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/deshi_tv_4db67e7b.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:21+00:00",Amar Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/amar_bangla_3b494e98.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:21+00:00",Amar Digital
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/amar_digital_cff8a6c9.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:22+00:00",IB TV USA
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ib_tv_usa_5106d14e.m3u8
+#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:22+00:00",Deshi Tv
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/deshi_tv_77bdbd5f.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:23+00:00",Kushbo tv
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/kushbo_tv_6fbd562b.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:24+00:00",DEPTO BANGLA HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/depto_bangla_hd_86380483.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:24+00:00",DesheBideshe
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/deshebideshe_d76dae8d.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:25+00:00",iON TV Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ion_tv_bangla_24e68b49.m3u8
+#EXTINF:-1 tvg-logo="https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:26+00:00",Time Televison
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/time_televison_ac73fe90.m3u8
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp3.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:26+00:00",Live Sports-3
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/live_sports3_5e6e7a3e.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="BANGLA" tvg-last-checked="2025-07-26T02:07:27+00:00",PeaceTvBangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/peacetvbangla_f4bae051.m3u8
+#EXTINF:-1 tvg-logo="http://dds.oncast.me/img/logo/sp1.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:28+00:00",Live Sports-1
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/live_sports1_a892fbf4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:29+00:00",Star Sports-2
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/star_sports2_8a03e5e2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:30+00:00",GAZI TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/gazi_tv_f66a2127.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:31+00:00",T-Sports [2]
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tsports_2_11a013e1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:34+00:00",Geo Super TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/geo_super_tv_188ceaa1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:34+00:00",BeIN Sports Extra
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/bein_sports_extra_8e59512c.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:34+00:00",RTV Sports
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/rtv_sports_b474b048.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:35+00:00",Raching.com
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/rachingcom_fde32896.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:36+00:00",Sport Italia So
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sport_italia_so_a1a2dc7a.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:36+00:00",Oman Sports TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/oman_sports_tv_f7b3232f.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:36+00:00",SportsGrid
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sportsgrid_7bc5e0c5.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:37+00:00",Tennis Channel
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tennis_channel_731a566f.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:37+00:00",Trace Sports Stars
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/trace_sports_stars_58714535.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:37+00:00",BeiN Sports Extra
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/bein_sports_extra_054f76b6.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:38+00:00",Europe  Sports 2 HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/europe_sports_2_hd_ffd48b2b.m3u8
+#EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:38+00:00",Europe Sports 1 HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/europe_sports_1_hd_c704abb3.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:39+00:00",Live Sports Football Laliga
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/live_sports_football_laliga_7c73e614.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:39+00:00",Live
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/live_226f842e.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:39+00:00",Redbull TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/redbull_tv_b4147376.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="SPORTS" tvg-last-checked="2025-07-26T02:07:45+00:00",Sky Sports Action
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sky_sports_action_0bca3b67.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.jpg" group-title="English News" tvg-last-checked="2025-07-26T02:07:45+00:00",Al Jazeera
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/al_jazeera_96904556.m3u8
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="English News" tvg-last-checked="2025-07-26T02:07:46+00:00",CNN
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/cnn_1b4cce25.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="English News" tvg-last-checked="2025-07-26T02:07:47+00:00",Al Jazeera
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/al_jazeera_e4a352d9.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="English News" tvg-last-checked="2025-07-26T02:07:47+00:00",DW
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/dw_b5fd8b75.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic" tvg-last-checked="2025-07-26T02:07:48+00:00",Saudi Quran
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/saudi_quran_de5aacd1.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic" tvg-last-checked="2025-07-26T02:07:49+00:00",Madina live
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/madina_live_2314eede.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="English News" tvg-last-checked="2025-07-26T02:07:51+00:00",BBC News
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/bbc_news_f26f4c94.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10" group-title="Islamic" tvg-last-checked="2025-07-26T02:07:52+00:00",iqra Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/iqra_bangla_4fa6aee4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids" tvg-last-checked="2025-07-26T02:07:53+00:00",Nick Jr
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/nick_jr_0a0b839b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Kids" tvg-last-checked="2025-07-26T02:07:54+00:00",Pogo
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/pogo_6ada5be8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary" tvg-last-checked="2025-07-26T02:07:54+00:00",Love nature
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/love_nature_5d7d97e3.m3u8
+#EXTINF:-1 tvg-logo="https://photos.prnewswire.com/prnfull/20150515/10122924" group-title="Documentary" tvg-last-checked="2025-07-26T02:07:54+00:00",Travel xp
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/travel_xp_e22dfc89.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDA-jAFNps3Xy53N5Uf8BM34sgzLlxtgA79nsXAnZP1XmT-d3571ozLE&s=10" group-title="Islamic" tvg-last-checked="2025-07-26T02:07:56+00:00",Mercy
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/mercy_bc7d920d.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:07:58+00:00",Star Jalsha HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/star_jalsha_hd_6bf1b851.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:07:58+00:00",Zee Bangla HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zee_bangla_hd_07e6b04e.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:07:59+00:00",Colors Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/colors_bangla_c91e3d05.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:00+00:00",Colors Bangla Cinema
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/colors_bangla_cinema_1da75fa7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:01+00:00",TARA BANGLA CINEMA
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tara_bangla_cinema_6637a982.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:02+00:00",Akash Aath
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/akash_aath_cc9eff02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:04+00:00",Enter 10 Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/enter_10_bangla_f31912aa.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:06+00:00",Enter 10 Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/enter_10_bangla_0ff6e8fe.m3u8
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:08+00:00",News18 Bangla News
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/news18_bangla_news_fefc64b6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wJdNPAfkGDb7D52d7HRbJ5hLgCUB7Ss74mStkPgemQ&s" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:11+00:00",DD Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/dd_bangla_bac51587.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:12+00:00",R Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/r_bangla_907b648c.m3u8
+#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian-Bangla" tvg-last-checked="2025-07-26T02:08:13+00:00",TV9 Bangla
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/tv9_bangla_dbb5e03d.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:14+00:00",Zoom
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zoom_4c1af9a5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:15+00:00",Music India
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/music_india_79d672ab.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:16+00:00",ICC_9XM
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/icc9xm_eecea312.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:17+00:00",8X music
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/8x_music_8b961e67.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:18+00:00",Zing
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zing_ea519a82.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRD92lTNDFEe1iA-zJLoFb-mu28rBgjGIqs3qFS_w=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:19+00:00",Music Mastii
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/music_mastii_ea44fd16.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:20+00:00",Hindi Hits HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/hindi_hits_hd_fee116cc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:21+00:00",PTC Hits
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/ptc_hits_5b64dd5b.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:22+00:00",SUN MUSIC
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sun_music_4d239341.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:22+00:00",4 Fun TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/4_fun_tv_e7d5d950.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:23+00:00",Afrobeats
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/afrobeats_80faa459.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:28+00:00",B4U Music
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/b4u_music_5823fc24.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:28+00:00",MUZZIK
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/muzzik_4e00bf4a.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:29+00:00",Oxygen Music
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/oxygen_music_5e984e87.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:30+00:00",M20 Music
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/m20_music_7c121430.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:30+00:00",Q MUSIC
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/q_music_3ab1a305.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:31+00:00",California Music Channel
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/california_music_channel_108437c6.m3u8
+#EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" group-title="MUSIC" tvg-last-checked="2025-07-26T02:08:32+00:00",V2Beat
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/v2beat_84505774.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi" tvg-last-checked="2025-07-26T02:08:32+00:00",Zee One
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zee_one_f5b97bbc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi" tvg-last-checked="2025-07-26T02:08:33+00:00",Zee Bolly Wood HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zee_bolly_wood_hd_264f7b88.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524" group-title="Hindi" tvg-last-checked="2025-07-26T02:08:35+00:00",Colors Cineplex HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/colors_cineplex_hd_7a2e6822.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png" group-title="English Movie" tvg-last-checked="2025-07-26T02:08:35+00:00",Lotus
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/lotus_92faae0d.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi" tvg-last-checked="2025-07-26T02:08:36+00:00",Zee Amol Cinema
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/zee_amol_cinema_993e7260.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="English Movie" tvg-last-checked="2025-07-26T02:08:36+00:00",My Cinema
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/my_cinema_7178e5e2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi" tvg-last-checked="2025-07-26T02:08:37+00:00",SONY MAX SD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/sony_max_sd_3aec6fe9.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Hindi" tvg-last-checked="2025-07-26T02:08:38+00:00",South Station
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/south_station_ea3d2d8e.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie" tvg-last-checked="2025-07-26T02:08:45+00:00",HBO
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/hbo_2e12b9cf.m3u8
+#EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942 tvg-last-checked="2025-07-26T02:08:47+00:00",width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="FM-Radio",width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg",Radio Mirchi
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/width1200height900resizemode4imgsize42753radiomirchiagenciesjpg_grouptitlefmradiowidth1200height900resizemode4imgsize42753radiomirchiagenciesjpgradio_mirchi_02de46bd.m3u8
+#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="FM-Radio" tvg-last-checked="2025-07-26T02:08:48+00:00",Spice FM
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/spice_fm_7a2c24f5.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8c255c8f4e981429.png" group-title="English Movie" tvg-last-checked="2025-07-26T02:08:51+00:00",MNX-HD
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-BD/mnxhd_7db12b61.m3u8
