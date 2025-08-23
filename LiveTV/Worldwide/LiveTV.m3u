@@ -220,9 +220,9 @@ https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png" group-title="Uncategorized",LCI [tkn-blocked]
 https://live-lci-hls.cdn-0.diff.tf1.fr/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Uncategorized",TF1_
-https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTU5MTkxMzksImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU1OTA0NzM5LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.Y_MNK2szsP-WfnQXQon5VG0ahuuQMaqKojZ5LU1s3sY/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTU5NDA2OTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU1OTI2MjkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.Gl_kal6YnZv1jJFQA6f4CjmyLfjBt_k2kTzoGDzBIpw/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="Uncategorized",TF1-
-https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NTkxNDQwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTU5MDAwMDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.Cs-ZctdBsUJzfiPnznO2wgKr_uJlVeZC0kXiLXccCe8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NTk0MzIwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTU5Mjg4MDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.ZF39FeNYL_FlWi7O-dSMIl9IPY6sDTs2wh35OwNXe7Q/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="Uncategorized",FRANCE 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png" group-title="Uncategorized",FRANCE 3
@@ -1124,9 +1124,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=876S6Y67yUNNWTv4-7ldMA&e=1755911897
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=TMrjBwa2b-_UXpS91ruyfw&e=1755945028
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=876S6Y67yUNNWTv4-7ldMA&e=1755911897
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=TMrjBwa2b-_UXpS91ruyfw&e=1755945028
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
@@ -2537,6 +2537,10 @@ https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BGy5vM5/clan.jpg" group-title="Uncategorized",TVE CLAN
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="Uncategorized",ATRES INT
+http://38.180.133.31:8000/play/a0ki/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bKLFcnD/a3cine.png" group-title="Uncategorized",ATRES SERIES INT
+http://181.78.208.254:8080/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="Uncategorized",ANTENA 3
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="Uncategorized",ANTENA 3
@@ -3497,6 +3501,22 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist
 https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdcTsN33/alsahat.png" group-title="Uncategorized",AL SAHAT
 https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tXkQTsV/hqeqa.jpg" group-title="Uncategorized",AL HQEQA
+https://ghaasiflu.online/alhqeqa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFnhmCJD/fadjer.jpg" group-title="Uncategorized",AL FADJER
+https://stream.wsla.top/play/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYF39XdD/seraj.webp" group-title="Uncategorized",AL SERAJ
+https://64c53df624b1b.servers.dvcloud.tv/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tx9jXnrS/elbalad.png" group-title="Uncategorized",EL BALAD
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/elbaladtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FLLRFNxd/ertu1.jpg" group-title="Uncategorized",ERTU 1
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ertu1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4b5j6xQ/adenym.jpg" group-title="Uncategorized",ADEN TV
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/adentv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCVgF7j7/hadra.png" group-title="Uncategorized",HADRHRAMAUT
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/hadhramaut.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DtWPcjN/alw.png" group-title="Uncategorized",ALAWLA TV
+https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VCfg2xY/almahriah.png" group-title="Uncategorized",YEMEN MAHRIAH
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PFCf0SG/jaylia.jpg" group-title="Uncategorized",AL JAYLIA
