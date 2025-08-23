@@ -510,8 +510,38 @@ Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlis
 --------------------------------------------------
 
 Group: BOLA | LIGA INGGRIS
-Name: USA
-URL: https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+Name: Sky sports Premier League (TES)
+URL: https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8|referer=https://webxzplay.cfd/
+Logo: https://i.imgur.com/pm6ULZT.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+Name: UNIVERSO (TES)
+URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjExOTNhYzE4OWVhLTgwMGItZmE0NC1kYTMzLWQzMmVkNmI1/master.m3u8|referer=https://www.vidembed.re/
+Logo: https://i.imgur.com/pm6ULZT.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+Name: USA Network (TES)
+URL: https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
+Logo: https://i.imgur.com/pm6ULZT.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+Name: beIN Sports MENA English 1 (AGF)
+URL: https://windnew.newkso.ru/wind/premium61/mono.m3u8
+Logo: https://i.imgur.com/pm6ULZT.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+Name: ESPN Brasil
+URL: https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
+Logo: https://i.imgur.com/pm6ULZT.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+Name: Diema Sport 2 Bulgaria (AG)
+URL: https://windnew.newkso.ru/wind/premium466/mono.m3u8
+Logo: https://i.imgur.com/pm6ULZT.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+Name: Diema Sport 3 Bulgaria (AG)
+URL: https://windnew.newkso.ru/wind/premium467/mono.m3u8
 Logo: https://i.imgur.com/pm6ULZT.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
@@ -530,135 +560,125 @@ URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8
 Logo: https://i.imgur.com/pm6ULZT.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 1 Premium (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L2IjM5QWNiFzM3QmYtYGNwgTLhVGZ00yYwQmNtgzM0gjN3EWO/master.m3u8
+Name: DAZN 1 Spain (AGF)
+URL: https://windnew.newkso.ru/wind/premium445/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 2 Premium (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LyIzN2AjZ4YTZ3cTNtUjMjlTL1IGN00iMkJ2MtIGZwEGNyYmN/master.m3u8
+Name: DAZN 2 Spain (AGF)
+URL: https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 3 Premium (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LmZmMkBTNllTZkJTZtYTZ4EWL1UDZ00SY5UjZtY2YygTOjdjZ/master.m3u8
+Name: DAZN 3 Spain (AGF)
+URL: https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 1 Serbia (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LxMDNjFDMmV2M2cDNtkDZilTLjdDZ00iYmRjZtcTZzQDOjFzM/master.m3u8
+Name: DAZN 4 Spain (AGF)
+URL: https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 2 Serbia (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjVzNiNDZ0cTN4MTOtYmY5IWL1gDN00SN5Y2MtcTZkRWYjlzM/master.m3u8
+Name: DAZN 1 Bar DE (AGF)
+URL: https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 3 Serbia (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LjhTOmhTMkZzNjZDOtAjY3kTLxETM00iZ2QzYtMWZwUTOzETO/master.m3u8
+Name: DAZN 2 Bar DE (AGF)
+URL: https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 4 Serbia (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L5gzM4YGO5U2NzUDNtQjN3gTLwQ2Y00yY0QjMtMmY4YWOiJDN/master.m3u8
+Name: Arena Sport 1 Croatia (AGF)
+URL: https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 1 Croatia (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LzUDZlNWYiVDZyMTYtMTOxgTLyI2Y00SZmNzMtkTYzIWZwUmY/master.m3u8
+Name: Arena Sport 1 Premium (AGF)
+URL: https://windnew.newkso.ru/wind/premium134/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 2 Croatia (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0UTNzYWZ4kTN3MGZtQ2NkhTL3QGN00iZ5IDZtIjY2IWOhJDM/master.m3u8
+Name: Arena Sport 1 Serbia (AGF)
+URL: https://windnew.newkso.ru/wind/premium429/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 3 Croatia (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3EmYzETZiVGM1ImZtMGMkFWL4M2M00SN0cjYtcjNzITYlVGN/master.m3u8
+Name: Arena Sport 2 Croatia (AGF)
+URL: https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Arena Sport 4 Croatia (FEAG)
-URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3LwQjYwUDOlRWZxImMtAjMmlTLwAzY00SNkNzNtIWZ0kTO1IzN/master.m3u8
+Name: Arena Sport 2 Premium (AGF)
+URL: https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 1 (FEAG)
-URL: https://events3.liveboxpro.com/event/455.m3u8
+Name: Arena Sport 2 Serbia (AGF)
+URL: https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 2 (FEAG)
-URL: https://events3.liveboxpro.com/event/456.m3u8
+Name: Arena Sport 3 Croatia (AGF)
+URL: https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 3 (FEAG)
-URL: https://events3.liveboxpro.com/event/457.m3u8
+Name: Arena Sport 3 Premium (AGF)
+URL: https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 4 (FEAG)
-URL: https://events3.liveboxpro.com/event/458.m3u8
+Name: Arena Sport 3 Serbia (AGF)
+URL: https://windnew.newkso.ru/wind/premium431/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 5 (FEAG)
-URL: https://events3.liveboxpro.com/event/459.m3u8
+Name: Arena Sport 4 Croatia (AGF)
+URL: https://windnew.newkso.ru/wind/premium580/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 1 Bar DE (FEAG)
-URL: https://events3.liveboxpro.com/event/426.m3u8
+Name: Arena Sport 4 Serbia (AGF)
+URL: https://windnew.newkso.ru/wind/premium581/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 2 Bar DE (FEAG)
-URL: https://events3.liveboxpro.com/event/427.m3u8
+Name: Astro Grandstand (AGF)
+URL: https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 1 Spain (FEAG)
-URL: https://events3.liveboxpro.com/event/445.m3u8
+Name: Astro Footbal (AGF)
+URL: https://windnew.newkso.ru/wind/premium124/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 2 Spain (FEAG)
-URL: https://events3.liveboxpro.com/event/446.m3u8
+Name: Astro Premier league 1 (AGF)
+URL: https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: DAZN 3 Spain (FEAG)
-URL: https://events3.liveboxpro.com/event/447.m3u8
-Logo: https://i.imgur.com/h8SK8A4.png
-Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
---------------------------------------------------
-Name: DAZN 4 Spain (FEAG)
-URL: https://events3.liveboxpro.com/event/448.m3u8
+Name: Astro Premier league 2 (AGF)
+URL: https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 Logo: https://i.imgur.com/h8SK8A4.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
 
 Group: BOLA | LIGA INGGRIS 
-Name: FUBO SPORTS (AG)
+Name: NBC SPORTS (AGF)
+URL: https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+Logo: https://i.imgur.com/pm6ULZT.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+Name: FUBO SPORTS (AG) (R)
 URL: https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 Logo: https://i.imgur.com/pm6ULZT.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: FUBO SPORTS 2 (AG)
+Name: FUBO SPORTS 2 (AG)(R)
 URL: https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-Logo: https://i.imgur.com/pm6ULZT.jpeg
-Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
---------------------------------------------------
-Name: Diema Sport 2 Bulgaria (AG)
-URL: https://events3.liveboxpro.com/event/466.m3u8
-Logo: https://i.imgur.com/pm6ULZT.jpeg
-Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
---------------------------------------------------
-Name: Diema Sport 3 Bulgaria (AG)
-URL: https://events3.liveboxpro.com/event/467.m3u8
 Logo: https://i.imgur.com/pm6ULZT.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
@@ -2060,53 +2080,28 @@ Source: https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/internat
 --------------------------------------------------
 
 Group: HBO
-Name: HBO (MJ INDO)
+Name: HBO (AGF INDO)
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 Logo: https://i.imgur.com/0GiICTY.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: HBO Hits (MJ INDO)
+Name: HBO Hits (AGF INDO)
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 Logo: https://i.imgur.com/0GiICTY.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: HBO Family  (MJ INDO)
+Name: HBO Family (AGF INDO)
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 Logo: https://i.imgur.com/0GiICTY.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: HBO Signature (MJ INDO)
+Name: HBO Signature (AGF INDO)
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 Logo: https://i.imgur.com/0GiICTY.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Cinemax (MJ INDO)
+Name: Cinemax (AGF INDO)
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-Logo: https://i.imgur.com/0GiICTY.jpeg
-Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
---------------------------------------------------
-Name: HBO (MJ INDO AG)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-Logo: https://i.imgur.com/0GiICTY.jpeg
-Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
---------------------------------------------------
-Name: HBO Hits (MJ INDO AG)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-Logo: https://i.imgur.com/0GiICTY.jpeg group-title=
-Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
---------------------------------------------------
-Name: HBO Family (MJ INDO AG)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-Logo: https://i.imgur.com/0GiICTY.jpeg
-Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
---------------------------------------------------
-Name: HBO Signature (MJ INDO AG)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-Logo: https://i.imgur.com/0GiICTY.jpeg
-Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
---------------------------------------------------
-Name: Cinemax (MJ INDO AG)
-URL: https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 Logo: https://i.imgur.com/0GiICTY.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
@@ -3599,10 +3594,24 @@ Logo: https://i.imgur.com/1vqowr7.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
 
+Group: OLAHRAGA | AMERICAN FOOTBALL
+Name: NFL (AG)
+URL: https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+Logo: https://i.imgur.com/bbRoPk2.png
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+
 Group: OLAHRAGA | BADMINTON
 Name: ASTRO BADMINTON 3 (MH)
 URL: https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 Logo: https://i.imgur.com/P47cFSh.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
+
+Group: OLAHRAGA | BILLIARD
+Name: Fast Sports HD
+URL: https://live2.shoq.com.pk/live/eds/Fast_Sports_HD/DASH/Fast_Sports_HD.mpd
+Logo: https://i.imgur.com/t9ZxbQH.png
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
 
@@ -3619,7 +3628,7 @@ Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlis
 --------------------------------------------------
 Name: Sky Sports F1 UK (AG)
 URL: https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
-Logo: https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png
+Logo: https://i.imgur.com/pm6ULZT.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
 Name: Sky Sports F1 FHD (USAG)
@@ -3664,7 +3673,7 @@ URL: https://a1xs.vip/120003
 Logo: https://i.imgur.com/sInIG51.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
 --------------------------------------------------
-Name: Sky Sports Mix FHD
+Name: Sky BOLA | LIGA INGGRIS  FHD
 URL: https://a1xs.vip/2000008
 Logo: https://i.imgur.com/sInIG51.jpeg
 Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
@@ -3698,6 +3707,11 @@ Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlis
 --------------------------------------------------
 
 Group: OLAHRAGA | UFC
+Name: FOX Sports
+URL: https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+Logo: https://i.imgur.com/ZJvXooj.jpeg
+Source: https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u
+--------------------------------------------------
 Name: TNT SPORTS 1 FHD
 URL: https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 Logo: https://i.imgur.com/ZJvXooj.jpeg
@@ -4376,12 +4390,12 @@ Logo: https://i.ibb.co/Zfcrrr1/lci.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1_
-URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTU5NDA2OTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU1OTI2MjkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.Gl_kal6YnZv1jJFQA6f4CjmyLfjBt_k2kTzoGDzBIpw/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTU5NzMwOTYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU1OTU4Njk2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ._Kvfpqy9AObBTM6pZFo_6no1YzKSAE_DaBUAEKcrRUo/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1-
-URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NTk0MzIwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTU5Mjg4MDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.ZF39FeNYL_FlWi7O-dSMIl9IPY6sDTs2wh35OwNXe7Q/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NTk3MjAwMywiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTU5NTc2MDMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.SAp51kopFnQ_dmD1l5X9jE6VOsGGKq41vLFWKEd2utw/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -6636,12 +6650,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=TMrjBwa2b-_UXpS91ruyfw&e=1755945028
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=r4Dl68j3DzYCOv0QoJG9rw&e=1755976804
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=TMrjBwa2b-_UXpS91ruyfw&e=1755945028
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=r4Dl68j3DzYCOv0QoJG9rw&e=1755976804
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
