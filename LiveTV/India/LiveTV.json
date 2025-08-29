@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-28 21:44:56",
+  "date": "2025-08-29 06:25:18",
   "channels": {
     "News": [
       {
@@ -491,6 +491,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://yuppftalive.akamaized.net/080823/khabrainabhitak/playlist.m3u8"
+      },
+      {
+        "name": "Kolkata TV (1080p)",
+        "logo": "https://i.imgur.com/Umi45ZJ.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8"
       },
       {
         "name": "Living India News (1080p)",
@@ -2768,6 +2775,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8"
+      },
+      {
+        "name": "DD Tamil (1080p)",
+        "logo": "https://yt3.googleusercontent.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s900-c-k-c0x00ffffff-no-rj",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8"
       },
       {
         "name": "DD Tripura",

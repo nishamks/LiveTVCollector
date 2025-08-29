@@ -420,6 +420,12 @@
     "img": "https://i.imgur.com/LIrolUQ.png"
   },
   {
+    "name": "Kolkata TV (1080p)",
+    "type": "News",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8",
+    "img": "https://i.imgur.com/Umi45ZJ.png"
+  },
+  {
     "name": "Living India News (1080p)",
     "type": "News",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8",
@@ -2356,6 +2362,12 @@
     "type": "General",
     "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8",
     "img": "https://i.imgur.com/tmMEsEe.png"
+  },
+  {
+    "name": "DD Tamil (1080p)",
+    "type": "General",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8",
+    "img": "https://yt3.googleusercontent.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s900-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "DD Tripura",
