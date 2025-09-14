@@ -12,36 +12,6 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png"
   },
   {
-    "name": "Sun Bangla",
-    "type": "Live Tv",
-    "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
-  },
-  {
-    "name": "zee bangla cinema",
-    "type": "Live Tv",
-    "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Colors",
-    "type": "Live Tv",
-    "url": "http://195.181.169.162/COLORS_HD/index.m3u8?token=test",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
-  },
-  {
-    "name": "Colors Bangla Cinema",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
-  },
-  {
-    "name": "Star Gold HD",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "ATN Bangla",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
@@ -60,10 +30,28 @@
     "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
-    "name": "Sangeet Bangla",
+    "name": "Colors Bangla Cinema",
     "type": "Live Tv",
-    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
+    "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
+  },
+  {
+    "name": "zee bangla cinema",
+    "type": "Live Tv",
+    "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Colors",
+    "type": "Live Tv",
+    "url": "http://195.181.169.162/COLORS_HD/index.m3u8?token=test",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
+  },
+  {
+    "name": "Star Gold HD",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Zee Cinema hd",
@@ -78,10 +66,16 @@
     "img": "https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp"
   },
   {
-    "name": "Star Gold select HD",
+    "name": "Sun Bangla",
     "type": "Live Tv",
-    "url": "http://182.176.185.207:7500/play/a06p/index.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639"
+    "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "type": "Live Tv",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
   },
   {
     "name": "Hum TV",
@@ -90,27 +84,21 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png"
   },
   {
-    "name": "Star Plus HD",
-    "type": "Live Tv",
-    "url": "https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3070",
-    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
-  },
-  {
     "name": "Tom & Jerry",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Doreamon",
-    "type": "Live Tv",
-    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Motu Patlu",
     "type": "Live Tv",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Doreamon",
+    "type": "Live Tv",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
