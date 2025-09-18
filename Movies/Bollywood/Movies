@@ -6,64 +6,28 @@
     "img": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg"
   },
   {
-    "name": "tvg-logo=\"https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg\",Md.Mahabubul Alam Mim",
-    "type": "Uncategorized",
-    "url": "http://server3.ftpbd.net/",
-    "img": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg"
+    "name": "Deepto TV",
+    "type": "Live Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
-    "name": "Baaghi 4",
-    "type": "Hindi Movies",
-    "url": "https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2025/Baaghi-4-2025/Baaghi-4-2025-HQ-1080p-HDTC-Hindi-LiNE.mkv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "name": "Sun Bangla",
+    "type": "Live Tv",
+    "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
   },
   {
-    "name": "Saiyaara",
-    "type": "Hindi Movies",
-    "url": "https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2025/Saiyaara-2025/Saiyaara-2025-1080p-Hindi-WEBRip.mkv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Maa",
-    "type": "Hindi Movies",
-    "url": "https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2025/Maa-2025/Maa.2025.1080p.NF.WEB-DL.DDP5.1.x264-ElecTr0n_reencoded.mp4",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "war 2",
-    "type": "Hindi Movies",
-    "url": "https://server3.ftpbd.net/FTP-3/Hindi%20Movies/2025/War-2-2025/War-2-2025-Hindi-HQ-PRE-HD-1080p-incl-Post-Credit_reencoded.mp4",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Lokah Chapter 1",
-    "type": "Southindian Hindi Dubbed Movies",
-    "url": "https://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282025%29/Lokah-Chapter-1-Chandra-2025/Lokah-Chapter-1-Chandra-2025-1080p-Hindi%20Dubbed-HDTS.mkv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Mirai",
-    "type": "Southindian Hindi Dubbed Movies",
-    "url": "https://server3.ftpbd.net/FTP-3/South%20Indian%20Movies/HINDI-DUBBED/%282025%29/Mirai-2025/Mirai-2025-1080p-Hindi-Telugu-PreHD.mkv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "name": "Jalsa Movies Hd",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png"
   },
   {
     "name": "BTV HD",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
     "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
-  },
-  {
-    "name": "ATN Bangla",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s"
-  },
-  {
-    "name": "Deepto TV",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
-    "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
     "name": "Colors",
@@ -78,22 +42,22 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
   },
   {
-    "name": "Zee Cinema hd",
+    "name": "ATN Bangla",
     "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
-  },
-  {
-    "name": "Jalsa Movies Hd",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png"
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s"
   },
   {
     "name": "Star Gold HD",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Zee Cinema hd",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
   },
   {
     "name": "& picture hd",
@@ -108,21 +72,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Sun Bangla",
-    "type": "Live Tv",
-    "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
-  },
-  {
     "name": "Sangeet Bangla",
     "type": "Live Tv",
     "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
     "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
   },
   {
-    "name": "Tom & Jerry",
+    "name": "Doreamon",
     "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -132,9 +90,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Doreamon",
+    "name": "Tom & Jerry",
     "type": "Live Tv",
-    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+    "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
