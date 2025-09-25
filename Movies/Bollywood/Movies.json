@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-25 07:16:02",
+  "date": "2025-09-25 14:04:51",
   "channels": {
     "Uncategorized": [
       {
@@ -26,13 +26,6 @@
         "url": "http://filex.me:8080//live/1234567890/1234567890/522665.ts"
       },
       {
-        "name": "ATN Bangla",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
-      },
-      {
         "name": "Jalsa Movies Hd",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png",
         "group": "Live Tv",
@@ -40,18 +33,18 @@
         "url": "https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8"
       },
       {
-        "name": "Sangeet Bangla",
-        "logo": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
-      },
-      {
         "name": "Colors Bangla Cinema",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "Sangeet Bangla",
+        "logo": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
       },
       {
         "name": "Colors",
@@ -75,18 +68,18 @@
         "url": "https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8"
       },
       {
-        "name": "Deepto TV",
-        "logo": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
-      },
-      {
         "name": "& picture hd",
         "logo": "https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "Deepto TV",
+        "logo": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
       },
       {
         "name": "Colors Cineplex Bollywood",
@@ -117,6 +110,13 @@
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8"
       },
       {
+        "name": "ATN Bangla",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+      },
+      {
         "name": "Tom & Jerry",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -124,18 +124,18 @@
         "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "Motu Patlu",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
-      },
-      {
         "name": "Doreamon",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
+      },
+      {
+        "name": "Motu Patlu",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
       },
       {
         "name": "PTV Sports",
