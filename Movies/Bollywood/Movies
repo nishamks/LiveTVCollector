@@ -30,28 +30,22 @@
     "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
-    "name": "Sangeet Bangla",
-    "type": "Live Tv",
-    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
-  },
-  {
     "name": "Colors Bangla Cinema",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
   },
   {
+    "name": "Sangeet Bangla",
+    "type": "Live Tv",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
+  },
+  {
     "name": "Star Gold HD",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Colors",
-    "type": "Live Tv",
-    "url": "http://filex.me:8080//live/1234567890/1234567890/499616.ts",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
   },
   {
     "name": "Zee Cinema hd",
@@ -72,6 +66,24 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png"
   },
   {
+    "name": "Star Plus HD",
+    "type": "Live Tv",
+    "url": "https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3070",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
+  },
+  {
+    "name": "Colors",
+    "type": "Live Tv",
+    "url": "http://filex.me:8080//live/1234567890/1234567890/499616.ts",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
+  },
+  {
+    "name": "Tom & Jerry",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Doreamon",
     "type": "Live Tv",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
@@ -81,12 +93,6 @@
     "name": "Motu Patlu",
     "type": "Live Tv",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Tom & Jerry",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
