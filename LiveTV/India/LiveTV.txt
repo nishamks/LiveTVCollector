@@ -184,6 +184,11 @@ URL: https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 Logo: https://i.imgur.com/nsplwFc.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Surya Comedy (576p)
+URL: https://playyonogames.in/live.php?id=1662&format=.m3u8
+Logo: https://i.imgur.com/dNI0Vm5.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 
 Group: Cooking
 Name: ETV Abhiruchi (1080p)
@@ -295,6 +300,11 @@ URL: https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 Logo: https://i.imgur.com/IM4D8Wz.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Asianet HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
+Logo: https://i.imgur.com/Wv7MOzg.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Asianet Plus (1080p)
 URL: http://217.20.112.199/asianet/index.m3u8
 Logo: https://i.imgur.com/qg1IhV8.png
@@ -308,6 +318,46 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Chumbak TV (720p)
 URL: https://cdn-1.pishow.tv/live/1451/master.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/hi/7/77/Chumbak-TV.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors (1080p)
+URL: https://playyonogames.in/live.php?id=144&extension=.m3u8
+Logo: https://i.imgur.com/M8uCJ0D.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Bangla (1080p)
+URL: https://playyonogames.in/live.php?id=756&format=.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Gujarati (1080p)
+URL: https://playyonogames.in/live.php?id=196&format=.m3u8
+Logo: https://i.imgur.com/ZWMyR3j.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Infinity (1080p)
+URL: https://playyonogames.in/live.php?id=1158&format=.m3u8
+Logo: https://i.imgur.com/a5uES9j.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Kannada (1080p)
+URL: https://playyonogames.in/live.php?id=757&format=.m3u8
+Logo: https://i.imgur.com/CFUn43Z.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Marathi (1080p)
+URL: https://playyonogames.in/live.php?id=755&format=.m3u8
+Logo: https://i.imgur.com/q43P31H.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Super (720p)
+URL: https://playyonogames.in/live.php?id=785&format=.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Tamil (1080p)
+URL: https://playyonogames.in/live.php?id=429&format=.m3u8
+Logo: https://i.imgur.com/zZXCFqF.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Dabangg (720p)
@@ -371,7 +421,7 @@ Logo: https://i.imgur.com/y0VS4QN.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Flowers TV (576p)
-URL: http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+URL: https://playyonogames.in/live.php?id=634&format=.m3u8
 Logo: https://i.imgur.com/vpoiA6i.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -525,6 +575,41 @@ URL: https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 Logo: https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Bharat HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+Logo: https://i.imgur.com/Q8ajPij.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Jalsha HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+Logo: https://i.imgur.com/IlufzR5.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Maa HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8
+Logo: https://i.imgur.com/5c9PVS0.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Pravah HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
+Logo: https://i.imgur.com/ZT0u7AK.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Suvarna (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/suvarna/master.m3u8
+Logo: https://i.imgur.com/U9FA4Gs.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Vijay HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starvijayhd/master.m3u8
+Logo: https://i.imgur.com/dZtJHAe.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: StarPlus HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+Logo: https://i.imgur.com/xWxNy3L.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Surya TV (1080p)
 URL: https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 Logo: https://i.imgur.com/NqXpFXU.png
@@ -567,6 +652,11 @@ Group: General
 Name: CCV (480p)
 URL: https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 Logo: https://i.imgur.com/4ss0KfA.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Rishtey Asia (576p)
+URL: https://playyonogames.in/live.php?id=279&format=.m3u8
+Logo: https://i.imgur.com/YKWfMZo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Dangal TV (720p)
@@ -732,6 +822,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Jonack TV (360p) [Not 24/7]
 URL: https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 Logo: https://i.imgur.com/X2MU1lm.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Kairali TV (576p)
+URL: https://playyonogames.in/live.php?id=710&format=.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Kalaignar TV (576p)
@@ -900,6 +995,11 @@ URL: http://116.90.120.149:8000/play/a0bx/index.m3u8
 Logo: https://i.postimg.cc/854KwmH1/disneychannel.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Disney International HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+Logo: https://i.imgur.com/JkGvrc6.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Disney Junior (576p)
 URL: http://116.90.120.149:8000/play/a0b3/index.m3u8
 Logo: https://i.postimg.cc/KvRqrLg2/disneyjunior.png
@@ -911,13 +1011,18 @@ Logo: https://i.imgur.com/Bvbf9o7.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Nick HD+ (1080p) [Not 24/7]
-URL: http://116.90.120.149:8000/play/a0cw/index.m3u8
+URL: https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 Logo: https://i.imgur.com/nJPbTet.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Nick Jr India (1080p)
 URL: https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Sonic (576p)
+URL: https://playyonogames.in/jio/app/ts_live_815.m3u8
+Logo: https://i.imgur.com/vSJzF6o.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: ZB Cartoon (1080p)
@@ -986,6 +1091,11 @@ URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf54
 Logo: https://i.imgur.com/LnVgKVF.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Asianet Movies HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
+Logo: https://i.imgur.com/cps67hs.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: B4U Bhojpuri (1080p)
 URL: https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 Logo: https://i.imgur.com/NwOQUDp.png
@@ -1011,6 +1121,21 @@ URL: https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 Logo: https://i.imgur.com/ABxIO7r.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Colors Cineplex (1080p)
+URL: https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+Logo: https://i.imgur.com/Hvvjfk5.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Cineplex Bollywood (576p)
+URL: https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+Logo: https://i.imgur.com/EbHSQAJ.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Cineplex Superhits (576p)
+URL: https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Dhinchaak (576p) [Not 24/7]
 URL: http://14.199.164.20:4001/play/a0o5/index.m3u8
 Logo: https://i.imgur.com/oqqChlH.png
@@ -1031,8 +1156,13 @@ URL: https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 Logo: https://i.ibb.co/p4BwH0x/images-5.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Kairali We (396p)
-URL: https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
+Name: Jalsha Movies HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+Logo: https://i.imgur.com/25eWjX2.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Kairali We (576p)
+URL: https://playyonogames.in/live.php?id=731&format=.m3u8
 Logo: https://i.imgur.com/zXpROBj.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1056,6 +1186,11 @@ URL: https://cdn-4.pishow.tv/live/233/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Pravah Picture HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
+Logo: https://i.imgur.com/T76S4x3.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Sony Wah (1080p)
 URL: https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1066,14 +1201,69 @@ URL: http://103.81.104.118/hls/stream19.m3u8
 Logo: https://i.imgur.com/xC460sj.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Gold HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+Logo: https://i.imgur.com/xC460sj.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Gold Romance (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
+Logo: https://i.imgur.com/gSWv9U3.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Gold Select HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+Logo: https://i.imgur.com/U7eiuqv.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Star Gold Thrills (576p)
 URL: http://116.90.120.149:8000/play/a0c0/index.m3u8
 Logo: https://i.imgur.com/azqtpYh.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Maa Gold (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/maagold/master.m3u8
+Logo: https://i.imgur.com/8v4JXYu.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Maa Movies HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8
+Logo: https://i.imgur.com/1rRI95N.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Movies HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Movies Select HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+Logo: https://i.imgur.com/bnzDNCF.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Utsav Movies (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
+Logo: https://i.imgur.com/k5QHfH2.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Studio One + (720p)
 URL: https://cdn-1.pishow.tv/live/276/master.m3u8
 Logo: https://i.imgur.com/yOPB7JB.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Surya Movies (1080p)
+URL: https://playyonogames.in/live.php?id=1754&format=.m3u8
+Logo: https://i.imgur.com/FkSCjIo.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Udaya Movies (576p)
+URL: https://playyonogames.in/live.php?id=678&format=.m3u8
+Logo: https://i.imgur.com/UNEQaAv.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Vijay Super HD (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/vijaysuperhd/master.m3u8
+Logo: https://i.imgur.com/3MWm9nD.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Cinema (1080p) [Geo-blocked]
@@ -1140,8 +1330,8 @@ URL: http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b
 Logo: https://i.imgur.com/gaKzWdo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Dhamaal (1080p) [Not 24/7]
-URL: https://live.hungama.com/linear/dhamaal/playlist.m3u8
+Name: Dhamaal (576p) [Not 24/7]
+URL: https://playyonogames.in/live.php?id=535&format=.m3u8
 Logo: https://i.imgur.com/J6D56EF.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1250,9 +1440,19 @@ URL: https://epiconvh.akamaized.net/live/showbox/master.m3u8
 Logo: https://i.imgur.com/Zm4Fhah.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Maa Music (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8
+Logo: https://i.imgur.com/vxP9L8p.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Steelbird Music (720p) [Not 24/7]
 URL: https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 Logo: https://i.imgur.com/Egijzx3.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Surya Music (576p)
+URL: https://playyonogames.in/live.php?id=747&format=.m3u8
+Logo: https://i.imgur.com/9vcdaKw.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Tarang Music (720p)
@@ -1260,9 +1460,19 @@ URL: https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Udaya Music (576p)
+URL: https://playyonogames.in/live.php?id=744&format=.m3u8
+Logo: https://i.imgur.com/Lp1OuB9.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Vaanavil TV (720p)
 URL: https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 Logo: https://i.imgur.com/etr1k08.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Vijay Takkar (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/vijaytakkar/master.m3u8
+Logo: https://i.imgur.com/bqqcEu7.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: ZB Music (720p)
@@ -8197,6 +8407,11 @@ URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfd
 Logo: https://i.imgur.com/4oF38ei.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Rang (576p)
+URL: https://playyonogames.in/live.php?id=623&format=.m3u8
+Logo: https://i.imgur.com/B8GrFwu.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Rengoni (576p)
 URL: https://yuppftalive.akamaized.net/080823/rengonitv/playlist.m3u8
 Logo: https://i.imgur.com/Ss1OBn1.png
@@ -8327,6 +8542,16 @@ URL: https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8
 Logo: https://i.imgur.com/MhlO1dB.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Star Suvarna Plus (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/suvarnaplus/master.m3u8
+Logo: https://i.imgur.com/xlCOq0l.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Utsav (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
+Logo: https://i.imgur.com/H1jhHDl.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Subharti TV (576p)
 URL: https://yuppftalive.akamaized.net/080823/subhartitv/playlist.m3u8
 Logo: https://i.imgur.com/9hdNFtt.png
@@ -8335,6 +8560,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Subhavaartha TV (720p)
 URL: https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 Logo: https://i.imgur.com/hfk5jKE.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Sun Bangla (1080p)
+URL: https://playyonogames.in/live.php?id=1669&format=.m3u8
+Logo: https://i.imgur.com/fH62JFs.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Sun TV (1080p)
@@ -8412,6 +8642,11 @@ URL: https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3
 Logo: https://i.imgur.com/ufH48jV.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Udaya TV (1080p)
+URL: https://playyonogames.in/live.php?id=901&format=.m3u8
+Logo: https://i.imgur.com/BQfcmJy.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Vanitha TV (720p)
 URL: https://cdn-1.pishow.tv/live/393/master.m3u8
 Logo: https://i.imgur.com/KuLZt2a.png
@@ -8425,6 +8660,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Vendhar TV (720p) [Not 24/7]
 URL: https://cdn-3.pishow.tv/live/1271/master.m3u8
 Logo: https://i.imgur.com/okesED3.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Vissa TV (1080p) [Not 24/7]
+URL: https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Vissa_Tv/master_1.m3u8
+Logo: https://i.imgur.com/aPirjJ2.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Win TV (720p)

@@ -888,9 +888,9 @@
     "img": "https://i.imgur.com/gaKzWdo.png"
   },
   {
-    "name": "Dhamaal (1080p) [Not 24/7]",
+    "name": "Dhamaal (576p) [Not 24/7]",
     "type": "Music",
-    "url": "https://live.hungama.com/linear/dhamaal/playlist.m3u8",
+    "url": "https://playyonogames.in/live.php?id=535&format=.m3u8",
     "img": "https://i.imgur.com/J6D56EF.png"
   },
   {
@@ -1020,10 +1020,22 @@
     "img": "https://i.imgur.com/Zm4Fhah.png"
   },
   {
+    "name": "Star Maa Music (576p)",
+    "type": "Music",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/maamusic/master.m3u8",
+    "img": "https://i.imgur.com/vxP9L8p.png"
+  },
+  {
     "name": "Steelbird Music (720p) [Not 24/7]",
     "type": "Music",
     "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
     "img": "https://i.imgur.com/Egijzx3.png"
+  },
+  {
+    "name": "Surya Music (576p)",
+    "type": "Music",
+    "url": "https://playyonogames.in/live.php?id=747&format=.m3u8",
+    "img": "https://i.imgur.com/9vcdaKw.png"
   },
   {
     "name": "Tarang Music (720p)",
@@ -1032,10 +1044,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png"
   },
   {
+    "name": "Udaya Music (576p)",
+    "type": "Music",
+    "url": "https://playyonogames.in/live.php?id=744&format=.m3u8",
+    "img": "https://i.imgur.com/Lp1OuB9.png"
+  },
+  {
     "name": "Vaanavil TV (720p)",
     "type": "Music",
     "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
     "img": "https://i.imgur.com/etr1k08.png"
+  },
+  {
+    "name": "Vijay Takkar (576p)",
+    "type": "Music",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/vijaytakkar/master.m3u8",
+    "img": "https://i.imgur.com/bqqcEu7.png"
   },
   {
     "name": "ZB Music (720p)",
@@ -1068,6 +1092,12 @@
     "img": "https://i.imgur.com/LnVgKVF.png"
   },
   {
+    "name": "Asianet Movies HD (1080p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8",
+    "img": "https://i.imgur.com/cps67hs.png"
+  },
+  {
     "name": "B4U Bhojpuri (1080p)",
     "type": "Movies",
     "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
@@ -1098,6 +1128,24 @@
     "img": "https://i.imgur.com/ABxIO7r.jpg"
   },
   {
+    "name": "Colors Cineplex (1080p)",
+    "type": "Movies",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8",
+    "img": "https://i.imgur.com/Hvvjfk5.png"
+  },
+  {
+    "name": "Colors Cineplex Bollywood (576p)",
+    "type": "Movies",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8",
+    "img": "https://i.imgur.com/EbHSQAJ.png"
+  },
+  {
+    "name": "Colors Cineplex Superhits (576p)",
+    "type": "Movies",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Dhinchaak (576p) [Not 24/7]",
     "type": "Movies",
     "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
@@ -1122,9 +1170,15 @@
     "img": "https://i.ibb.co/p4BwH0x/images-5.png"
   },
   {
-    "name": "Kairali We (396p)",
+    "name": "Jalsha Movies HD (1080p)",
     "type": "Movies",
-    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8",
+    "img": "https://i.imgur.com/25eWjX2.png"
+  },
+  {
+    "name": "Kairali We (576p)",
+    "type": "Movies",
+    "url": "https://playyonogames.in/live.php?id=731&format=.m3u8",
     "img": "https://i.imgur.com/zXpROBj.png"
   },
   {
@@ -1152,6 +1206,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Pravah Picture HD (1080p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8",
+    "img": "https://i.imgur.com/T76S4x3.png"
+  },
+  {
     "name": "Sony Wah (1080p)",
     "type": "Movies",
     "url": "https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8",
@@ -1164,16 +1224,82 @@
     "img": "https://i.imgur.com/xC460sj.png"
   },
   {
+    "name": "Star Gold HD (1080p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8",
+    "img": "https://i.imgur.com/xC460sj.png"
+  },
+  {
+    "name": "Star Gold Romance (576p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8",
+    "img": "https://i.imgur.com/gSWv9U3.png"
+  },
+  {
+    "name": "Star Gold Select HD (1080p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8",
+    "img": "https://i.imgur.com/U7eiuqv.png"
+  },
+  {
     "name": "Star Gold Thrills (576p)",
     "type": "Movies",
     "url": "http://116.90.120.149:8000/play/a0c0/index.m3u8",
     "img": "https://i.imgur.com/azqtpYh.png"
   },
   {
+    "name": "Star Maa Gold (576p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/maagold/master.m3u8",
+    "img": "https://i.imgur.com/8v4JXYu.png"
+  },
+  {
+    "name": "Star Maa Movies HD (1080p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8",
+    "img": "https://i.imgur.com/1rRI95N.png"
+  },
+  {
+    "name": "Star Movies HD (1080p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png"
+  },
+  {
+    "name": "Star Movies Select HD (1080p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8",
+    "img": "https://i.imgur.com/bnzDNCF.png"
+  },
+  {
+    "name": "Star Utsav Movies (576p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8",
+    "img": "https://i.imgur.com/k5QHfH2.png"
+  },
+  {
     "name": "Studio One + (720p)",
     "type": "Movies",
     "url": "https://cdn-1.pishow.tv/live/276/master.m3u8",
     "img": "https://i.imgur.com/yOPB7JB.png"
+  },
+  {
+    "name": "Surya Movies (1080p)",
+    "type": "Movies",
+    "url": "https://playyonogames.in/live.php?id=1754&format=.m3u8",
+    "img": "https://i.imgur.com/FkSCjIo.png"
+  },
+  {
+    "name": "Udaya Movies (576p)",
+    "type": "Movies",
+    "url": "https://playyonogames.in/live.php?id=678&format=.m3u8",
+    "img": "https://i.imgur.com/UNEQaAv.png"
+  },
+  {
+    "name": "Vijay Super HD (1080p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/vijaysuperhd/master.m3u8",
+    "img": "https://i.imgur.com/3MWm9nD.png"
   },
   {
     "name": "Zee Cinema (1080p) [Geo-blocked]",
@@ -1224,6 +1350,12 @@
     "img": "https://i.imgur.com/IM4D8Wz.png"
   },
   {
+    "name": "Asianet HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8",
+    "img": "https://i.imgur.com/Wv7MOzg.png"
+  },
+  {
     "name": "Asianet Plus (1080p)",
     "type": "Entertainment",
     "url": "http://217.20.112.199/asianet/index.m3u8",
@@ -1240,6 +1372,54 @@
     "type": "Entertainment",
     "url": "https://cdn-1.pishow.tv/live/1451/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/hi/7/77/Chumbak-TV.png"
+  },
+  {
+    "name": "Colors (1080p)",
+    "type": "Entertainment",
+    "url": "https://playyonogames.in/live.php?id=144&extension=.m3u8",
+    "img": "https://i.imgur.com/M8uCJ0D.png"
+  },
+  {
+    "name": "Colors Bangla (1080p)",
+    "type": "Entertainment",
+    "url": "https://playyonogames.in/live.php?id=756&format=.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png"
+  },
+  {
+    "name": "Colors Gujarati (1080p)",
+    "type": "Entertainment",
+    "url": "https://playyonogames.in/live.php?id=196&format=.m3u8",
+    "img": "https://i.imgur.com/ZWMyR3j.png"
+  },
+  {
+    "name": "Colors Infinity (1080p)",
+    "type": "Entertainment",
+    "url": "https://playyonogames.in/live.php?id=1158&format=.m3u8",
+    "img": "https://i.imgur.com/a5uES9j.png"
+  },
+  {
+    "name": "Colors Kannada (1080p)",
+    "type": "Entertainment",
+    "url": "https://playyonogames.in/live.php?id=757&format=.m3u8",
+    "img": "https://i.imgur.com/CFUn43Z.png"
+  },
+  {
+    "name": "Colors Marathi (1080p)",
+    "type": "Entertainment",
+    "url": "https://playyonogames.in/live.php?id=755&format=.m3u8",
+    "img": "https://i.imgur.com/q43P31H.png"
+  },
+  {
+    "name": "Colors Super (720p)",
+    "type": "Entertainment",
+    "url": "https://playyonogames.in/live.php?id=785&format=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Colors Tamil (1080p)",
+    "type": "Entertainment",
+    "url": "https://playyonogames.in/live.php?id=429&format=.m3u8",
+    "img": "https://i.imgur.com/zZXCFqF.png"
   },
   {
     "name": "Dabangg (720p)",
@@ -1316,7 +1496,7 @@
   {
     "name": "Flowers TV (576p)",
     "type": "Entertainment",
-    "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
+    "url": "https://playyonogames.in/live.php?id=634&format=.m3u8",
     "img": "https://i.imgur.com/vpoiA6i.png"
   },
   {
@@ -1498,6 +1678,48 @@
     "type": "Entertainment",
     "url": "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8",
     "img": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg"
+  },
+  {
+    "name": "Star Bharat HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8",
+    "img": "https://i.imgur.com/Q8ajPij.png"
+  },
+  {
+    "name": "Star Jalsha HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8",
+    "img": "https://i.imgur.com/IlufzR5.png"
+  },
+  {
+    "name": "Star Maa HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8",
+    "img": "https://i.imgur.com/5c9PVS0.png"
+  },
+  {
+    "name": "Star Pravah HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8",
+    "img": "https://i.imgur.com/ZT0u7AK.png"
+  },
+  {
+    "name": "Star Suvarna (576p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/suvarna/master.m3u8",
+    "img": "https://i.imgur.com/U9FA4Gs.png"
+  },
+  {
+    "name": "Star Vijay HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starvijayhd/master.m3u8",
+    "img": "https://i.imgur.com/dZtJHAe.png"
+  },
+  {
+    "name": "StarPlus HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8",
+    "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
     "name": "Surya TV (1080p)",
@@ -1974,6 +2196,12 @@
     "img": "https://i.imgur.com/4oF38ei.png"
   },
   {
+    "name": "Rang (576p)",
+    "type": "Undefined",
+    "url": "https://playyonogames.in/live.php?id=623&format=.m3u8",
+    "img": "https://i.imgur.com/B8GrFwu.png"
+  },
+  {
     "name": "Rengoni (576p)",
     "type": "Undefined",
     "url": "https://yuppftalive.akamaized.net/080823/rengonitv/playlist.m3u8",
@@ -2130,6 +2358,18 @@
     "img": "https://i.imgur.com/MhlO1dB.png"
   },
   {
+    "name": "Star Suvarna Plus (576p)",
+    "type": "Undefined",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/suvarnaplus/master.m3u8",
+    "img": "https://i.imgur.com/xlCOq0l.png"
+  },
+  {
+    "name": "Star Utsav (576p)",
+    "type": "Undefined",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8",
+    "img": "https://i.imgur.com/H1jhHDl.png"
+  },
+  {
     "name": "Subharti TV (576p)",
     "type": "Undefined",
     "url": "https://yuppftalive.akamaized.net/080823/subhartitv/playlist.m3u8",
@@ -2140,6 +2380,12 @@
     "type": "Undefined",
     "url": "https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8",
     "img": "https://i.imgur.com/hfk5jKE.png"
+  },
+  {
+    "name": "Sun Bangla (1080p)",
+    "type": "Undefined",
+    "url": "https://playyonogames.in/live.php?id=1669&format=.m3u8",
+    "img": "https://i.imgur.com/fH62JFs.png"
   },
   {
     "name": "Sun TV (1080p)",
@@ -2232,6 +2478,12 @@
     "img": "https://i.imgur.com/ufH48jV.png"
   },
   {
+    "name": "Udaya TV (1080p)",
+    "type": "Undefined",
+    "url": "https://playyonogames.in/live.php?id=901&format=.m3u8",
+    "img": "https://i.imgur.com/BQfcmJy.png"
+  },
+  {
     "name": "Vanitha TV (720p)",
     "type": "Undefined",
     "url": "https://cdn-1.pishow.tv/live/393/master.m3u8",
@@ -2248,6 +2500,12 @@
     "type": "Undefined",
     "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
     "img": "https://i.imgur.com/okesED3.png"
+  },
+  {
+    "name": "Vissa TV (1080p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Vissa_Tv/master_1.m3u8",
+    "img": "https://i.imgur.com/aPirjJ2.png"
   },
   {
     "name": "Win TV (720p)",
@@ -2380,6 +2638,12 @@
     "type": "General",
     "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
     "img": "https://i.imgur.com/4ss0KfA.png"
+  },
+  {
+    "name": "Colors Rishtey Asia (576p)",
+    "type": "General",
+    "url": "https://playyonogames.in/live.php?id=279&format=.m3u8",
+    "img": "https://i.imgur.com/YKWfMZo.png"
   },
   {
     "name": "Dangal TV (720p)",
@@ -2578,6 +2842,12 @@
     "type": "General",
     "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
     "img": "https://i.imgur.com/X2MU1lm.png"
+  },
+  {
+    "name": "Kairali TV (576p)",
+    "type": "General",
+    "url": "https://playyonogames.in/live.php?id=710&format=.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png"
   },
   {
     "name": "Kalaignar TV (576p)",
@@ -2892,6 +3162,12 @@
     "img": "https://i.postimg.cc/854KwmH1/disneychannel.png"
   },
   {
+    "name": "Disney International HD (1080p)",
+    "type": "Kids",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8",
+    "img": "https://i.imgur.com/JkGvrc6.png"
+  },
+  {
     "name": "Disney Junior (576p)",
     "type": "Kids",
     "url": "http://116.90.120.149:8000/play/a0b3/index.m3u8",
@@ -2906,7 +3182,7 @@
   {
     "name": "Nick HD+ (1080p) [Not 24/7]",
     "type": "Kids",
-    "url": "http://116.90.120.149:8000/play/a0cw/index.m3u8",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8",
     "img": "https://i.imgur.com/nJPbTet.png"
   },
   {
@@ -2914,6 +3190,12 @@
     "type": "Kids",
     "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
+  },
+  {
+    "name": "Sonic (576p)",
+    "type": "Kids",
+    "url": "https://playyonogames.in/jio/app/ts_live_815.m3u8",
+    "img": "https://i.imgur.com/vSJzF6o.png"
   },
   {
     "name": "ZB Cartoon (1080p)",
@@ -2998,6 +3280,12 @@
     "type": "Comedy",
     "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8",
     "img": "https://i.imgur.com/nsplwFc.png"
+  },
+  {
+    "name": "Surya Comedy (576p)",
+    "type": "Comedy",
+    "url": "https://playyonogames.in/live.php?id=1662&format=.m3u8",
+    "img": "https://i.imgur.com/dNI0Vm5.png"
   },
   {
     "name": "Travelxp (720p)",
