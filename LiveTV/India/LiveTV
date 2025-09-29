@@ -351,7 +351,7 @@
     "name": "INews (720p)",
     "type": "News",
     "url": "https://cdn-1.pishow.tv/live/411/master.m3u8",
-    "img": "https://i.postimg.cc/sfHXNBwm/inews.png"
+    "img": "https://i.imgur.com/IV1O11i.png"
   },
   {
     "name": "INH 24x7 (360p)",
@@ -1911,7 +1911,7 @@
     "name": "Life TV (480p) [Not 24/7]",
     "type": "Religious",
     "url": "http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8",
-    "img": "https://i.postimg.cc/1ztS1BWj/lifetv.png"
+    "img": "https://i.ibb.co/v1C0bdR/logo-1.png"
   },
   {
     "name": "Madha TV (600p)",
@@ -2007,7 +2007,7 @@
     "name": "Animax [Geo-blocked]",
     "type": "Animation",
     "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png"
   },
   {
     "name": "Ayush TV (360p) [Not 24/7]",
@@ -2091,7 +2091,7 @@
     "name": "Power TV (1080p)",
     "type": "Undefined",
     "url": "https://liveboxvideoconference.livebox.co.in/PowersmartMediahls/powertvlive.m3u8",
-    "img": "https://i.postimg.cc/RZmwMsnG/powertv.png"
+    "img": "https://i.imgur.com/7wqqA1n.png"
   },
   {
     "name": "Prarthana TV (720p)",
@@ -2895,7 +2895,7 @@
     "name": "Metro TV (576p)",
     "type": "General",
     "url": "https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8",
-    "img": "https://i.postimg.cc/HL6NDmMX/metrotv.png"
+    "img": "https://i.ibb.co/CBgJ4QV/metro-logo.jpg"
   },
   {
     "name": "Nandighosha TV (720p)",

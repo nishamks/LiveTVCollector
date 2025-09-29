@@ -1,7 +1,7 @@
 Group: Animation
 Name: Animax [Geo-blocked]
 URL: https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
@@ -866,7 +866,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Metro TV (576p)
 URL: https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
-Logo: https://i.postimg.cc/HL6NDmMX/metrotv.png
+Logo: https://i.ibb.co/CBgJ4QV/metro-logo.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Nandighosha TV (720p)
@@ -1774,7 +1774,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: INews (720p)
 URL: https://cdn-1.pishow.tv/live/411/master.m3u8
-Logo: https://i.postimg.cc/sfHXNBwm/inews.png
+Logo: https://i.imgur.com/IV1O11i.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: INH 24x7 (360p)
@@ -2353,7 +2353,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Life TV (480p) [Not 24/7]
 URL: http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8
-Logo: https://i.postimg.cc/1ztS1BWj/lifetv.png
+Logo: https://i.ibb.co/v1C0bdR/logo-1.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Madha TV (600p)
@@ -8319,7 +8319,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Power TV (1080p)
 URL: https://liveboxvideoconference.livebox.co.in/PowersmartMediahls/powertvlive.m3u8
-Logo: https://i.postimg.cc/RZmwMsnG/powertv.png
+Logo: https://i.imgur.com/7wqqA1n.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Prarthana TV (720p)
