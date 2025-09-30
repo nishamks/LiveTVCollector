@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-29 21:42:33",
+  "date": "2025-09-30 06:25:07",
   "channels": {
     "News": [
       {
@@ -1062,6 +1062,13 @@
         "url": "https://live.hungama.com/linear/dil-se/playlist.m3u8"
       },
       {
+        "name": "Gemini Music (1080p)",
+        "logo": "https://i.imgur.com/ShIpLj3.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/geminimusichd/master.m3u8"
+      },
+      {
         "name": "Insync (576p)",
         "logo": "https://i.imgur.com/fAJdazJ.png",
         "group": "Music",
@@ -1207,6 +1214,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8"
+      },
+      {
+        "name": "Sun Music (1080p)",
+        "logo": "https://i.imgur.com/j8qxtZZ.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/sunmusichd/master.m3u8"
       },
       {
         "name": "Surya Music (576p)",
@@ -1359,7 +1373,7 @@
       },
       {
         "name": "Filamchi Bhojpuri (1080p)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/c/c1/Filamchi-Bhojpuri_Tagline.jpg",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
@@ -1370,6 +1384,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8"
+      },
+      {
+        "name": "Gemini Movies (1080p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/geminimovieshd/master.m3u8"
       },
       {
         "name": "Jalsha Movies HD (1080p)",
@@ -1384,6 +1405,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://playyonogames.in/live.php?id=731&format=.m3u8"
+      },
+      {
+        "name": "KTV (1080p)",
+        "logo": "https://i.imgur.com/G4fFx53.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/ktvhd/master.m3u8"
       },
       {
         "name": "Maha Movie (576p) [Not 24/7]",
@@ -1422,17 +1450,10 @@
       },
       {
         "name": "Sony Wah (1080p)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8"
-      },
-      {
-        "name": "Star Gold HD (1080p)",
-        "logo": "https://i.imgur.com/xC460sj.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.81.104.118/hls/stream19.m3u8"
       },
       {
         "name": "Star Gold HD (1080p)",
@@ -1554,6 +1575,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8"
+      },
+      {
+        "name": "Adithya TV (576p)",
+        "logo": "https://i.imgur.com/XaaR9ro.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/adithyatv/master.m3u8"
       },
       {
         "name": "Alankar TV (720p)",
@@ -2356,6 +2384,13 @@
         "group": "Animation",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8"
+      },
+      {
+        "name": "Chutti TV (576p)",
+        "logo": "https://i.imgur.com/FSM47sR.png",
+        "group": "Animation",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/chuttitv/master.m3u8"
       }
     ],
     "Lifestyle": [
@@ -2379,6 +2414,13 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8"
+      },
+      {
+        "name": "Gemini Life (576p)",
+        "logo": "https://i.imgur.com/ypok7q5.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/geminilife/master.m3u8"
       },
       {
         "name": "Kappa TV (576p)",
@@ -2801,6 +2843,20 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://playyonogames.in/live.php?id=1669&format=.m3u8"
+      },
+      {
+        "name": "Sun Life (576p)",
+        "logo": "https://i.imgur.com/rw9eI7V.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/sunlife/master.m3u8"
+      },
+      {
+        "name": "Sun Marathi (1080p)",
+        "logo": "https://i.imgur.com/uUJz1tC.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/sunmarathi/master.m3u8"
       },
       {
         "name": "Sun TV (1080p)",
@@ -3344,7 +3400,7 @@
         "url": "https://playyonogames.in/live.php?id=710&format=.m3u8"
       },
       {
-        "name": "Kalaignar TV (576p)",
+        "name": "Kalaignar TV (396p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
@@ -3461,6 +3517,15 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Chintu TV (576p)",
+        "logo": "https://i.imgur.com/MHrufYc.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/chintutv/master.m3u8"
       }
     ],
     "Business": [
@@ -3739,6 +3804,20 @@
         "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
       },
       {
+        "name": "Kochu TV (576p)",
+        "logo": "https://i.imgur.com/OSKUQHW.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/kochutv/master.m3u8"
+      },
+      {
+        "name": "Kushi TV (576p)",
+        "logo": "https://i.imgur.com/1h1LzPF.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/kushitv/master.m3u8"
+      },
+      {
         "name": "Nick HD+ (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/nJPbTet.png",
         "group": "Kids",
@@ -3783,6 +3862,36 @@
         "group": "Cooking;Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://14.199.164.20:4001/play/a0qx/index.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "Gemini Comedy (576p)",
+        "logo": "https://i.imgur.com/CnDyjkX.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/geminicomedy/master.m3u8"
+      },
+      {
+        "name": "Sirippoli TV (576p)",
+        "logo": "https://i.imgur.com/nsplwFc.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
+      },
+      {
+        "name": "Surya Comedy (576p)",
+        "logo": "https://i.imgur.com/dNI0Vm5.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://playyonogames.in/live.php?id=1662&format=.m3u8"
+      },
+      {
+        "name": "Udaya Comedy (576p)",
+        "logo": "https://i.imgur.com/mLAnscw.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/udayacomedy/master.m3u8"
       }
     ],
     "Education": [
@@ -3865,22 +3974,6 @@
         "group": "Culture;Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8"
-      }
-    ],
-    "Comedy": [
-      {
-        "name": "Sirippoli TV (576p)",
-        "logo": "https://i.imgur.com/nsplwFc.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8"
-      },
-      {
-        "name": "Surya Comedy (576p)",
-        "logo": "https://i.imgur.com/dNI0Vm5.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=1662&format=.m3u8"
       }
     ],
     "Travel": [
