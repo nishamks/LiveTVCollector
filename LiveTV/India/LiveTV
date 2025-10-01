@@ -1158,6 +1158,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Colors Kannada Cinema (576p)",
+    "type": "Movies",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/index.m3u8",
+    "img": "https://i.imgur.com/gNbA3NO.png"
+  },
+  {
     "name": "Dhinchaak (576p) [Not 24/7]",
     "type": "Movies",
     "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
@@ -1186,6 +1192,12 @@
     "type": "Movies",
     "url": "https://live.dinesh29.com.np/stream/jiotvplus/geminimovieshd/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "J Movie (576p)",
+    "type": "Movies",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/jmovies/master.m3u8",
+    "img": "https://i.imgur.com/cpaudl9.png"
   },
   {
     "name": "Jalsha Movies HD (1080p)",
@@ -1240,6 +1252,12 @@
     "type": "Movies",
     "url": "https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png"
+  },
+  {
+    "name": "Star Gold 2 HD (576p)",
+    "type": "Movies",
+    "url": "http://116.90.120.149:8000/play/a0ea/index.m3u8",
+    "img": "https://i.imgur.com/G0ZfzZr.png"
   },
   {
     "name": "Star Gold HD (1080p)",
@@ -1698,9 +1716,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png"
   },
   {
-    "name": "Sooriyan TV",
+    "name": "Sooriyan TV (1080p)",
     "type": "Entertainment",
-    "url": "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8",
+    "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8",
     "img": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg"
   },
   {
@@ -1714,6 +1732,12 @@
     "type": "Entertainment",
     "url": "https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8",
     "img": "https://i.imgur.com/IlufzR5.png"
+  },
+  {
+    "name": "Star Kiran (576p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starkiran/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Star_Kiran_logo_2023.png"
   },
   {
     "name": "Star Maa HD (1080p)",
@@ -1744,6 +1768,12 @@
     "type": "Entertainment",
     "url": "https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8",
     "img": "https://i.imgur.com/xWxNy3L.png"
+  },
+  {
+    "name": "Sun Neo (1080p)",
+    "type": "Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/sunneohd/master.m3u8",
+    "img": "https://sund-images.sunnxt.com/194389/1920x1080_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg"
   },
   {
     "name": "Surya TV (1080p)",
@@ -2580,6 +2610,12 @@
     "img": "https://i.imgur.com/e26mQ7x.png"
   },
   {
+    "name": "Zee Cafe (1080p)",
+    "type": "Undefined",
+    "url": "http://116.90.120.149:8000/play/a0e7/index.m3u8",
+    "img": "https://i.imgur.com/9eX5dN3.png"
+  },
+  {
     "name": "Zee Hindustan (720p)",
     "type": "Undefined",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8",
@@ -3102,6 +3138,24 @@
     "img": "https://i.imgur.com/dfLSnsZ.png"
   },
   {
+    "name": "Star Sports 2 Hindi (1080p)",
+    "type": "Sports",
+    "url": "http://116.90.120.149:8000/play/a0cs/index.m3u8",
+    "img": "https://i.imgur.com/kHerF19.png"
+  },
+  {
+    "name": "Star Sports Select 1 HD (1080p)",
+    "type": "Sports",
+    "url": "http://116.90.120.149:8000/play/a0cl/index.m3u8",
+    "img": "https://i.imgur.com/Mh9tKPx.png"
+  },
+  {
+    "name": "Star Sports Select 2 HD (1080p)",
+    "type": "Sports",
+    "url": "http://116.90.120.149:8000/play/a0cm/index.m3u8",
+    "img": "https://i.imgur.com/FtRT73R.png"
+  },
+  {
     "name": "DUBAI SPORTS",
     "type": "Sports",
     "url": "http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8",
@@ -3334,6 +3388,12 @@
     "type": "Movies;News",
     "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
     "img": "https://i.ibb.co/jT3NCPp/logo-tv.png"
+  },
+  {
+    "name": "Jaya TV (1080p)",
+    "type": "Culture;Entertainment",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/jayatvhd/master.m3u8",
+    "img": "https://i.imgur.com/wZJBYmA.png"
   },
   {
     "name": "Lok Sabha TV (1080p)",

@@ -253,6 +253,13 @@ Logo: https://i.imgur.com/tCT3qL9.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
+Group: Culture;Entertainment
+Name: Jaya TV (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/jayatvhd/master.m3u8
+Logo: https://i.imgur.com/wZJBYmA.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+
 Group: Culture;Religious
 Name: Sanskar TV (1080p)
 URL: https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
@@ -597,8 +604,8 @@ URL: https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sooriyan TV
-URL: https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+Name: Sooriyan TV (1080p)
+URL: https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 Logo: https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -610,6 +617,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Jalsha HD (1080p)
 URL: https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 Logo: https://i.imgur.com/IlufzR5.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Kiran (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/starkiran/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/a/a4/Star_Kiran_logo_2023.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Maa HD (1080p)
@@ -635,6 +647,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: StarPlus HD (1080p)
 URL: https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 Logo: https://i.imgur.com/xWxNy3L.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Sun Neo (1080p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/sunneohd/master.m3u8
+Logo: https://sund-images.sunnxt.com/194389/1920x1080_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Surya TV (1080p)
@@ -1178,6 +1195,11 @@ URL: https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhi
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Colors Kannada Cinema (576p)
+URL: https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/index.m3u8
+Logo: https://i.imgur.com/gNbA3NO.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Dhinchaak (576p) [Not 24/7]
 URL: http://14.199.164.20:4001/play/a0o5/index.m3u8
 Logo: https://i.imgur.com/oqqChlH.png
@@ -1201,6 +1223,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Gemini Movies (1080p)
 URL: https://live.dinesh29.com.np/stream/jiotvplus/geminimovieshd/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: J Movie (576p)
+URL: https://live.dinesh29.com.np/stream/jiotvplus/jmovies/master.m3u8
+Logo: https://i.imgur.com/cpaudl9.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Jalsha Movies HD (1080p)
@@ -1246,6 +1273,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Sony Wah (1080p)
 URL: https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Gold 2 HD (576p)
+URL: http://116.90.120.149:8000/play/a0ea/index.m3u8
+Logo: https://i.imgur.com/G0ZfzZr.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Gold HD (1080p)
@@ -2697,6 +2729,21 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Sports 1 Tamil HD
 URL: https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
 Logo: https://i.imgur.com/dfLSnsZ.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports 2 Hindi (1080p)
+URL: http://116.90.120.149:8000/play/a0cs/index.m3u8
+Logo: https://i.imgur.com/kHerF19.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports Select 1 HD (1080p)
+URL: http://116.90.120.149:8000/play/a0cl/index.m3u8
+Logo: https://i.imgur.com/Mh9tKPx.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Star Sports Select 2 HD (1080p)
+URL: http://116.90.120.149:8000/play/a0cm/index.m3u8
+Logo: https://i.imgur.com/FtRT73R.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: DUBAI SPORTS
@@ -8752,6 +8799,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Zee Bihar Jharkhand (720p)
 URL: https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
 Logo: https://i.imgur.com/e26mQ7x.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Zee Cafe (1080p)
+URL: http://116.90.120.149:8000/play/a0e7/index.m3u8
+Logo: https://i.imgur.com/9eX5dN3.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Hindustan (720p)

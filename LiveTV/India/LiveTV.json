@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-30 21:44:58",
+  "date": "2025-10-01 06:31:19",
   "channels": {
     "News": [
       {
@@ -1358,6 +1358,13 @@
         "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8"
       },
       {
+        "name": "Colors Kannada Cinema (576p)",
+        "logo": "https://i.imgur.com/gNbA3NO.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/index.m3u8"
+      },
+      {
         "name": "Dhinchaak (576p) [Not 24/7]",
         "logo": "https://i.imgur.com/oqqChlH.png",
         "group": "Movies",
@@ -1391,6 +1398,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live.dinesh29.com.np/stream/jiotvplus/geminimovieshd/master.m3u8"
+      },
+      {
+        "name": "J Movie (576p)",
+        "logo": "https://i.imgur.com/cpaudl9.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/jmovies/master.m3u8"
       },
       {
         "name": "Jalsha Movies HD (1080p)",
@@ -1454,6 +1468,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8"
+      },
+      {
+        "name": "Star Gold 2 HD (576p)",
+        "logo": "https://i.imgur.com/G0ZfzZr.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.149:8000/play/a0ea/index.m3u8"
       },
       {
         "name": "Star Gold HD (1080p)",
@@ -1990,11 +2011,11 @@
         "url": "https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8"
       },
       {
-        "name": "Sooriyan TV",
+        "name": "Sooriyan TV (1080p)",
         "logo": "https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8"
+        "url": "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
       },
       {
         "name": "Star Bharat HD (1080p)",
@@ -2009,6 +2030,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8"
+      },
+      {
+        "name": "Star Kiran (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Star_Kiran_logo_2023.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/starkiran/master.m3u8"
       },
       {
         "name": "Star Maa HD (1080p)",
@@ -2044,6 +2072,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8"
+      },
+      {
+        "name": "Sun Neo (1080p)",
+        "logo": "https://sund-images.sunnxt.com/194389/1920x1080_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/sunneohd/master.m3u8"
       },
       {
         "name": "Surya TV (1080p)",
@@ -3027,6 +3062,13 @@
         "url": "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8"
       },
       {
+        "name": "Zee Cafe (1080p)",
+        "logo": "https://i.imgur.com/9eX5dN3.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.149:8000/play/a0e7/index.m3u8"
+      },
+      {
         "name": "Zee Hindustan (720p)",
         "logo": "https://i.imgur.com/3eAZMxA.png",
         "group": "Undefined",
@@ -3648,6 +3690,27 @@
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8"
       },
       {
+        "name": "Star Sports 2 Hindi (1080p)",
+        "logo": "https://i.imgur.com/kHerF19.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.149:8000/play/a0cs/index.m3u8"
+      },
+      {
+        "name": "Star Sports Select 1 HD (1080p)",
+        "logo": "https://i.imgur.com/Mh9tKPx.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.149:8000/play/a0cl/index.m3u8"
+      },
+      {
+        "name": "Star Sports Select 2 HD (1080p)",
+        "logo": "https://i.imgur.com/FtRT73R.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.149:8000/play/a0cm/index.m3u8"
+      },
+      {
         "name": "DUBAI SPORTS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
@@ -3933,6 +3996,15 @@
         "group": "Movies;News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8"
+      }
+    ],
+    "Culture;Entertainment": [
+      {
+        "name": "Jaya TV (1080p)",
+        "logo": "https://i.imgur.com/wZJBYmA.png",
+        "group": "Culture;Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/jayatvhd/master.m3u8"
       }
     ],
     "Legislative": [
