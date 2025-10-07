@@ -1056,6 +1056,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png"
   },
   {
+    "name": "Tunes 6 (576p)",
+    "type": "Music",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/tunes6/master.m3u8",
+    "img": "https://i.imgur.com/VUzMQ9S.png"
+  },
+  {
     "name": "Udaya Music (576p)",
     "type": "Music",
     "url": "https://playyonogames.in/live.php?id=744&format=.m3u8",
@@ -1274,7 +1280,7 @@
   {
     "name": "Star Gold Select HD (1080p)",
     "type": "Movies",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8",
     "img": "https://i.imgur.com/U7eiuqv.png"
   },
   {

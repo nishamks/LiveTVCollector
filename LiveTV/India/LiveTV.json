@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-06 21:44:17",
+  "date": "2025-10-07 06:24:42",
   "channels": {
     "News": [
       {
@@ -1237,6 +1237,13 @@
         "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8"
       },
       {
+        "name": "Tunes 6 (576p)",
+        "logo": "https://i.imgur.com/VUzMQ9S.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/tunes6/master.m3u8"
+      },
+      {
         "name": "Udaya Music (576p)",
         "logo": "https://i.imgur.com/Lp1OuB9.png",
         "group": "Music",
@@ -1495,7 +1502,7 @@
         "logo": "https://i.imgur.com/U7eiuqv.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8"
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8"
       },
       {
         "name": "Star Gold Thrills (576p)",
