@@ -2652,12 +2652,6 @@
     "img": "https://i.imgur.com/vv9ysD3.png"
   },
   {
-    "name": "Zee Picchar (1080p)",
-    "type": "Undefined",
-    "url": "https://playyonogames.in/z5/stream.m3u8?id=0-9-241",
-    "img": "https://i.imgur.com/e1g8qZJ.png"
-  },
-  {
     "name": "Zee Punjab Haryana Himachal (720p)",
     "type": "Undefined",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
@@ -3315,7 +3309,7 @@
     "name": "Nick Jr India (1080p)",
     "type": "Kids",
     "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png"
   },
   {
     "name": "Sonic (576p)",
