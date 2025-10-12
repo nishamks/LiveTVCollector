@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-11 21:52:10",
+  "date": "2025-10-12 07:11:30",
   "channels": {
     "☘️浙江频道": [
       {
@@ -814,14 +814,14 @@
         "logo": "https://i.ibb.co/BBpR1Wx/tf1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjAyMDY3NDcsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwMTkyMzQ3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.H2n3C8CPBVTi8KcNrjXVl7WbHlrSM8OTRy6RZ_uSJ-k/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8"
+        "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjAyMzkwOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwMjI0NjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.1cu8Km-7YUpfuMZrV6OvnQQPrU8jZo-7juOgDKXjlvM/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8"
       },
       {
         "name": "TF1-",
         "logo": "https://i.ibb.co/BBpR1Wx/tf1.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjAyMDc5NzAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDE5MzU3MCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.C4qMQmgFD5nbuX6R_Rq1dVIkA5yr-COogWNuwMm_Vx8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8"
+        "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjAyNDA0MjYsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDIyNjAyNiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.pX-w4d0L_qgAqCvhKrZlf-pZzdmBZK-h2LTLeRdsl98/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8"
       },
       {
         "name": "FRANCE 2",
@@ -4055,14 +4055,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-n84dlaps8g0XjWxhEwJDA&e=1760210253"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-xY_1RZSbKYMP_ui1fk-Wg&e=1760231877"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-n84dlaps8g0XjWxhEwJDA&e=1760210253"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-xY_1RZSbKYMP_ui1fk-Wg&e=1760231877"
       },
       {
         "name": "TV8",
@@ -19968,14 +19968,14 @@
         "logo": "https://i.imgur.com/sz9gTTr.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
+        "url": "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8"
       },
       {
         "name": "Record",
         "logo": "https://i.imgur.com/sz9gTTr.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8"
+        "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8"
       },
       {
         "name": "Record RS",
@@ -20074,6 +20074,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8"
+      },
+      {
+        "name": "Rede TV! ES",
+        "logo": "https://i.imgur.com/k7vO9Bk.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://streaming.cloudecast.com/hls/redetves/index.m3u8"
       },
       {
         "name": "SBT Interior",
@@ -20591,21 +20598,28 @@
         "logo": "https://cdn.mitvstatic.com/channels/br_sbt_m.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220011/ei/C3_qaN34Bdnc-LAPqMLo8QU/ip/138.117.221.219/id/Yn15hPQ76C4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSUwnoPmhNwd84KBky1WR9LWDKccXNnDZ_NOF-l-oNqZy6EuVgfyCxHGBlk1sPbLSSpeUsiO2mHi/spc/hcYD5XLmg1P6HXHYKW776h6FNexops9Q1Q4-SSmqARL8YDIQLyQchhlSlNECoUSCV0M/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/2437500/met/1760198412,/mh/jP/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760198207/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAL5TgYzaKACddBQapdBoSck_Libc2cxZhju73GG0YSd_AiBqVxAAQbdoweyhsuBNJkcTPPdSQ1WhbwtWLJbofv69Sw%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgNm2YDaz_F1hnrR4JzbFA8car46g2rtuiet9fKl1MiMYCIQCWDYlRIJWEvnM4kL8NfTpBIks8F31hq3Mmf7ae7hr3WA%3D%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252411/ei/m_3qaIb0ApeV9cYPkYnaGA/ip/138.117.221.219/id/Yn15hPQ76C4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSUTsmKROp_O6iQsbt9cEqywUd8HJUGKrURxkOaKUJkXf8o5j6a7B338fytJqYvayPly6KIgfTQr/spc/hcYD5VmRVAuEUDJv_EHuNCi6XWvLFuo5hymX-5gtSgNXcJw6M8XBNfBzhqdRlaMJNB8sXg/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/2145000/met/1760230811,/mh/jP/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr4---sn-n0hpjput-bpbl.googlevideo.com/rms/lva,lva/smhost/rr2---sn-n0hpjput-bpbz.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650,51626155/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPRGBKpIxAWiU8tKdTTH0Zq_9Nk23qlNQqR6t5OgmMulAiADRqvlrxkBC0iDs9e5ZRwrOfnM5Dky3m29fuZG5WJlmQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIgD80pbEhQ0HVdUbLBVxQarxjYqK2hICB8gkjB2Sq9HF0CIQCAg-5eGVTUpH4gQo9o1rOQjlKxN9ozP4dkaj-UjhBRsQ%3D%3D/playlist/index.m3u8"
       },
       {
         "name": "SBT - YouTube",
         "logo": "https://cdn.mitvstatic.com/channels/br_sbt_m.png",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220013/ei/DX_qaL_VA4CG9cYPpsLqiAY/ip/138.117.221.219/id/LLpNUqHVam8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ATw7iSUEKMzrCHBnFHQzWGY8tQzlSSYtsL6fRk5oHfJrEsaoDo3go-Kow9JQOIBuOh3W5_W_tX4Y56ue/spc/hcYD5UT4dPL4hhaNPASAgq15ne4uApYVzSp7aXopBhaP1zRXa8xbXYYUNBgJbFWRqM3MXppgt4I/vprv/1/playlist_type/DVR/initcwndbps/2386250/met/1760198414,/mh/pR/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJjySxuhqzsywwwr2C2YCT-6za_j93yjmza10jdkjkWPAiEA56xVLNDNl5R1Oo5A8PPrAJdCEPigyHzeURTL03qzLIw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAI82ICxeGlPAj66ojemx0sYHS1maA2HGAKiL0Vvi--RTAiEAgL8RL7YrdxhUJxZOQPw8AbQ1vylCqChMwS6UYAxH3JM%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252412/ei/nP3qaPPTB9yC9cYP7729uAc/ip/138.117.221.219/id/LLpNUqHVam8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ATw7iSXlAD54Jo2vknt4tetVzsogFIb47pxyK-mPxDmwiLBhjfLuSmwrN1Oa8eb4RYaeDV1IXVrEUtvp/spc/hcYD5Tqvkg_YcWmdtngIF27UqyC_x5dNlJk3jJRTJj-yAK35fGlYAGQVNGoNvh4QYGIBWYlONvk/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/2276250/met/1760230813,/mh/pR/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr2---sn-n0hpjput-bpb6.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgd9uDi7keo3U68zq1BNxplz7xrNMxBzvPs8BgWTi1ypYCIHpLE0s6DC4vPgMz_b7eBOebjnTWPB2XDfvTMYTTS1bj/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRAIgefyvMB3zyDVaOzcsWSuDoDcU1RYuNA2kqV7duqq8r3ECIAZkIaBWVrvJ13F3xCA0Ifyz51jaNGvIovTYzBN9M6CX/playlist/index.m3u8"
       },
       {
         "name": "Diário TV Teresópolis",
         "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c395ee4019fcd2bcacc342b09d3c9ff7.webp",
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220017/ei/EX_qaJHmN-ex9cYP6JnlqAw/ip/138.117.221.219/id/NKw9BOlMONk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSXRCywtol2GW5F_4YFNyIj6HZw1mnUbFm-amLjj0DQdcPf9FDH2flGbGqzGldyvh1FE0tBTmZex/spc/hcYD5RagfAA8vpJx0RHzZjgkVZb93iaswIUc38d4YVwAhtJGr58aWzBXCnkk1kdrD5rtrIFPJZY/vprv/1/playlist_type/DVR/initcwndbps/2618750/met/1760198419,/mh/Xe/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPjwlVMOtfpdndQCjfsXZjKrEsnSa6a57oHzh-w3jHQpAiB0GYn38aqyWGOa-YjS2t9oVDYUCuiR89ulyABkIQUVZw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhAITkIovK5ha2q67pqKaTx52naOWZppLQWKsJRaeaYl7qAiEAvUdnzeJG2XbPpJGsisu9Yi3Jw2ggDsuT69ABYY4xGrA%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252417/ei/of3qaPfhBqua9cYPoIzCmAw/ip/138.117.221.219/id/NKw9BOlMONk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSXL_BpYMgmqVn4562eR_cYt3nJDaa_BVGmqAPLiMTcion5D0wUgbYVR8KHLYdCa5wLXbP79kFNX/spc/hcYD5VxHwUvJv6SJGbTAeaoyvc1cweLGy7I2DW57s_t4kztgByvBKhzUTHD0-Cw_Q6dd3VNoqls/vprv/1/playlist_type/DVR/initcwndbps/2141250/met/1760230818,/mh/Xe/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKok94ucwzJwnXPgavP1CCbc0ArGWq0hCJAJNXv4EEumAiARJwDXK91eazK4-GrUuDY0KulMbFKdR7vLhBFewJ1sHQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALkTJ-XWg6zAScwF-B5NLIFMe5UshZBDiY41YQj9n-7sAiB_UhIS7_DWZ52hAkb23QKhoJFfr0vAoFBCmtSbC5KboA%3D%3D/playlist/index.m3u8"
+      },
+      {
+        "name": "TV Correio da Manhã",
+        "logo": "https://yt3.ggpht.com/ygMbu6lhpO4HV0hqceunzUNG_dqkdyOIrmr1VrtZfC8F48pyK8NFBw3Vn6P3YFmDJDq24YjFHA=s88-c-k-c0x00ffffff-no-rj",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252435/ei/s_3qaO7CD8PC9cYPuebggA0/ip/138.117.221.219/id/rute3jjkquA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSVDVzo77PslM5NoEGxvY42MEqRpYZcOjExcs6moy5pRIzfPn5mBzbSJTjupfS7m_o6HsOWVJ89a/spc/hcYD5SUqFOy1uy8XLeDTmPR3xK23DMfNUZ46Onvbaf_n_6Ekc4WFQz7mCS5Cy05Tk4EUlQL7VYk/vprv/1/playlist_type/DVR/initcwndbps/2276250/met/1760230836,/mh/S7/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgePwJN60C85i4P_b39DwYK9uVJEzfd-R4as81j6zn-aoCIQDs5tIS4TNuV4Ov78qMQyk-5fHdacCYNMoe8B5nAtUpsg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgdVdKd4zOETxIzWYdp3paMebaAhvOS-P4rYhluQI15w0CICAVdBqOJZnm3ohOM0nL4zHFZzVSImEJXmoqhRYJwrg8/playlist/index.m3u8"
       }
     ],
     "Filmes": [
@@ -20728,7 +20742,7 @@
         "logo": "https://yt3.ggpht.com/er0IYBx2fOrUdTheL_zI5MRTBuAJPpBqBWqsQxvX-X3h71gjISb6K0Hp02PkE083hiN2qCRw=s88-c-k-c0x00ffffff-no-rj",
         "group": "Séries",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220031/ei/H3_qaIytF4WRobIP45KduAw/ip/138.117.221.219/id/NOCisq9ASyM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/ATw7iSVL_oJPyv70O4XQTnyDw6qRIHCewcfYAVu-JMQBTr3IHxhPI79UoCZ5wvl-k6t6ONf-pHiTfueE/spc/hcYD5dlXha0VWaxloKZ66tkor9n5zfAISk7KeMYWcDlEJe-yXTPQyHZ008rOhBUBBjwzsP3_lF4/vprv/1/playlist_type/DVR/initcwndbps/2618750/met/1760198432,/mh/aP/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgaLwO_-vyl9bkIYhAp9xdGKP3dwvWkz87twiEG-xa6QwCIQCAGptNvvKnMstWke6BiXuQzoNfXani8b1XEtikN1deyA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgTwvGbbKoyFq9DAA2KGfNpwLC9mdmBIkeYNT8-fPmXFwCIQD3JIOARDryuTDXLpxUW5gZkLOapROJ-G-HhVNFy9_YUg%3D%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252434/ei/sv3qaJLZAu6tobIPgdWqmAw/ip/138.117.221.219/id/NOCisq9ASyM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/ATw7iSW8ab5u7cXZHr7dkcPwD-setVlwFxBgJJ_qAiBslbWRC9E_K3GRg4QYoLt6zjepLnBpsDp1oIRR/spc/hcYD5ae59ulfLxWkrR7l3ovLxkGqx_cJ6lqOjqYTKWr9mB3SyIXRqSgtUMKEMa1HO90YHl9EnL4/vprv/1/playlist_type/DVR/initcwndbps/2141250/met/1760230835,/mh/aP/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhALcjcbZggbXbYxAA4LwsPddIqGPl2yJrfMUSlXho17IWAiAkK5UMukalBstfFtzg31LS-d7U00SqgYKcndR9bUWVhA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgdktwNRtP6JBO-2Lx3Ywq7_awKjdYR0tyAauYNh012VMCIQCeUM41QcIwrINfOJABN_-tn-rfWGHqy0fhafXoplaFPg%3D%3D/playlist/index.m3u8"
       }
     ],
     "Infantil": [
@@ -20779,14 +20793,14 @@
         "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp",
         "group": "Infantil",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220016/ei/EH_qaJ6sJpOzobIPytbeqAg/ip/138.117.221.219/id/Uum0rJM7Xaw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSWBKfhWs_57fWMsTB0Zl-p9eJWqjqHrRKjJC6Id9rFyx-BPD1l2ZuwaWWh0qDQQsVYdYwbART7u/spc/hcYD5dd7flFpxZ-gTa246qSof1zcW3Ss_xwB77-6vIhC2jjNjMglhxEbtQq7ujv7_RDyV2LlIXM/vprv/1/playlist_type/DVR/initcwndbps/2386250/met/1760198417,/mh/GL/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOPst3jOfMwdUYiY_k35M5UMeEk2tryHP9nI5Z2l7gQVAiA5Va1PlEuKo4xurDEIuWEGfAJ8MvStnmP28Yi6L4HpIA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMXpYg8fbmMChC5d9A-Y4xSoj9vmS5lW4I8EFS3N1w52AiBbg_x5vGOGsfxUtHtzR3PoEPK12MTHgBGSCZo4aScpXw%3D%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252415/ei/n_3qaLS4O7qq9cYP25e-OQ/ip/138.117.221.219/id/FcYbQQAvDpM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSWsfRFqJqcBamUICLrlwwNkn2dEpIT52Z_k4PGssCWfAsRsr98kKSsZJnLg_XCAyMMPkltxGW6_/spc/hcYD5aCnExstoQNEMg-G7pBIB90MR-6EN-nBPXc1CRH5itQZXP2Uwoa-vhpijNDDS_ha3UQGpj4/vprv/1/playlist_type/DVR/initcwndbps/2355000/met/1760230816,/mh/Oj/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgEeERo_Dwre2FDglSJ819wQQpJz36LiKaYmUvvwtWnakCIBvJdE46m4jJ7qUWCu7-CqyCr7w7lSlQFszDUAkCwveG/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgAjYQQd6KXENr3A6xFxynCg8O65yeAKkqLQjiWDVwGC8CIQCu9mysT8k0imQaGSCHukC0GQOzAZvLtBi_4ig4pri0Ig%3D%3D/playlist/index.m3u8"
       },
       {
         "name": "Pica-Pau",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_nRLIrnk2e7Ev0pytjw0wvvyh7cMFAWJbcqmM4167sanV8=s160-c-k-c0x00ffffff-no-rj",
         "group": "Infantil",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220020/ei/FH_qaLuMCs2r9cYPl5_AKQ/ip/138.117.221.219/id/j92nWZ0MMj4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSVQLvjtaAa7cMmhF0gSeiXfQfgjwiG4tGe6WYd1kcMIRF4exbClxSeVtPYjrkRxNTihxcAjgQaJ/spc/hcYD5dOfr_wwEeqDgjsoz4ebYAc3vtWK9ogKwJziiW2hb4A0JscUQA-YtfpmGu9Vk0WyfcYEZ60/vprv/1/playlist_type/DVR/initcwndbps/2618750/met/1760198424,/mh/DJ/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKoPq27LG6x2ctdc6af42wEl7WYjAU1Q932pids12_QwAiBvTw-lkgecwQktDHyOgkOzK1Drk5RPWckd__gdifWOqA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgYt6PunRo6Am5qs739JQDIU09GqwE5q18Ubtbkebqoq4CIC7YY6bxR1O4x9nmQfRaUa4cdZVMI-cWHNYAN_EHLqHE/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252418/ei/ov3qaOqMMZjB9cYPn96xQA/ip/138.117.221.219/id/j92nWZ0MMj4.1~45720748/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSVa81DOiM260-rVX1rT-urbCr5TiRm_TDc39LqBb-rZ38ZE0ge5YKJO4u07Mr9wi-oCcTRP-XYn/spc/hcYD5fmmQ-TOwXIeHRoTE4gnRgr6S0FUgFxOJo0IP2J1tdJMzhqfA7nLsMz3coNEr-adHK9EXF0/vprv/1/playlist_type/DVR/initcwndbps/2141250/met/1760230819,/mh/iU/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKFD4yFSib1auYNWT9NoTtX1pXiPIx7XgIItu0Jfuc66AiEAy7eVj5oF0FBC0zbhYx-OIzB8KC4mGU-uwcHD9Dz10eI%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgUsha4cS1my0jxUN7ozyzZZNOGwifWRgRAGNc6Ro9MAoCIHAeOPbf19Ysc7xvagwNLjLVmoxyruIuqiIVJObv3vZs/playlist/index.m3u8"
       }
     ],
     "Animação": [
@@ -21005,25 +21019,18 @@
         "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
       },
       {
-        "name": "Jovem Pan Live",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png",
-        "group": "Notícia",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220014/ei/Dn_qaLiWE7io9cYP3fz1kAY/ip/138.117.221.219/id/wzb0Yey_X70.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSVn0V7fzR0XGkExclRW4i0k7D7lLgo9cFdY1cEX_2XsBECJdJU6FkHdDchZmOyGLe9liSAUCH5W/spc/hcYD5Y8U21TzexzeKvtQl_hnXC7WLtEymVYcSNllHSRKaF4JUrHnRv1BNPSRO4NFPeT-4DdZzVM/vprv/1/playlist_type/DVR/initcwndbps/2322500/met/1760198415,/mh/Q_/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgBdInLk10bIBYXJhwFY1DDfrAFj_I_9LaJAGCgJX7BgoCIQD8AzAf8hHRALA7I_fxq8dfY5LqeLCa30OgWvgZK6fpUw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPVwZ0HEj-HrZd_MdzmkLf27e_iKFAT6MtdR-lAnLfC_AiB-tc7s0yy17v2mlpd10_-oIlVeevlDU1n74ruHe4gjUA%3D%3D/playlist/index.m3u8"
-      },
-      {
         "name": "Record News Live",
         "logo": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj",
         "group": "Notícia",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220015/ei/D3_qaOTIKNaU9cYPu8Kk0AY/ip/138.117.221.219/id/5Ot1rgMYBI0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSV4FFHf2wCRxDfdX-PE417n3fBBgOxSR2XPPb_9PNLHY0eUWfN6c4V8VZMQW9PLWS3MmPpyh3BU/spc/hcYD5SqrV6HYfHGtWJLqKfWOfCbgIge6bdHBHzisW5lUxi8zV3BEdKfEEQw5ALvGI-vCijsiZ3w/vprv/1/playlist_type/DVR/initcwndbps/2431250/met/1760198416,/mh/Jh/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAN7myaDjYWlHA6PygbtnjDi20PcRRzjmgxdBecu9NpiPAiBXq5L5tmNvFClKIwf9Uo5lfhimZXPObyUyv3898_yRDA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgbSuaVA13u4NG-WWIyREcKa-Q-jB8mxkkblKfjxIl3MMCIQC0P61yjUGzI_ygYB23ViFyf9Qyw1QJa136NtlwdXOiJg%3D%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252414/ei/nv3qaP2KH-fCobIP4oXeoQw/ip/138.117.221.219/id/5Ot1rgMYBI0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSWf-dINnP-eigFMHRM93nZftFFvjcX17BTWkbd_Mw_7CQM01lsOGwVGy7xME-46A_0arAQe4AMK/spc/hcYD5Z35youXIc4mwbUe4Htz6_vphV9r-jcBnAaYoEDHbkaH4Lqkl0xt0b86Ma-4tkeEy-nhnw4/vprv/1/playlist_type/DVR/initcwndbps/2202500/met/1760230815,/mh/Jh/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760230598/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgfp8xg2-GWbHB4P5FhKUWCVkiucl7WJCrL1k6wsU8s6gCIFyFO1JTWVyDDz6Q3wanc3EVYqbLicWENtS3uG4jo2Km/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAL7jSDRFBUaALbEOCJGPkSmUcTHg2kaTk2w67R86_6fBAiBQSv59vmm8clxPA_d9ySW6X1hFB3ZL8ZI102-eYD42pA%3D%3D/playlist/index.m3u8"
       },
       {
         "name": "CNN Brasil",
         "logo": "https://yt3.googleusercontent.com/ytc/AIf8zZQb7MP1UvjN4CnJ9tEyGeQM0btuJejf1PQekJlmog=s176-c-k-c0x00ffffff-no-rj",
         "group": "Notícia",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220025/ei/GX_qaPXXGPmx9cYPjq2L-Ao/ip/138.117.221.219/id/rVoHRiXVC_o.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/ATw7iSX43jxG1Jv31xuoPTd1ZsEo3rqHYPlxIHVozzjt_hPl2dCdpLbfKOaV6CPHCbYBC5Oe8tLUFQOO/spc/hcYD5bp9j-DlQtW5umjTaXQ0J9w6j0aaC06q86q4u0MDmadQuhHRmXSJ0VKKaksrQAVwbo-2mww/vprv/1/playlist_type/DVR/initcwndbps/2291250/met/1760198426,/mh/fm/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968,51593650/mt/1760198207/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgTgg8oLkpw8jUKRpieNbaqxcaX47TvKrPujbkbilLzgQCICo2T3UGIUP8hRT9ZbUgRiQddRIS2miUqFDBsmtcj21u/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPCQgD-o6Ip88pXyz4UL6lXMC0tlQrPHt7mqN00XOskEAiBgWVUJm31AQVBAuvQvvR9E_HUynx2aExZ0qCllmDFTmQ%3D%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252420/ei/pP3qaMyIH7Ld9cYP4ujSmAo/ip/138.117.221.219/id/b-eaQUVVGbw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/ATw7iSW_iVAdjLsPUV-LI_04cMU3--NxH5HjPIdna4s_yk9Kw9qiK1T4c7h0RaFRxbPlhSUCIup75l0T/spc/hcYD5emPlNUpq32bfP-pxON3hlz39OPS87KdtF8aPIvWPfoZaPlvlqaYVbChugXVvYEmcv6VLDE/vprv/1/playlist_type/DVR/initcwndbps/2276250/met/1760230821,/mh/aW/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgBOey4VRE13FG1nz4GsX4TqoYdlS5PyFpxR3cJwoUXCUCIDT49Nr8DgPjwa_IidpwIB14fcXtc_12zQASKLtwdzJ-/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgMFRqmM_F974WRaRw-gHpvNqr2S4Q6vi8Th_E9KtJ2QcCIGPLekbeVFyAtDpIDonOFNpuAIJCnSXM4vpYlEVBzKSa/playlist/index.m3u8"
       }
     ],
     "Cultura": [
@@ -21336,7 +21343,7 @@
         "logo": "https://yt3.googleusercontent.com/lJKcikNIOAxJwt56fCFkY-pc57H0TQgZtt0h8xPBlijST3FE_2AOZhqS4_D8afZaDjHKqKOVeA=s176-c-k-c0x00ffffff-no-rj",
         "group": "Religião",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220026/ei/Gn_qaLjuNPHB9cYPncuWmAc/ip/138.117.221.219/id/juUt-rN5CVo.26/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ATw7iSXW-RvKAGXWl16Vqmwum-Nkrzy2yuMju2qDIgrNl7ZHJ8jdJIZ52SVoctA_76L6Lwzk1vBYadaa/spc/hcYD5VBX1Bn8bVtx0MIZY8CKu3YH9WiAeNTF-V9OZ5GvVvKIL3IwQLTP-HnQ9kDR3C9nJQJ4VNI/vprv/1/playlist_type/LIVE/initcwndbps/2618750/met/1760198427,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhANQSITmKyIq5Q51VorhmifpOBtuDQd4zeqvjz1NNWvnAAiBZla04XDKyxleROArd6-3_6t8dlQQN4sZ4Rrc-8KkJ-g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwQwIfBp9dRs09Yt8pQJEEJsuvdn0glSD7K0oIsm53KAQ5HgIgKlIUe02iBV7Z2TPbp17m836V1IkBAc7xMabKhoUwwdU%3D/playlist/index.m3u8"
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252421/ei/pf3qaLKcLfSa9cYP9_fWyQY/ip/138.117.221.219/id/juUt-rN5CVo.26/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ATw7iSV4CZvylGn8l-v_4ONfFLhOLpRhQ0KgU5tl1N7Tx1STjuAhS8Pr3igdJXIXC6tS66T7YBSeSjLU/spc/hcYD5akJR8APYcmMjFOMEc3g8ppBhr9NYFMVogt-prlt4I5UDsYrLN8ySe-qDcyufn08zRBRXKg/vprv/1/playlist_type/LIVE/initcwndbps/2141250/met/1760230830,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJt1QiRy8lK252HMoAA99zcj8HDgdzRlPSRLcWAz-zjOAiEA3jKK-iNyWrygq6gdIeU0Fg9zadr5_ArXUhaV1iGlY04%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMjx9xhqNEpCATYo3UPTr9x4AtaMxBmR5JInR9xM74StAiEAhnJkGEWwt9xPTMK-9c4P9LSjF7Uoc1-1Phf5POOGmYw%3D/playlist/index.m3u8"
       }
     ],
     "Ciência": [
@@ -21448,6 +21455,13 @@
         "group": "Esportes",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://cdn.tvmatic.net/fight.m3u8"
+      },
+      {
+        "name": "CazéTV",
+        "logo": "https://yt3.googleusercontent.com/4oHE9WPNm2O_OCXfv-z1ikfOHAWLe46KViKgZNwBGiRQKfLDPlHmnBQ9rbuXvWasG4YixvFA=s176-c-k-c0x00ffffff-no-rj",
+        "group": "Esportes",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252408/ei/mP3qaJSJOPWOobIPgqPxsQY/ip/138.117.221.219/id/fU18WV0QJPI.3/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/ATw7iSXTEhVaH7eEZ5HfthQuloC1lgVwjNXqW6CrJvYdBcbx4crbe3aT8wd0isBYYZiG9LWSCa8JynD7/spc/hcYD5binqM2C0hNgCA9Dlvyp9NFqKsXjEFF0K1P3Im16t4F6QcOqO1jMc7n2Bf1b_wUZjbNswhQ/vprv/1/playlist_type/DVR/initcwndbps/2276250/met/1760230809,/mh/V8/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgNbSG4cpIIInS6lJs1-AQ9pblQDOdqdWMvqbNWOEX8DUCIEE7fjw4EDaRjqlCvK9OasYNaphniQMiuB9b_Faxg4bJ/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIgFtXto2hShegRiEOqe49JInnfJUZhSuitteBl10mYxWoCIQCr-MPBPtqo3JD3FNADedB_rwq3bHBeu3VBCI6zAVacyA%3D%3D/playlist/index.m3u8"
       }
     ],
     "Shop": [
@@ -22049,116 +22063,39 @@
     ],
     "HBO": [
       {
-        "name": "HBO (SP)",
+        "name": "HBO (OKT)",
         "logo": "https://i.imgur.com/xOVZ5cz.jpeg",
         "group": "HBO",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd"
       },
       {
-        "name": "HBO HITS (SP)",
+        "name": "HBO HITS (OKT)",
         "logo": "https://i.imgur.com/V9WrhPQ.jpeg",
         "group": "HBO",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd"
       },
       {
-        "name": "HBO SIGNATURE (SP)",
+        "name": "HBO SIGNATURE HD (OKT)",
         "logo": "https://i.imgur.com/aTqOJyJ.jpeg",
         "group": "HBO",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd"
       },
       {
-        "name": "HBO FAMILY (SP)",
+        "name": "HBO FAMILY (OKT)",
         "logo": "https://i.imgur.com/U4lscew.jpeg",
         "group": "HBO",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd"
       },
       {
-        "name": "CINEMAX (SP)",
+        "name": "CINEMAX (OKT)",
         "logo": "https://i.imgur.com/5sJrz8R.jpeg",
         "group": "HBO",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd"
-      },
-      {
-        "name": "Cinemax Indo (TSP)",
-        "logo": "https://i.imgur.com/5sJrz8R.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302227.ts"
-      },
-      {
-        "name": "HBO Signature Indo (TSP)",
-        "logo": "https://i.imgur.com/aTqOJyJ.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302251.ts"
-      },
-      {
-        "name": "HBO Indo (TSP)",
-        "logo": "https://i.imgur.com/xOVZ5cz.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501248.ts"
-      },
-      {
-        "name": "HBO Family Indo (TSP)",
-        "logo": "https://i.imgur.com/U4lscew.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501249.ts"
-      },
-      {
-        "name": "HBO HITS Indo (TSP)",
-        "logo": "https://i.imgur.com/V9WrhPQ.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501250.ts"
-      },
-      {
-        "name": "IHBO Signature Indo (TSP)",
-        "logo": "https://i.imgur.com/aTqOJyJ.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501251.ts"
-      },
-      {
-        "name": "HBO HD NON SUB",
-        "logo": "https://i.imgur.com/xOVZ5cz.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd"
-      },
-      {
-        "name": "HBO FAMILY NON SUB",
-        "logo": "https://i.imgur.com/U4lscew.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd"
-      },
-      {
-        "name": "CINEMAX NON SUB",
-        "logo": "https://i.imgur.com/5sJrz8R.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd"
-      },
-      {
-        "name": "HBO SIGNATURE NON SUB",
-        "logo": "https://i.imgur.com/aTqOJyJ.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd"
-      },
-      {
-        "name": "HBO HITS NON SUB",
-        "logo": "https://i.imgur.com/V9WrhPQ.jpeg",
-        "group": "HBO",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd"
       }
     ],
     "ANAK": [
@@ -22347,6 +22284,20 @@
         "url": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd"
       },
       {
+        "name": "NBA TV (OKT)",
+        "logo": "https://i.imgur.com/K3FXClz.jpeg",
+        "group": "OLAHRAGA LOKAL",
+        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
+        "url": "http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts"
+      },
+      {
+        "name": "NBA TV (OKT)",
+        "logo": "https://i.imgur.com/K3FXClz.jpeg",
+        "group": "OLAHRAGA LOKAL",
+        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
+        "url": "https://fl25.moveonjoy.com/NBA_TV/index.m3u8"
+      },
+      {
         "name": "WWE Network (AG)",
         "logo": "https://i.imgur.com/dWS3vWU.jpeg",
         "group": "OLAHRAGA LOKAL",
@@ -22415,24 +22366,6 @@
         "group": "OLAHRAGA LOKAL",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd"
-      }
-    ],
-    "SPORTS": [
-      {
-        "name": "NBA TV (OKT)",
-        "logo": "https://i.imgur.com/K3FXClz.jpeg",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts"
-      }
-    ],
-    "MOVEONJOY": [
-      {
-        "name": "NBA TV (OKT)",
-        "logo": "https://i.imgur.com/K3FXClz.jpeg",
-        "group": "MOVEONJOY",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "https://fl25.moveonjoy.com/NBA_TV/index.m3u8"
       }
     ],
     "FILM": [
@@ -22733,963 +22666,963 @@
         "url": "http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&q=FHD&apikey=5MY50EII66"
       }
     ],
-    "JAPAN": [
+    "DUNIA | JEPANG NON SUB": [
       {
         "name": "NHK G",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/NHK_G/index.m3u8"
       },
       {
         "name": "NHK E",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/NHK_E/index.m3u8"
       },
       {
         "name": "NTV",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/Nippon_TV/index.m3u8"
       },
       {
         "name": "TBS",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/TBS/index.m3u8"
       },
       {
         "name": "Fuji TV",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/Fuji_TV/index.m3u8"
       },
       {
         "name": "TV Asahi",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/TV_Asahi/index.m3u8"
       },
       {
         "name": "TV Tokyo",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/TV_Tokyo/index.m3u8"
       },
       {
         "name": "TOKYO MX1",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/Tokyo_MX1/index.m3u8"
       },
       {
         "name": "TOKYO MX2",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/Tokyo_MX2/index.m3u8"
       },
       {
         "name": "NHK G HD (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd01"
       },
       {
         "name": "NHK E HD (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd02"
       },
       {
         "name": "NTV HD (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd03"
       },
       {
         "name": "TBS HD (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd04"
       },
       {
         "name": "Fuji TV HD (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd05"
       },
       {
         "name": "TV Asahi HD (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd06"
       },
       {
         "name": "TV Tokyo HD (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd07"
       },
       {
         "name": "TOKYO MX1 HD (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd08"
       },
       {
         "name": "NHK G (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd01"
       },
       {
         "name": "NHK E (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd02"
       },
       {
         "name": "NTV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd03"
       },
       {
         "name": "TBS (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd04"
       },
       {
         "name": "Fuji TV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd05"
       },
       {
         "name": "TV Asahi (NSFW) (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd06"
       },
       {
         "name": "TV Tokyo (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd07"
       },
       {
         "name": "TOKYO MX1 (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd08"
       },
       {
         "name": "MBS",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/mbs/index.m3u8"
       },
       {
         "name": "ABC",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/abc/index.m3u8"
       },
       {
         "name": "TV Osaka",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/tvo/index.m3u8"
       },
       {
         "name": "Kansai TV",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/kansaitv/index.m3u8"
       },
       {
         "name": "ytv",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/ytv/index.m3u8"
       },
       {
         "name": "KBS",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/kbs/index.m3u8"
       },
       {
         "name": "SUN",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/suntv/index.m3u8"
       },
       {
         "name": "NHK G Osaka (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx06"
       },
       {
         "name": "MBS (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx01"
       },
       {
         "name": "ABC (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx02"
       },
       {
         "name": "Kansai TV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx03"
       },
       {
         "name": "ytv (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx04"
       },
       {
         "name": "TV Osaka (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx05"
       },
       {
         "name": "SUN (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx07"
       },
       {
         "name": "NHK BS",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/NHK_BS/index.m3u8"
       },
       {
         "name": "BS NTV",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/bsntv/index.m3u8"
       },
       {
         "name": "BS Asahi",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/bsasahi/index.m3u8"
       },
       {
         "name": "BS TBS",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/bstbs/index.m3u8"
       },
       {
         "name": "BS TV Tokyo",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/bstvtokyo/index.m3u8"
       },
       {
         "name": "BS Fuji",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/bsfuji/index.m3u8"
       },
       {
         "name": "BS11",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/BS11/index.m3u8"
       },
       {
         "name": "NHK BS4K",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/bsp4k/index.m3u8"
       },
       {
         "name": "WOWOW Prime",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/wprime/index.m3u8"
       },
       {
         "name": "WOWOW Cinema",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/wcinema/index.m3u8"
       },
       {
         "name": "WOWOW Live",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/wlive/index.m3u8"
       },
       {
         "name": "BS 10 Star Channel",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/bs10_star/index.m3u8"
       },
       {
         "name": "JSport 1",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/js1/index.m3u8"
       },
       {
         "name": "JSport 2",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/js2/index.m3u8"
       },
       {
         "name": "JSport 3",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/js3/index.m3u8"
       },
       {
         "name": "JSport 4",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/js4/index.m3u8"
       },
       {
         "name": "Green Channel",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/green/index.m3u8"
       },
       {
         "name": "Animax",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/Animax/index.m3u8"
       },
       {
         "name": "Nihon Eiga Senmon",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/nihoneiga/index.m3u8"
       },
       {
         "name": "Sky A",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/skya/index.m3u8"
       },
       {
         "name": "NHK BS (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs11"
       },
       {
         "name": "BS NTV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs02"
       },
       {
         "name": "BS Asahi (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs03"
       },
       {
         "name": "BS TBS (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs04"
       },
       {
         "name": "BS TV Tokyo (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs05"
       },
       {
         "name": "BS Fuji (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs06"
       },
       {
         "name": "NHK BS4K (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs01"
       },
       {
         "name": "WOWOW Prime (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs12"
       },
       {
         "name": "WOWOW Cinema (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs07"
       },
       {
         "name": "WOWOW Live (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs20"
       },
       {
         "name": "BS 10 Star Channel (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs08"
       },
       {
         "name": "JSport 1 (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs18"
       },
       {
         "name": "JSport 2 (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs19"
       },
       {
         "name": "JSport 3 (Primehome)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs21"
       },
       {
         "name": "JSport 4 (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs22"
       },
       {
         "name": "Green Channel (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs14"
       },
       {
         "name": "Animax (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs15"
       },
       {
         "name": "Nihon Eiga Senmon (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs23"
       },
       {
         "name": "Sky A (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs01"
       },
       {
         "name": "Fishing Vision (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs25"
       },
       {
         "name": "Disney Channel (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs24"
       },
       {
         "name": "JCOM BS (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=2&id=bs31"
       },
       {
         "name": "Gaora Sports",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/gaora/index.m3u8"
       },
       {
         "name": "AT-X",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://mt01.utako.moe/AT-X/index.m3u8"
       },
       {
         "name": "Space Shower TV",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/spaceshower/index.m3u8"
       },
       {
         "name": "MTV",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/mtv/index.m3u8"
       },
       {
         "name": "Mnet",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/mnet/index.m3u8"
       },
       {
         "name": "Kayo Pops",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/kayopops/index.m3u8"
       },
       {
         "name": "Disney Channel",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/disneychan/index.m3u8"
       },
       {
-        "name": "Cartoon Network Japan",
+        "name": "Cartoon Network DUNIA | JEPANG NON SUB",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/cartoon_network/index.m3u8"
       },
       {
         "name": "Nittele G+",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/ntvgplus/index.m3u8"
       },
       {
         "name": "Family Gekijyo",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/familygeki/index.m3u8"
       },
       {
         "name": "Mondo TV",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/mondo/index.m3u8"
       },
       {
         "name": "TBS Channel 1",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/tbsch1/index.m3u8"
       },
       {
         "name": "TBS Channel 2",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/tbsch2/index.m3u8"
       },
       {
         "name": "TV Asahi Channel 1",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/ex_ch1/index.m3u8"
       },
       {
         "name": "TV Asahi Channel 2",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/ex_ch2/index.m3u8"
       },
       {
         "name": "Fuji TV ONE",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/fuji_one/index.m3u8"
       },
       {
         "name": "Fuji TV TWO",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/fuji_two/index.m3u8"
       },
       {
         "name": "Fuji TV NEXT",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/fuji_next/index.m3u8"
       },
       {
         "name": "Neco Channel",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/neco/index.m3u8"
       },
       {
         "name": "Dlife",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/dlife/index.m3u8"
       },
       {
         "name": "Toei Channel",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/toei/index.m3u8"
       },
       {
         "name": "Fighting TV Samurai",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/fighting_tv/index.m3u8"
       },
       {
         "name": "Entermei Tele",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/entermei_tele/index.m3u8"
       },
       {
         "name": "Sport Live Plus",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/sport_live_plus/index.m3u8"
       },
       {
         "name": "Home Drama Channel",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/homedrama/index.m3u8"
       },
       {
         "name": "Channel Ginga",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/gingach/index.m3u8"
       },
       {
         "name": "Tabi Channel",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://ca01.utako.moe/tabi/index.m3u8"
       },
       {
         "name": "Jidaigeki Senmon (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs04"
       },
       {
         "name": "Toei Channel (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs27"
       },
       {
         "name": "Eisei Gekijo (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs22"
       },
       {
         "name": "Family Gekijyo (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs20"
       },
       {
         "name": "Movie Plus (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs14"
       },
       {
         "name": "Home Drama Channel (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs05"
       },
       {
         "name": "Tabi Channel (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs12"
       },
       {
         "name": "Fuji TV Next (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs26"
       },
       {
         "name": "GAORA SPORTS (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs17"
       },
       {
         "name": "Golf Network (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs03"
       },
       {
         "name": "Nittele G+ (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs02"
       },
       {
         "name": "Mondo TV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs21"
       },
       {
         "name": "Channel Ginga (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=2&id=cs29"
       },
       {
         "name": "Space Shower TV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs26"
       },
       {
-        "name": "Music Japan TV (Primehome)",
+        "name": "Music DUNIA | JEPANG NON SUB TV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs06"
       },
       {
         "name": "Kayo Pops (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs13"
       },
       {
         "name": "MTV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs18"
       },
       {
         "name": "LaLa TV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs19"
       },
       {
         "name": "Takarazuka Sky Stage (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=2&id=cs28"
       },
       {
         "name": "Kids Staton TV (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs07"
       },
       {
         "name": "Cartoon Network (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs25"
       },
       {
-        "name": "National Geographic Japan (Primehome)",
+        "name": "National Geographic DUNIA | JEPANG NON SUB (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs10"
       },
       {
         "name": "Disney Junior (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs23"
       },
       {
         "name": "Discovery Channel (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs08"
       },
       {
         "name": "Animal Planet (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs24"
       },
       {
         "name": "History (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs09"
       },
       {
         "name": "CNNj (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs16"
       },
       {
         "name": "BBC News (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs15"
       },
       {
         "name": "TBS News (Primehome)",
         "logo": "https://i.imgur.com/livnmIp.jpeg",
-        "group": "JAPAN",
+        "group": "DUNIA | JEPANG NON SUB",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs1"
       }
@@ -23932,6 +23865,20 @@
       }
     ],
     "BOLA | KUALIFIKASI PIALA DUNIA": [
+      {
+        "name": "LIVE 2 MALAYSIA",
+        "logo": "https://i.imgur.com/n2M5JTN.jpeg",
+        "group": "BOLA | KUALIFIKASI PIALA DUNIA",
+        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
+        "url": "https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena2.m3u8"
+      },
+      {
+        "name": "LIVE 3 US",
+        "logo": "https://i.imgur.com/n2M5JTN.jpeg",
+        "group": "BOLA | KUALIFIKASI PIALA DUNIA",
+        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
+        "url": "https://a1xs.vip/120001"
+      },
       {
         "name": "RCTI 2 ON (+)",
         "logo": "https://i.imgur.com/momMGOk.jpeg",
@@ -25229,13 +25176,6 @@
         "group": "OLAHRAGA POPULER 2",
         "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "url": "https://a1xs.vip/2000001"
-      },
-      {
-        "name": "DE: Sportdigital Fussball FHD",
-        "logo": "https://i.imgur.com/1vqowr7.png",
-        "group": "OLAHRAGA POPULER 2",
-        "source": "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
-        "url": "https://a1xs.vip/120001"
       },
       {
         "name": "IRE: Premier Sports 1 FHD",

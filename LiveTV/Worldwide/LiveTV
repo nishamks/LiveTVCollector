@@ -668,13 +668,13 @@
   {
     "name": "TF1_",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjAyMDY3NDcsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwMTkyMzQ3LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.H2n3C8CPBVTi8KcNrjXVl7WbHlrSM8OTRy6RZ_uSJ-k/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjAyMzkwOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwMjI0NjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.1cu8Km-7YUpfuMZrV6OvnQQPrU8jZo-7juOgDKXjlvM/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
     "name": "TF1-",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjAyMDc5NzAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDE5MzU3MCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.C4qMQmgFD5nbuX6R_Rq1dVIkA5yr-COogWNuwMm_Vx8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjAyNDA0MjYsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDIyNjAyNiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.pX-w4d0L_qgAqCvhKrZlf-pZzdmBZK-h2LTLeRdsl98/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
@@ -3446,13 +3446,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-n84dlaps8g0XjWxhEwJDA&e=1760210253",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=-xY_1RZSbKYMP_ui1fk-Wg&e=1760231877",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-n84dlaps8g0XjWxhEwJDA&e=1760210253",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=-xY_1RZSbKYMP_ui1fk-Wg&e=1760231877",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -17036,13 +17036,13 @@
   {
     "name": "Record",
     "type": "Variedades",
-    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8",
     "img": "https://i.imgur.com/sz9gTTr.png"
   },
   {
     "name": "Record",
     "type": "Variedades",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8",
+    "url": "https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8",
     "img": "https://i.imgur.com/sz9gTTr.png"
   },
   {
@@ -17128,6 +17128,12 @@
     "type": "Variedades",
     "url": "https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8",
     "img": "https://i.imgur.com/ZJgD38F.png"
+  },
+  {
+    "name": "Rede TV! ES",
+    "type": "Variedades",
+    "url": "https://streaming.cloudecast.com/hls/redetves/index.m3u8",
+    "img": "https://i.imgur.com/k7vO9Bk.png"
   },
   {
     "name": "SBT Interior",
@@ -17570,20 +17576,26 @@
   {
     "name": "SBT Central Live",
     "type": "Variedades",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220011/ei/C3_qaN34Bdnc-LAPqMLo8QU/ip/138.117.221.219/id/Yn15hPQ76C4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSUwnoPmhNwd84KBky1WR9LWDKccXNnDZ_NOF-l-oNqZy6EuVgfyCxHGBlk1sPbLSSpeUsiO2mHi/spc/hcYD5XLmg1P6HXHYKW776h6FNexops9Q1Q4-SSmqARL8YDIQLyQchhlSlNECoUSCV0M/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/2437500/met/1760198412,/mh/jP/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760198207/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAL5TgYzaKACddBQapdBoSck_Libc2cxZhju73GG0YSd_AiBqVxAAQbdoweyhsuBNJkcTPPdSQ1WhbwtWLJbofv69Sw%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgNm2YDaz_F1hnrR4JzbFA8car46g2rtuiet9fKl1MiMYCIQCWDYlRIJWEvnM4kL8NfTpBIks8F31hq3Mmf7ae7hr3WA%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252411/ei/m_3qaIb0ApeV9cYPkYnaGA/ip/138.117.221.219/id/Yn15hPQ76C4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSUTsmKROp_O6iQsbt9cEqywUd8HJUGKrURxkOaKUJkXf8o5j6a7B338fytJqYvayPly6KIgfTQr/spc/hcYD5VmRVAuEUDJv_EHuNCi6XWvLFuo5hymX-5gtSgNXcJw6M8XBNfBzhqdRlaMJNB8sXg/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/2145000/met/1760230811,/mh/jP/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr4---sn-n0hpjput-bpbl.googlevideo.com/rms/lva,lva/smhost/rr2---sn-n0hpjput-bpbz.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650,51626155/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPRGBKpIxAWiU8tKdTTH0Zq_9Nk23qlNQqR6t5OgmMulAiADRqvlrxkBC0iDs9e5ZRwrOfnM5Dky3m29fuZG5WJlmQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIgD80pbEhQ0HVdUbLBVxQarxjYqK2hICB8gkjB2Sq9HF0CIQCAg-5eGVTUpH4gQo9o1rOQjlKxN9ozP4dkaj-UjhBRsQ%3D%3D/playlist/index.m3u8",
     "img": "https://cdn.mitvstatic.com/channels/br_sbt_m.png"
   },
   {
     "name": "SBT - YouTube",
     "type": "Variedades",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220013/ei/DX_qaL_VA4CG9cYPpsLqiAY/ip/138.117.221.219/id/LLpNUqHVam8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ATw7iSUEKMzrCHBnFHQzWGY8tQzlSSYtsL6fRk5oHfJrEsaoDo3go-Kow9JQOIBuOh3W5_W_tX4Y56ue/spc/hcYD5UT4dPL4hhaNPASAgq15ne4uApYVzSp7aXopBhaP1zRXa8xbXYYUNBgJbFWRqM3MXppgt4I/vprv/1/playlist_type/DVR/initcwndbps/2386250/met/1760198414,/mh/pR/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJjySxuhqzsywwwr2C2YCT-6za_j93yjmza10jdkjkWPAiEA56xVLNDNl5R1Oo5A8PPrAJdCEPigyHzeURTL03qzLIw%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAI82ICxeGlPAj66ojemx0sYHS1maA2HGAKiL0Vvi--RTAiEAgL8RL7YrdxhUJxZOQPw8AbQ1vylCqChMwS6UYAxH3JM%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252412/ei/nP3qaPPTB9yC9cYP7729uAc/ip/138.117.221.219/id/LLpNUqHVam8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/ss/1/ssa/1/bui/ATw7iSXlAD54Jo2vknt4tetVzsogFIb47pxyK-mPxDmwiLBhjfLuSmwrN1Oa8eb4RYaeDV1IXVrEUtvp/spc/hcYD5Tqvkg_YcWmdtngIF27UqyC_x5dNlJk3jJRTJj-yAK35fGlYAGQVNGoNvh4QYGIBWYlONvk/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/2276250/met/1760230813,/mh/pR/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr2---sn-n0hpjput-bpb6.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgd9uDi7keo3U68zq1BNxplz7xrNMxBzvPs8BgWTi1ypYCIHpLE0s6DC4vPgMz_b7eBOebjnTWPB2XDfvTMYTTS1bj/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRAIgefyvMB3zyDVaOzcsWSuDoDcU1RYuNA2kqV7duqq8r3ECIAZkIaBWVrvJ13F3xCA0Ifyz51jaNGvIovTYzBN9M6CX/playlist/index.m3u8",
     "img": "https://cdn.mitvstatic.com/channels/br_sbt_m.png"
   },
   {
     "name": "Diário TV Teresópolis",
     "type": "Variedades",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220017/ei/EX_qaJHmN-ex9cYP6JnlqAw/ip/138.117.221.219/id/NKw9BOlMONk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSXRCywtol2GW5F_4YFNyIj6HZw1mnUbFm-amLjj0DQdcPf9FDH2flGbGqzGldyvh1FE0tBTmZex/spc/hcYD5RagfAA8vpJx0RHzZjgkVZb93iaswIUc38d4YVwAhtJGr58aWzBXCnkk1kdrD5rtrIFPJZY/vprv/1/playlist_type/DVR/initcwndbps/2618750/met/1760198419,/mh/Xe/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPjwlVMOtfpdndQCjfsXZjKrEsnSa6a57oHzh-w3jHQpAiB0GYn38aqyWGOa-YjS2t9oVDYUCuiR89ulyABkIQUVZw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhAITkIovK5ha2q67pqKaTx52naOWZppLQWKsJRaeaYl7qAiEAvUdnzeJG2XbPpJGsisu9Yi3Jw2ggDsuT69ABYY4xGrA%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252417/ei/of3qaPfhBqua9cYPoIzCmAw/ip/138.117.221.219/id/NKw9BOlMONk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSXL_BpYMgmqVn4562eR_cYt3nJDaa_BVGmqAPLiMTcion5D0wUgbYVR8KHLYdCa5wLXbP79kFNX/spc/hcYD5VxHwUvJv6SJGbTAeaoyvc1cweLGy7I2DW57s_t4kztgByvBKhzUTHD0-Cw_Q6dd3VNoqls/vprv/1/playlist_type/DVR/initcwndbps/2141250/met/1760230818,/mh/Xe/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKok94ucwzJwnXPgavP1CCbc0ArGWq0hCJAJNXv4EEumAiARJwDXK91eazK4-GrUuDY0KulMbFKdR7vLhBFewJ1sHQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALkTJ-XWg6zAScwF-B5NLIFMe5UshZBDiY41YQj9n-7sAiB_UhIS7_DWZ52hAkb23QKhoJFfr0vAoFBCmtSbC5KboA%3D%3D/playlist/index.m3u8",
     "img": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c395ee4019fcd2bcacc342b09d3c9ff7.webp"
+  },
+  {
+    "name": "TV Correio da Manhã",
+    "type": "Variedades",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252435/ei/s_3qaO7CD8PC9cYPuebggA0/ip/138.117.221.219/id/rute3jjkquA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSVDVzo77PslM5NoEGxvY42MEqRpYZcOjExcs6moy5pRIzfPn5mBzbSJTjupfS7m_o6HsOWVJ89a/spc/hcYD5SUqFOy1uy8XLeDTmPR3xK23DMfNUZ46Onvbaf_n_6Ekc4WFQz7mCS5Cy05Tk4EUlQL7VYk/vprv/1/playlist_type/DVR/initcwndbps/2276250/met/1760230836,/mh/S7/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgePwJN60C85i4P_b39DwYK9uVJEzfd-R4as81j6zn-aoCIQDs5tIS4TNuV4Ov78qMQyk-5fHdacCYNMoe8B5nAtUpsg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgdVdKd4zOETxIzWYdp3paMebaAhvOS-P4rYhluQI15w0CICAVdBqOJZnm3ohOM0nL4zHFZzVSImEJXmoqhRYJwrg8/playlist/index.m3u8",
+    "img": "https://yt3.ggpht.com/ygMbu6lhpO4HV0hqceunzUNG_dqkdyOIrmr1VrtZfC8F48pyK8NFBw3Vn6P3YFmDJDq24YjFHA=s88-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "MyTime Movie Network Brazil",
@@ -17684,7 +17696,7 @@
   {
     "name": "Classic Mr Bean",
     "type": "Séries",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220031/ei/H3_qaIytF4WRobIP45KduAw/ip/138.117.221.219/id/NOCisq9ASyM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/ATw7iSVL_oJPyv70O4XQTnyDw6qRIHCewcfYAVu-JMQBTr3IHxhPI79UoCZ5wvl-k6t6ONf-pHiTfueE/spc/hcYD5dlXha0VWaxloKZ66tkor9n5zfAISk7KeMYWcDlEJe-yXTPQyHZ008rOhBUBBjwzsP3_lF4/vprv/1/playlist_type/DVR/initcwndbps/2618750/met/1760198432,/mh/aP/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgaLwO_-vyl9bkIYhAp9xdGKP3dwvWkz87twiEG-xa6QwCIQCAGptNvvKnMstWke6BiXuQzoNfXani8b1XEtikN1deyA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgTwvGbbKoyFq9DAA2KGfNpwLC9mdmBIkeYNT8-fPmXFwCIQD3JIOARDryuTDXLpxUW5gZkLOapROJ-G-HhVNFy9_YUg%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252434/ei/sv3qaJLZAu6tobIPgdWqmAw/ip/138.117.221.219/id/NOCisq9ASyM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/ATw7iSW8ab5u7cXZHr7dkcPwD-setVlwFxBgJJ_qAiBslbWRC9E_K3GRg4QYoLt6zjepLnBpsDp1oIRR/spc/hcYD5ae59ulfLxWkrR7l3ovLxkGqx_cJ6lqOjqYTKWr9mB3SyIXRqSgtUMKEMa1HO90YHl9EnL4/vprv/1/playlist_type/DVR/initcwndbps/2141250/met/1760230835,/mh/aP/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhALcjcbZggbXbYxAA4LwsPddIqGPl2yJrfMUSlXho17IWAiAkK5UMukalBstfFtzg31LS-d7U00SqgYKcndR9bUWVhA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgdktwNRtP6JBO-2Lx3Ywq7_awKjdYR0tyAauYNh012VMCIQCeUM41QcIwrINfOJABN_-tn-rfWGHqy0fhafXoplaFPg%3D%3D/playlist/index.m3u8",
     "img": "https://yt3.ggpht.com/er0IYBx2fOrUdTheL_zI5MRTBuAJPpBqBWqsQxvX-X3h71gjISb6K0Hp02PkE083hiN2qCRw=s88-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -17726,13 +17738,13 @@
   {
     "name": "PowerRangers TV",
     "type": "Infantil",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220016/ei/EH_qaJ6sJpOzobIPytbeqAg/ip/138.117.221.219/id/Uum0rJM7Xaw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSWBKfhWs_57fWMsTB0Zl-p9eJWqjqHrRKjJC6Id9rFyx-BPD1l2ZuwaWWh0qDQQsVYdYwbART7u/spc/hcYD5dd7flFpxZ-gTa246qSof1zcW3Ss_xwB77-6vIhC2jjNjMglhxEbtQq7ujv7_RDyV2LlIXM/vprv/1/playlist_type/DVR/initcwndbps/2386250/met/1760198417,/mh/GL/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOPst3jOfMwdUYiY_k35M5UMeEk2tryHP9nI5Z2l7gQVAiA5Va1PlEuKo4xurDEIuWEGfAJ8MvStnmP28Yi6L4HpIA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMXpYg8fbmMChC5d9A-Y4xSoj9vmS5lW4I8EFS3N1w52AiBbg_x5vGOGsfxUtHtzR3PoEPK12MTHgBGSCZo4aScpXw%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252415/ei/n_3qaLS4O7qq9cYP25e-OQ/ip/138.117.221.219/id/FcYbQQAvDpM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSWsfRFqJqcBamUICLrlwwNkn2dEpIT52Z_k4PGssCWfAsRsr98kKSsZJnLg_XCAyMMPkltxGW6_/spc/hcYD5aCnExstoQNEMg-G7pBIB90MR-6EN-nBPXc1CRH5itQZXP2Uwoa-vhpijNDDS_ha3UQGpj4/vprv/1/playlist_type/DVR/initcwndbps/2355000/met/1760230816,/mh/Oj/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgEeERo_Dwre2FDglSJ819wQQpJz36LiKaYmUvvwtWnakCIBvJdE46m4jJ7qUWCu7-CqyCr7w7lSlQFszDUAkCwveG/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgAjYQQd6KXENr3A6xFxynCg8O65yeAKkqLQjiWDVwGC8CIQCu9mysT8k0imQaGSCHukC0GQOzAZvLtBi_4ig4pri0Ig%3D%3D/playlist/index.m3u8",
     "img": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp"
   },
   {
     "name": "Pica-Pau",
     "type": "Infantil",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220020/ei/FH_qaLuMCs2r9cYPl5_AKQ/ip/138.117.221.219/id/j92nWZ0MMj4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSVQLvjtaAa7cMmhF0gSeiXfQfgjwiG4tGe6WYd1kcMIRF4exbClxSeVtPYjrkRxNTihxcAjgQaJ/spc/hcYD5dOfr_wwEeqDgjsoz4ebYAc3vtWK9ogKwJziiW2hb4A0JscUQA-YtfpmGu9Vk0WyfcYEZ60/vprv/1/playlist_type/DVR/initcwndbps/2618750/met/1760198424,/mh/DJ/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAKoPq27LG6x2ctdc6af42wEl7WYjAU1Q932pids12_QwAiBvTw-lkgecwQktDHyOgkOzK1Drk5RPWckd__gdifWOqA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgYt6PunRo6Am5qs739JQDIU09GqwE5q18Ubtbkebqoq4CIC7YY6bxR1O4x9nmQfRaUa4cdZVMI-cWHNYAN_EHLqHE/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252418/ei/ov3qaOqMMZjB9cYPn96xQA/ip/138.117.221.219/id/j92nWZ0MMj4.1~45720748/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSVa81DOiM260-rVX1rT-urbCr5TiRm_TDc39LqBb-rZ38ZE0ge5YKJO4u07Mr9wi-oCcTRP-XYn/spc/hcYD5fmmQ-TOwXIeHRoTE4gnRgr6S0FUgFxOJo0IP2J1tdJMzhqfA7nLsMz3coNEr-adHK9EXF0/vprv/1/playlist_type/DVR/initcwndbps/2141250/met/1760230819,/mh/iU/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKFD4yFSib1auYNWT9NoTtX1pXiPIx7XgIItu0Jfuc66AiEAy7eVj5oF0FBC0zbhYx-OIzB8KC4mGU-uwcHD9Dz10eI%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgUsha4cS1my0jxUN7ozyzZZNOGwifWRgRAGNc6Ro9MAoCIHAeOPbf19Ysc7xvagwNLjLVmoxyruIuqiIVJObv3vZs/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/ytc/AIdro_nRLIrnk2e7Ev0pytjw0wvvyh7cMFAWJbcqmM4167sanV8=s160-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -17916,21 +17928,15 @@
     "img": "https://i.imgur.com/t5oUK3C.png"
   },
   {
-    "name": "Jovem Pan Live",
-    "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220014/ei/Dn_qaLiWE7io9cYP3fz1kAY/ip/138.117.221.219/id/wzb0Yey_X70.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSVn0V7fzR0XGkExclRW4i0k7D7lLgo9cFdY1cEX_2XsBECJdJU6FkHdDchZmOyGLe9liSAUCH5W/spc/hcYD5Y8U21TzexzeKvtQl_hnXC7WLtEymVYcSNllHSRKaF4JUrHnRv1BNPSRO4NFPeT-4DdZzVM/vprv/1/playlist_type/DVR/initcwndbps/2322500/met/1760198415,/mh/Q_/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgBdInLk10bIBYXJhwFY1DDfrAFj_I_9LaJAGCgJX7BgoCIQD8AzAf8hHRALA7I_fxq8dfY5LqeLCa30OgWvgZK6fpUw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPVwZ0HEj-HrZd_MdzmkLf27e_iKFAT6MtdR-lAnLfC_AiB-tc7s0yy17v2mlpd10_-oIlVeevlDU1n74ruHe4gjUA%3D%3D/playlist/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png"
-  },
-  {
     "name": "Record News Live",
     "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220015/ei/D3_qaOTIKNaU9cYPu8Kk0AY/ip/138.117.221.219/id/5Ot1rgMYBI0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSV4FFHf2wCRxDfdX-PE417n3fBBgOxSR2XPPb_9PNLHY0eUWfN6c4V8VZMQW9PLWS3MmPpyh3BU/spc/hcYD5SqrV6HYfHGtWJLqKfWOfCbgIge6bdHBHzisW5lUxi8zV3BEdKfEEQw5ALvGI-vCijsiZ3w/vprv/1/playlist_type/DVR/initcwndbps/2431250/met/1760198416,/mh/Jh/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAN7myaDjYWlHA6PygbtnjDi20PcRRzjmgxdBecu9NpiPAiBXq5L5tmNvFClKIwf9Uo5lfhimZXPObyUyv3898_yRDA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgbSuaVA13u4NG-WWIyREcKa-Q-jB8mxkkblKfjxIl3MMCIQC0P61yjUGzI_ygYB23ViFyf9Qyw1QJa136NtlwdXOiJg%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252414/ei/nv3qaP2KH-fCobIP4oXeoQw/ip/138.117.221.219/id/5Ot1rgMYBI0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ATw7iSWf-dINnP-eigFMHRM93nZftFFvjcX17BTWkbd_Mw_7CQM01lsOGwVGy7xME-46A_0arAQe4AMK/spc/hcYD5Z35youXIc4mwbUe4Htz6_vphV9r-jcBnAaYoEDHbkaH4Lqkl0xt0b86Ma-4tkeEy-nhnw4/vprv/1/playlist_type/DVR/initcwndbps/2202500/met/1760230815,/mh/Jh/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760230598/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgfp8xg2-GWbHB4P5FhKUWCVkiucl7WJCrL1k6wsU8s6gCIFyFO1JTWVyDDz6Q3wanc3EVYqbLicWENtS3uG4jo2Km/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAL7jSDRFBUaALbEOCJGPkSmUcTHg2kaTk2w67R86_6fBAiBQSv59vmm8clxPA_d9ySW6X1hFB3ZL8ZI102-eYD42pA%3D%3D/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "CNN Brasil",
     "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220025/ei/GX_qaPXXGPmx9cYPjq2L-Ao/ip/138.117.221.219/id/rVoHRiXVC_o.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/ATw7iSX43jxG1Jv31xuoPTd1ZsEo3rqHYPlxIHVozzjt_hPl2dCdpLbfKOaV6CPHCbYBC5Oe8tLUFQOO/spc/hcYD5bp9j-DlQtW5umjTaXQ0J9w6j0aaC06q86q4u0MDmadQuhHRmXSJ0VKKaksrQAVwbo-2mww/vprv/1/playlist_type/DVR/initcwndbps/2291250/met/1760198426,/mh/fm/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968,51593650/mt/1760198207/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgTgg8oLkpw8jUKRpieNbaqxcaX47TvKrPujbkbilLzgQCICo2T3UGIUP8hRT9ZbUgRiQddRIS2miUqFDBsmtcj21u/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPCQgD-o6Ip88pXyz4UL6lXMC0tlQrPHt7mqN00XOskEAiBgWVUJm31AQVBAuvQvvR9E_HUynx2aExZ0qCllmDFTmQ%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252420/ei/pP3qaMyIH7Ld9cYP4ujSmAo/ip/138.117.221.219/id/b-eaQUVVGbw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/ATw7iSW_iVAdjLsPUV-LI_04cMU3--NxH5HjPIdna4s_yk9Kw9qiK1T4c7h0RaFRxbPlhSUCIup75l0T/spc/hcYD5emPlNUpq32bfP-pxON3hlz39OPS87KdtF8aPIvWPfoZaPlvlqaYVbChugXVvYEmcv6VLDE/vprv/1/playlist_type/DVR/initcwndbps/2276250/met/1760230821,/mh/aW/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgBOey4VRE13FG1nz4GsX4TqoYdlS5PyFpxR3cJwoUXCUCIDT49Nr8DgPjwa_IidpwIB14fcXtc_12zQASKLtwdzJ-/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgMFRqmM_F974WRaRw-gHpvNqr2S4Q6vi8Th_E9KtJ2QcCIGPLekbeVFyAtDpIDonOFNpuAIJCnSXM4vpYlEVBzKSa/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/ytc/AIf8zZQb7MP1UvjN4CnJ9tEyGeQM0btuJejf1PQekJlmog=s176-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -18188,7 +18194,7 @@
   {
     "name": "Santuário Nacional de Aparecida",
     "type": "Religião",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760220026/ei/Gn_qaLjuNPHB9cYPncuWmAc/ip/138.117.221.219/id/juUt-rN5CVo.26/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ATw7iSXW-RvKAGXWl16Vqmwum-Nkrzy2yuMju2qDIgrNl7ZHJ8jdJIZ52SVoctA_76L6Lwzk1vBYadaa/spc/hcYD5VBX1Bn8bVtx0MIZY8CKu3YH9WiAeNTF-V9OZ5GvVvKIL3IwQLTP-HnQ9kDR3C9nJQJ4VNI/vprv/1/playlist_type/LIVE/initcwndbps/2618750/met/1760198427,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565681,51580968,51593650/mt/1760197952/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhANQSITmKyIq5Q51VorhmifpOBtuDQd4zeqvjz1NNWvnAAiBZla04XDKyxleROArd6-3_6t8dlQQN4sZ4Rrc-8KkJ-g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwQwIfBp9dRs09Yt8pQJEEJsuvdn0glSD7K0oIsm53KAQ5HgIgKlIUe02iBV7Z2TPbp17m836V1IkBAc7xMabKhoUwwdU%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252421/ei/pf3qaLKcLfSa9cYP9_fWyQY/ip/138.117.221.219/id/juUt-rN5CVo.26/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ATw7iSV4CZvylGn8l-v_4ONfFLhOLpRhQ0KgU5tl1N7Tx1STjuAhS8Pr3igdJXIXC6tS66T7YBSeSjLU/spc/hcYD5akJR8APYcmMjFOMEc3g8ppBhr9NYFMVogt-prlt4I5UDsYrLN8ySe-qDcyufn08zRBRXKg/vprv/1/playlist_type/LIVE/initcwndbps/2141250/met/1760230830,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJt1QiRy8lK252HMoAA99zcj8HDgdzRlPSRLcWAz-zjOAiEA3jKK-iNyWrygq6gdIeU0Fg9zadr5_ArXUhaV1iGlY04%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMjx9xhqNEpCATYo3UPTr9x4AtaMxBmR5JInR9xM74StAiEAhnJkGEWwt9xPTMK-9c4P9LSjF7Uoc1-1Phf5POOGmYw%3D/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/lJKcikNIOAxJwt56fCFkY-pc57H0TQgZtt0h8xPBlijST3FE_2AOZhqS4_D8afZaDjHKqKOVeA=s176-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -18280,6 +18286,12 @@
     "type": "Esportes",
     "url": "http://cdn.tvmatic.net/fight.m3u8",
     "img": "https://i.imgur.com/l5PBcKN.png"
+  },
+  {
+    "name": "CazéTV",
+    "type": "Esportes",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760252408/ei/mP3qaJSJOPWOobIPgqPxsQY/ip/138.117.221.219/id/fU18WV0QJPI.3/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/ATw7iSXTEhVaH7eEZ5HfthQuloC1lgVwjNXqW6CrJvYdBcbx4crbe3aT8wd0isBYYZiG9LWSCa8JynD7/spc/hcYD5binqM2C0hNgCA9Dlvyp9NFqKsXjEFF0K1P3Im16t4F6QcOqO1jMc7n2Bf1b_wUZjbNswhQ/vprv/1/playlist_type/DVR/initcwndbps/2276250/met/1760230809,/mh/V8/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968,51593650/mt/1760230353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgNbSG4cpIIInS6lJs1-AQ9pblQDOdqdWMvqbNWOEX8DUCIEE7fjw4EDaRjqlCvK9OasYNaphniQMiuB9b_Faxg4bJ/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIgFtXto2hShegRiEOqe49JInnfJUZhSuitteBl10mYxWoCIQCr-MPBPtqo3JD3FNADedB_rwq3bHBeu3VBCI6zAVacyA%3D%3D/playlist/index.m3u8",
+    "img": "https://yt3.googleusercontent.com/4oHE9WPNm2O_OCXfv-z1ikfOHAWLe46KViKgZNwBGiRQKfLDPlHmnBQ9rbuXvWasG4YixvFA=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "1001 Noites",
@@ -18780,100 +18792,34 @@
     "img": "https://i.imgur.com/jksy4Zb.jpeg"
   },
   {
-    "name": "HBO (SP)",
+    "name": "HBO (OKT)",
     "type": "HBO",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd",
     "img": "https://i.imgur.com/xOVZ5cz.jpeg"
   },
   {
-    "name": "HBO HITS (SP)",
+    "name": "HBO HITS (OKT)",
     "type": "HBO",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd",
     "img": "https://i.imgur.com/V9WrhPQ.jpeg"
   },
   {
-    "name": "HBO SIGNATURE (SP)",
+    "name": "HBO SIGNATURE HD (OKT)",
     "type": "HBO",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd",
     "img": "https://i.imgur.com/aTqOJyJ.jpeg"
   },
   {
-    "name": "HBO FAMILY (SP)",
+    "name": "HBO FAMILY (OKT)",
     "type": "HBO",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd",
     "img": "https://i.imgur.com/U4lscew.jpeg"
   },
   {
-    "name": "CINEMAX (SP)",
+    "name": "CINEMAX (OKT)",
     "type": "HBO",
     "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd",
     "img": "https://i.imgur.com/5sJrz8R.jpeg"
-  },
-  {
-    "name": "Cinemax Indo (TSP)",
-    "type": "HBO",
-    "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302227.ts",
-    "img": "https://i.imgur.com/5sJrz8R.jpeg"
-  },
-  {
-    "name": "HBO Signature Indo (TSP)",
-    "type": "HBO",
-    "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302251.ts",
-    "img": "https://i.imgur.com/aTqOJyJ.jpeg"
-  },
-  {
-    "name": "HBO Indo (TSP)",
-    "type": "HBO",
-    "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501248.ts",
-    "img": "https://i.imgur.com/xOVZ5cz.jpeg"
-  },
-  {
-    "name": "HBO Family Indo (TSP)",
-    "type": "HBO",
-    "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501249.ts",
-    "img": "https://i.imgur.com/U4lscew.jpeg"
-  },
-  {
-    "name": "HBO HITS Indo (TSP)",
-    "type": "HBO",
-    "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501250.ts",
-    "img": "https://i.imgur.com/V9WrhPQ.jpeg"
-  },
-  {
-    "name": "IHBO Signature Indo (TSP)",
-    "type": "HBO",
-    "url": "http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501251.ts",
-    "img": "https://i.imgur.com/aTqOJyJ.jpeg"
-  },
-  {
-    "name": "HBO HD NON SUB",
-    "type": "HBO",
-    "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd",
-    "img": "https://i.imgur.com/xOVZ5cz.jpeg"
-  },
-  {
-    "name": "HBO FAMILY NON SUB",
-    "type": "HBO",
-    "url": "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd",
-    "img": "https://i.imgur.com/U4lscew.jpeg"
-  },
-  {
-    "name": "CINEMAX NON SUB",
-    "type": "HBO",
-    "url": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd",
-    "img": "https://i.imgur.com/5sJrz8R.jpeg"
-  },
-  {
-    "name": "HBO SIGNATURE NON SUB",
-    "type": "HBO",
-    "url": "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd",
-    "img": "https://i.imgur.com/aTqOJyJ.jpeg"
-  },
-  {
-    "name": "HBO HITS NON SUB",
-    "type": "HBO",
-    "url": "https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd",
-    "img": "https://i.imgur.com/V9WrhPQ.jpeg"
   },
   {
     "name": "DISNEY XD (US)",
@@ -19032,6 +18978,18 @@
     "img": "https://i.imgur.com/IQkwAXJ.jpeg"
   },
   {
+    "name": "NBA TV (OKT)",
+    "type": "OLAHRAGA LOKAL",
+    "url": "http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts",
+    "img": "https://i.imgur.com/K3FXClz.jpeg"
+  },
+  {
+    "name": "NBA TV (OKT)",
+    "type": "OLAHRAGA LOKAL",
+    "url": "https://fl25.moveonjoy.com/NBA_TV/index.m3u8",
+    "img": "https://i.imgur.com/K3FXClz.jpeg"
+  },
+  {
     "name": "WWE Network (AG)",
     "type": "OLAHRAGA LOKAL",
     "url": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd",
@@ -19090,18 +19048,6 @@
     "type": "OLAHRAGA LOKAL",
     "url": "https://unifi-live10.secureswiftcontent.com/UnifiHD/live05.mpd",
     "img": "https://i.imgur.com/WoZKvR1.jpeg"
-  },
-  {
-    "name": "NBA TV (OKT)",
-    "type": "SPORTS",
-    "url": "http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts",
-    "img": "https://i.imgur.com/K3FXClz.jpeg"
-  },
-  {
-    "name": "NBA TV (OKT)",
-    "type": "MOVEONJOY",
-    "url": "https://fl25.moveonjoy.com/NBA_TV/index.m3u8",
-    "img": "https://i.imgur.com/K3FXClz.jpeg"
   },
   {
     "name": "ORIGINALS (JL)",
@@ -19357,823 +19303,823 @@
   },
   {
     "name": "NHK G",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/NHK_G/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK E",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/NHK_E/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NTV",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/Nippon_TV/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TBS",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/TBS/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fuji TV",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/Fuji_TV/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Asahi",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/TV_Asahi/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Tokyo",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/TV_Tokyo/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TOKYO MX1",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/Tokyo_MX1/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TOKYO MX2",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/Tokyo_MX2/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK G HD (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd01",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK E HD (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd02",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NTV HD (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd03",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TBS HD (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd04",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fuji TV HD (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd05",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Asahi HD (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd06",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Tokyo HD (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd07",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TOKYO MX1 HD (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=hdgd08",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK G (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd01",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK E (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd02",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NTV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd03",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TBS (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd04",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fuji TV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd05",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Asahi (NSFW) (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd06",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Tokyo (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd07",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TOKYO MX1 (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gd08",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "MBS",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/mbs/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "ABC",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/abc/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Osaka",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/tvo/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Kansai TV",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/kansaitv/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "ytv",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/ytv/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "KBS",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/kbs/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "SUN",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/suntv/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK G Osaka (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx06",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "MBS (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx01",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "ABC (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx02",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Kansai TV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx03",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "ytv (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx04",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Osaka (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx05",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "SUN (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=gx07",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK BS",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/NHK_BS/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS NTV",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/bsntv/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS Asahi",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/bsasahi/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS TBS",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/bstbs/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS TV Tokyo",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/bstvtokyo/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS Fuji",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/bsfuji/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS11",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/BS11/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK BS4K",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/bsp4k/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "WOWOW Prime",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/wprime/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "WOWOW Cinema",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/wcinema/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "WOWOW Live",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/wlive/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS 10 Star Channel",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/bs10_star/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "JSport 1",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/js1/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "JSport 2",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/js2/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "JSport 3",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/js3/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "JSport 4",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/js4/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Green Channel",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/green/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Animax",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/Animax/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Nihon Eiga Senmon",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/nihoneiga/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Sky A",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/skya/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK BS (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs11",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS NTV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs02",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS Asahi (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs03",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS TBS (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs04",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS TV Tokyo (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs05",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS Fuji (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs06",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "NHK BS4K (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs01",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "WOWOW Prime (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs12",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "WOWOW Cinema (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs07",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "WOWOW Live (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs20",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BS 10 Star Channel (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs08",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "JSport 1 (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs18",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "JSport 2 (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs19",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "JSport 3 (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs21",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "JSport 4 (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs22",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Green Channel (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs14",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Animax (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs15",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Nihon Eiga Senmon (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs23",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Sky A (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs01",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fishing Vision (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs25",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Disney Channel (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs24",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "JCOM BS (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=2&id=bs31",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Gaora Sports",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/gaora/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "AT-X",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://mt01.utako.moe/AT-X/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Space Shower TV",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/spaceshower/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "MTV",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/mtv/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Mnet",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/mnet/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Kayo Pops",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/kayopops/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Disney Channel",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/disneychan/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
-    "name": "Cartoon Network Japan",
-    "type": "JAPAN",
+    "name": "Cartoon Network DUNIA | JEPANG NON SUB",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/cartoon_network/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Nittele G+",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/ntvgplus/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Family Gekijyo",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/familygeki/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Mondo TV",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/mondo/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TBS Channel 1",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/tbsch1/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TBS Channel 2",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/tbsch2/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Asahi Channel 1",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/ex_ch1/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TV Asahi Channel 2",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/ex_ch2/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fuji TV ONE",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/fuji_one/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fuji TV TWO",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/fuji_two/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fuji TV NEXT",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/fuji_next/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Neco Channel",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/neco/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Dlife",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/dlife/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Toei Channel",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/toei/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fighting TV Samurai",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/fighting_tv/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Entermei Tele",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/entermei_tele/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Sport Live Plus",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/sport_live_plus/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Home Drama Channel",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/homedrama/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Channel Ginga",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/gingach/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Tabi Channel",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://ca01.utako.moe/tabi/index.m3u8",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Jidaigeki Senmon (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs04",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Toei Channel (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs27",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Eisei Gekijo (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs22",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Family Gekijyo (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs20",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Movie Plus (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs14",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Home Drama Channel (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs05",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Tabi Channel (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs12",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Fuji TV Next (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs26",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "GAORA SPORTS (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs17",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Golf Network (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs03",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Nittele G+ (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs02",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Mondo TV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs21",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Channel Ginga (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=2&id=cs29",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Space Shower TV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=bs26",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
-    "name": "Music Japan TV (Primehome)",
-    "type": "JAPAN",
+    "name": "Music DUNIA | JEPANG NON SUB TV (Primehome)",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs06",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Kayo Pops (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs13",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "MTV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs18",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "LaLa TV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs19",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Takarazuka Sky Stage (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=2&id=cs28",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Kids Staton TV (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs07",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Cartoon Network (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs25",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
-    "name": "National Geographic Japan (Primehome)",
-    "type": "JAPAN",
+    "name": "National Geographic DUNIA | JEPANG NON SUB (Primehome)",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs10",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Disney Junior (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs23",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Discovery Channel (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs08",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "Animal Planet (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs24",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "History (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs09",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "CNNj (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs16",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "BBC News (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs15",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
   {
     "name": "TBS News (Primehome)",
-    "type": "JAPAN",
+    "type": "DUNIA | JEPANG NON SUB",
     "url": "https://proxy.utako.moe/ph.php?&isp=1&id=cs1",
     "img": "https://i.imgur.com/livnmIp.jpeg"
   },
@@ -20374,6 +20320,18 @@
     "type": "OLAHRAGA | MOTOR GP",
     "url": "https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8",
     "img": "https://i.imgur.com/mWEMiPZ.jpeg"
+  },
+  {
+    "name": "LIVE 2 MALAYSIA",
+    "type": "BOLA | KUALIFIKASI PIALA DUNIA",
+    "url": "https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/AstroArena2.m3u8",
+    "img": "https://i.imgur.com/n2M5JTN.jpeg"
+  },
+  {
+    "name": "LIVE 3 US",
+    "type": "BOLA | KUALIFIKASI PIALA DUNIA",
+    "url": "https://a1xs.vip/120001",
+    "img": "https://i.imgur.com/n2M5JTN.jpeg"
   },
   {
     "name": "RCTI 2 ON (+)",
@@ -21465,12 +21423,6 @@
     "name": "Sky Sports Main Event FHD",
     "type": "OLAHRAGA POPULER 2",
     "url": "https://a1xs.vip/2000001",
-    "img": "https://i.imgur.com/1vqowr7.png"
-  },
-  {
-    "name": "DE: Sportdigital Fussball FHD",
-    "type": "OLAHRAGA POPULER 2",
-    "url": "https://a1xs.vip/120001",
     "img": "https://i.imgur.com/1vqowr7.png"
   },
   {
