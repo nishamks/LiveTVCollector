@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-14 21:45:09",
+  "date": "2025-10-15 06:26:18",
   "channels": {
     "News": [
       {
@@ -3662,11 +3662,11 @@
         "url": "http://103.81.104.118/hls/stream10.m3u8"
       },
       {
-        "name": "Star Sports 1 HD [Geo-blocked]",
+        "name": "Star Sports 1 HD (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/E5jjKHI.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+        "url": "http://116.90.120.149:8000/play/a0ba/index.m3u8"
       },
       {
         "name": "Star Sports 1 Hindi HD (1080p)",

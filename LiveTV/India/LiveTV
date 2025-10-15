@@ -3114,9 +3114,9 @@
     "img": "https://i.imgur.com/40BbQUd.png"
   },
   {
-    "name": "Star Sports 1 HD [Geo-blocked]",
+    "name": "Star Sports 1 HD (1080p) [Geo-blocked]",
     "type": "Sports",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
+    "url": "http://116.90.120.149:8000/play/a0ba/index.m3u8",
     "img": "https://i.imgur.com/E5jjKHI.png"
   },
   {

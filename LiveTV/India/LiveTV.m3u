@@ -1037,8 +1037,8 @@ https://cdn-6.pishow.tv/live/9/master.m3u8
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports",Sony Six HD (1080p)
 http://103.81.104.118/hls/stream10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD [Geo-blocked]
-http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD (1080p) [Geo-blocked]
+http://116.90.120.149:8000/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="Sports",Star Sports 1 Hindi HD (1080p)
 http://116.90.120.149:8000/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfLSnsZ.png" group-title="Sports",Star Sports 1 Tamil HD
