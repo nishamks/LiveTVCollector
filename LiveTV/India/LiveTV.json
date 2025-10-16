@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-15 21:43:01",
+  "date": "2025-10-16 06:25:50",
   "channels": {
     "News": [
       {
@@ -31,11 +31,11 @@
         "url": "https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8"
       },
       {
-        "name": "Aaj Tak (404p)",
+        "name": "Aaj Tak (1080p)",
         "logo": "https://i.imgur.com/RpIdCB3.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8"
+        "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8"
       },
       {
         "name": "ABN Andhra Jyoti (720p)",
@@ -717,11 +717,11 @@
         "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8"
       },
       {
-        "name": "Polimer News (576p)",
+        "name": "Polimer News (576p) [Not 24/7]",
         "logo": "https://i.imgur.com/CxcuvXX.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8"
+        "url": "http://14.199.164.20:4001/play/a0lg/index.m3u8"
       },
       {
         "name": "Prameya News7 (1080p) [Not 24/7]",
@@ -1045,7 +1045,7 @@
         "logo": "https://i.imgur.com/J6D56EF.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=535&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=535"
       },
       {
         "name": "Dhoom Music (720p)",
@@ -1227,7 +1227,7 @@
         "logo": "https://i.imgur.com/9vcdaKw.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=747&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=747"
       },
       {
         "name": "Tarang Music (720p)",
@@ -1248,7 +1248,7 @@
         "logo": "https://i.imgur.com/Lp1OuB9.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=744&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=744"
       },
       {
         "name": "Vaanavil TV (720p)",
@@ -1425,7 +1425,7 @@
         "logo": "https://i.imgur.com/zXpROBj.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=731&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=731"
       },
       {
         "name": "KTV (1080p)",
@@ -1474,7 +1474,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8"
+        "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0898545986"
       },
       {
         "name": "Star Gold 2 HD (576p)",
@@ -1558,14 +1558,14 @@
         "logo": "https://i.imgur.com/FkSCjIo.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=1754&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=1754"
       },
       {
         "name": "Udaya Movies (576p)",
         "logo": "https://i.imgur.com/UNEQaAv.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=678&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=678"
       },
       {
         "name": "Vijay Super HD (1080p)",
@@ -1672,56 +1672,56 @@
         "logo": "https://i.imgur.com/M8uCJ0D.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=144&extension=.m3u8"
+        "url": "https://playyonogames.in/live.php?extension=.m3u8&id=144"
       },
       {
         "name": "Colors Bangla (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=756&format=.m3u8"
+        "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8"
       },
       {
         "name": "Colors Gujarati (1080p)",
         "logo": "https://i.imgur.com/ZWMyR3j.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=196&format=.m3u8"
+        "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsGujarati/JCHLS/index.m3u8"
       },
       {
         "name": "Colors Infinity (1080p)",
         "logo": "https://i.imgur.com/a5uES9j.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=1158&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=1158"
       },
       {
         "name": "Colors Kannada (1080p)",
         "logo": "https://i.imgur.com/CFUn43Z.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=757&format=.m3u8"
+        "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/index.m3u8"
       },
       {
         "name": "Colors Marathi (1080p)",
         "logo": "https://i.imgur.com/q43P31H.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=755&format=.m3u8"
+        "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8"
       },
       {
-        "name": "Colors Super (720p)",
+        "name": "Colors Super (1080p)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=785&format=.m3u8"
+        "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/index.m3u8"
       },
       {
         "name": "Colors Tamil (1080p)",
         "logo": "https://i.imgur.com/zZXCFqF.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=429&format=.m3u8"
+        "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8"
       },
       {
         "name": "Dabangg (720p)",
@@ -1812,7 +1812,7 @@
         "logo": "https://i.imgur.com/vpoiA6i.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=634&format=.m3u8"
+        "url": "http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062"
       },
       {
         "name": "Hi Dost! (720p)",
@@ -2008,14 +2008,14 @@
         "logo": "https://i.imgur.com/AkdfpVr.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8"
+        "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686"
       },
       {
         "name": "Sony SAB (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8"
+        "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897678986"
       },
       {
         "name": "Sooriyan TV (1080p)",
@@ -2513,7 +2513,7 @@
         "logo": "https://i.imgur.com/AFXPVYD.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://nxtlive.net/sliv/stream.php?id=94312380256&e=.m3u8"
+        "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=94312380256"
       },
       {
         "name": "Northeast Live (720p)",
@@ -2660,7 +2660,7 @@
         "logo": "https://i.imgur.com/B8GrFwu.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=623&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=623"
       },
       {
         "name": "Rengoni (576p)",
@@ -2814,7 +2814,7 @@
         "logo": "https://i.imgur.com/uiDnvqt.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://nxtlive.net/sliv/stream.php?id=985980256&e=.m3u8"
+        "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985980256"
       },
       {
         "name": "Sony Max 2 (720p)",
@@ -2828,7 +2828,7 @@
         "logo": "https://i.imgur.com/GnoJkj4.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://nxtlive.net/sliv/stream.php?id=985663255656&e=.m3u8"
+        "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985663255656"
       },
       {
         "name": "Sony Pix (720p)",
@@ -2842,7 +2842,7 @@
         "logo": "https://i.imgur.com/MhlO1dB.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8"
+        "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0657898986"
       },
       {
         "name": "Star Suvarna Plus (576p)",
@@ -2877,7 +2877,7 @@
         "logo": "https://i.imgur.com/fH62JFs.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=1669&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=1669"
       },
       {
         "name": "Sun Life (576p)",
@@ -3003,7 +3003,7 @@
         "logo": "https://i.imgur.com/BQfcmJy.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=901&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=901"
       },
       {
         "name": "Vanitha TV (720p)",
@@ -3013,11 +3013,11 @@
         "url": "https://cdn-1.pishow.tv/live/393/master.m3u8"
       },
       {
-        "name": "Vasanth TV (240p)",
+        "name": "Vasanth TV (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8"
+        "url": "https://cdn-3.pishow.tv/live/1247/master.m3u8"
       },
       {
         "name": "Vendhar TV (720p) [Not 24/7]",
@@ -3190,11 +3190,11 @@
         "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8"
       },
       {
-        "name": "Colors Rishtey Asia (576p)",
+        "name": "Colors Rishtey Asia (1080p)",
         "logo": "https://i.imgur.com/YKWfMZo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=279&format=.m3u8"
+        "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8"
       },
       {
         "name": "Dangal TV (720p)",
@@ -3432,14 +3432,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=710&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=710"
       },
       {
-        "name": "Kalaignar TV (396p)",
+        "name": "Kalaignar TV (576p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8"
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/kalaignartv/master.m3u8"
       },
       {
         "name": "Kasthuri (576p)",
@@ -3586,11 +3586,11 @@
         "url": "https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8"
       },
       {
-        "name": "NDTV Profit (480p)",
+        "name": "NDTV Profit (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/WK4tZ6p.png",
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8"
+        "url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
       },
       {
         "name": "Zee Business (720p)",
@@ -3892,7 +3892,7 @@
         "logo": "https://i.imgur.com/vSJzF6o.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/jio/app/ts_live_815.m3u8"
+        "url": "http://116.90.120.149:8000/play/a0cc/index.m3u8"
       },
       {
         "name": "ZB Cartoon (1080p)",
@@ -3940,7 +3940,7 @@
         "logo": "https://i.imgur.com/dNI0Vm5.png",
         "group": "Comedy",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://playyonogames.in/live.php?id=1662&format=.m3u8"
+        "url": "https://playyonogames.in/live.php?format=.m3u8&id=1662"
       },
       {
         "name": "Udaya Comedy (576p)",

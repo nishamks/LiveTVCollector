@@ -7,8 +7,8 @@ https://cdn-1.pishow.tv/live/391/master.m3u8
 https://cdn-1.pishow.tv/live/1211/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJA3bh1.png" group-title="News",A1 TV Rajasthan (576p)
 https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak (404p)
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak (1080p)
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcoiZJ3.png" group-title="News",ABN Andhra Jyoti (720p)
 https://cdn-1.pishow.tv/live/407/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/512px-ABP_Ananda_logo.svg.png" group-title="News",ABP Ananda (1080p)
@@ -203,8 +203,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WqTIoWS.png" group-title="News",NTV Telugu (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (576p)
-https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="News",Polimer News (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0lg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTgkqdS.png" group-title="News",Prameya News7 (1080p) [Not 24/7]
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prameya-news7/index.m3u8?ads.dpname=distrotv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNsg5Px.png" group-title="News",Pratham Khabar 24x7 (576p)
@@ -296,7 +296,7 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gaKzWdo.png" group-title="Music",Boogle Bollywood (1080p) [Not 24/7]
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6D56EF.png" group-title="Music",Dhamaal (576p) [Not 24/7]
-https://playyonogames.in/live.php?id=535&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=535
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ai9gpjy.png" group-title="Music",Dhoom Music (720p)
 https://cdn-1.pishow.tv/live/1456/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zYbltEk.png" group-title="Music",Dil Se (360p) [Not 24/7]
@@ -348,13 +348,13 @@ https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8qxtZZ.png" group-title="Music",Sun Music (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/sunmusichd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9vcdaKw.png" group-title="Music",Surya Music (576p)
-https://playyonogames.in/live.php?id=747&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=747
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png" group-title="Music",Tarang Music (720p)
 https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VUzMQ9S.png" group-title="Music",Tunes 6 (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/tunes6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lp1OuB9.png" group-title="Music",Udaya Music (576p)
-https://playyonogames.in/live.php?id=744&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=744
 #EXTINF:-1 tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqqcEu7.png" group-title="Music",Vijay Takkar (576p)
@@ -404,7 +404,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/jmovies/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Movies",Jalsha Movies HD (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="Movies",Kairali We (576p)
-https://playyonogames.in/live.php?id=731&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=731
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G4fFx53.png" group-title="Movies",KTV (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/ktvhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="Movies",Maha Movie (576p) [Not 24/7]
@@ -418,7 +418,7 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T76S4x3.png" group-title="Movies",Pravah Picture HD (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png" group-title="Movies",Sony Wah (1080p)
-https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0898545986
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0ZfzZr.png" group-title="Movies",Star Gold 2 HD (576p)
 http://116.90.120.149:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Movies",Star Gold HD (1080p)
@@ -442,9 +442,9 @@ http://116.90.120.149:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOPB7JB.png" group-title="Movies",Studio One + (720p)
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies",Surya Movies (1080p)
-https://playyonogames.in/live.php?id=1754&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=1754
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UNEQaAv.png" group-title="Movies",Udaya Movies (576p)
-https://playyonogames.in/live.php?id=678&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=678
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="Movies",Vijay Super HD (1080p)
 https://live.dinesh29.com.np/stream/jiotvplus/vijaysuperhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYjCv5p.png" group-title="Movies",Zee Cinema (1080p) [Geo-blocked]
@@ -474,21 +474,21 @@ http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/7/77/Chumbak-TV.png" group-title="Entertainment",Chumbak TV (720p)
 https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors (1080p)
-https://playyonogames.in/live.php?id=144&extension=.m3u8
+https://playyonogames.in/live.php?extension=.m3u8&id=144
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png" group-title="Entertainment",Colors Bangla (1080p)
-https://playyonogames.in/live.php?id=756&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWMyR3j.png" group-title="Entertainment",Colors Gujarati (1080p)
-https://playyonogames.in/live.php?id=196&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsGujarati/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="Entertainment",Colors Infinity (1080p)
-https://playyonogames.in/live.php?id=1158&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=1158
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFUn43Z.png" group-title="Entertainment",Colors Kannada (1080p)
-https://playyonogames.in/live.php?id=757&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q43P31H.png" group-title="Entertainment",Colors Marathi (1080p)
-https://playyonogames.in/live.php?id=755&format=.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Entertainment",Colors Super (720p)
-https://playyonogames.in/live.php?id=785&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Entertainment",Colors Super (1080p)
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZXCFqF.png" group-title="Entertainment",Colors Tamil (1080p)
-https://playyonogames.in/live.php?id=429&format=.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ChpxLy.png" group-title="Entertainment",Dabangg (720p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Entertainment",Darshana TV (720p)
@@ -514,7 +514,7 @@ https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Entertainment",Fakt Marathi (720p) [Not 24/7]
 https://cdn-6.pishow.tv/live/10002/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="Entertainment",Flowers TV (576p)
-https://playyonogames.in/live.php?id=634&format=.m3u8
+http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bnST6y5.png" group-title="Entertainment",Hi Dost! (720p)
 https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jHv7t9t.png" group-title="Entertainment",Imayam (720p)
@@ -570,9 +570,9 @@ https://galaxyott.live/hls/sanatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Entertainment",Shemaroo TV (720p)
 https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkdfpVr.png" group-title="Entertainment",Sony Entertainment Television (1080p)
-https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png" group-title="Entertainment",Sony SAB (1080p)
-https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897678986
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Entertainment",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",Star Bharat HD (1080p)
@@ -712,7 +712,7 @@ https://yuppftalive.akamaized.net/080823/dishatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJpMZIv.png" group-title="Undefined",ET Now Swadesh (720p)
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AFXPVYD.png" group-title="Undefined",Max Middle East (1080p)
-https://nxtlive.net/sliv/stream.php?id=94312380256&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=94312380256
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Zpwy1Y.png" group-title="Undefined",Northeast Live (720p)
 https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E8MPUM7.png" group-title="Undefined",Pitaara (720p)
@@ -754,7 +754,7 @@ https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4oF38ei.png" group-title="Undefined",Raj TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8GrFwu.png" group-title="Undefined",Rang (576p)
-https://playyonogames.in/live.php?id=623&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=623
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ss1OBn1.png" group-title="Undefined",Rengoni (576p)
 https://yuppftalive.akamaized.net/080823/rengonitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jV4vVpH.png" group-title="Undefined",Republic Bangla (1080p)
@@ -798,15 +798,15 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFlKqH4.png" group-title="Undefined",Songdew TV (396p)
 https://yupplivefragcp3.yuppcdn.net/260423/smil:songdew.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uiDnvqt.png" group-title="Undefined",Sony Marathi (1080p)
-https://nxtlive.net/sliv/stream.php?id=985980256&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985980256
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Undefined",Sony Max 2 (720p)
 https://tv.bdixtv24.com/toffee/live.php?e=.m3u8&id=420510be5c17
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnoJkj4.png" group-title="Undefined",Sony Pal (1080p)
-https://nxtlive.net/sliv/stream.php?id=985663255656&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985663255656
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" group-title="Undefined",Sony Pix (720p)
 https://tv.bdixtv24.com/toffee/live.php?e=.m3u8&id=ea02096b0fbc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MhlO1dB.png" group-title="Undefined",Sony Yay! (1080p)
-https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8
+https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0657898986
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xlCOq0l.png" group-title="Undefined",Star Suvarna Plus (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/suvarnaplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="Undefined",Star Utsav (576p) [Not 24/7]
@@ -816,7 +816,7 @@ https://yuppftalive.akamaized.net/080823/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfk5jKE.png" group-title="Undefined",Subhavaartha TV (720p)
 https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fH62JFs.png" group-title="Undefined",Sun Bangla (1080p)
-https://playyonogames.in/live.php?id=1669&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=1669
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rw9eI7V.png" group-title="Undefined",Sun Life (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/sunlife/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uUJz1tC.png" group-title="Undefined",Sun Marathi (1080p)
@@ -852,11 +852,11 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufH48jV.png" group-title="Undefined",TV9 Telugu (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQfcmJy.png" group-title="Undefined",Udaya TV (1080p)
-https://playyonogames.in/live.php?id=901&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=901
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KuLZt2a.png" group-title="Undefined",Vanitha TV (720p)
 https://cdn-1.pishow.tv/live/393/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png" group-title="Undefined",Vasanth TV (240p)
-https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png" group-title="Undefined",Vasanth TV (720p)
+https://cdn-3.pishow.tv/live/1247/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okesED3.png" group-title="Undefined",Vendhar TV (720p) [Not 24/7]
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPirjJ2.png" group-title="Undefined",Vissa TV (1080p) [Not 24/7]
@@ -905,8 +905,8 @@ http://183.89.246.119:8881/play/a09a/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="General",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="General",Colors Rishtey Asia (576p)
-https://playyonogames.in/live.php?id=279&format=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YKWfMZo.png" group-title="General",Colors Rishtey Asia (1080p)
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JTb3cd.png" group-title="General",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHURIzT.png" group-title="General",DD Arun Prabha (360p)
@@ -974,9 +974,9 @@ https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2MU1lm.png" group-title="General",Jonack TV (360p) [Not 24/7]
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png" group-title="General",Kairali TV (576p)
-https://playyonogames.in/live.php?id=710&format=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="General",Kalaignar TV (396p)
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=710
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" group-title="General",Kalaignar TV (576p)
+https://live.dinesh29.com.np/stream/jiotvplus/kalaignartv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQW6MbU.png" group-title="General",Kasthuri (576p)
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Kaumudy_TV_Logo.jpg" group-title="General",Kaumudy TV (720p)
@@ -1017,8 +1017,8 @@ https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ueI0VwW.png" group-title="Business",ET Now (720p)
 https://etnowweblive.akamaized.net/hls/live/2034678/ETNOWMSL4/chunklist_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WK4tZ6p.png" group-title="Business",NDTV Profit (480p)
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WK4tZ6p.png" group-title="Business",NDTV Profit (480p) [Not 24/7]
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vkWBtL4.png" group-title="Business",Zee Business (720p)
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="Culture",DD Bharati (720p)
@@ -1102,7 +1102,7 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr India (1080p)
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Kids",Sonic (576p)
-https://playyonogames.in/jio/app/ts_live_815.m3u8
+http://116.90.120.149:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" group-title="Kids",ZB Cartoon (1080p)
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3D5SN3E.png" group-title="Cooking",ETV Abhiruchi (1080p)
@@ -1114,7 +1114,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/geminicomedy/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nsplwFc.png" group-title="Comedy",Sirippoli TV (576p)
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dNI0Vm5.png" group-title="Comedy",Surya Comedy (576p)
-https://playyonogames.in/live.php?id=1662&format=.m3u8
+https://playyonogames.in/live.php?format=.m3u8&id=1662
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mLAnscw.png" group-title="Comedy",Udaya Comedy (576p)
 https://live.dinesh29.com.np/stream/jiotvplus/udayacomedy/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJQhlpq.png" group-title="Education",Gyandarshan (720p)

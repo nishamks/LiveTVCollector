@@ -24,9 +24,9 @@
     "img": "https://i.imgur.com/XJA3bh1.png"
   },
   {
-    "name": "Aaj Tak (404p)",
+    "name": "Aaj Tak (1080p)",
     "type": "News",
-    "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8",
+    "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8",
     "img": "https://i.imgur.com/RpIdCB3.png"
   },
   {
@@ -612,9 +612,9 @@
     "img": "https://i.imgur.com/WqTIoWS.png"
   },
   {
-    "name": "Polimer News (576p)",
+    "name": "Polimer News (576p) [Not 24/7]",
     "type": "News",
-    "url": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
+    "url": "http://14.199.164.20:4001/play/a0lg/index.m3u8",
     "img": "https://i.imgur.com/CxcuvXX.png"
   },
   {
@@ -890,7 +890,7 @@
   {
     "name": "Dhamaal (576p) [Not 24/7]",
     "type": "Music",
-    "url": "https://playyonogames.in/live.php?id=535&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=535",
     "img": "https://i.imgur.com/J6D56EF.png"
   },
   {
@@ -1046,7 +1046,7 @@
   {
     "name": "Surya Music (576p)",
     "type": "Music",
-    "url": "https://playyonogames.in/live.php?id=747&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=747",
     "img": "https://i.imgur.com/9vcdaKw.png"
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "name": "Udaya Music (576p)",
     "type": "Music",
-    "url": "https://playyonogames.in/live.php?id=744&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=744",
     "img": "https://i.imgur.com/Lp1OuB9.png"
   },
   {
@@ -1214,7 +1214,7 @@
   {
     "name": "Kairali We (576p)",
     "type": "Movies",
-    "url": "https://playyonogames.in/live.php?id=731&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=731",
     "img": "https://i.imgur.com/zXpROBj.png"
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "name": "Sony Wah (1080p)",
     "type": "Movies",
-    "url": "https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8",
+    "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0898545986",
     "img": "https://upload.wikimedia.org/wikipedia/hi/5/58/Sony_Wah_new_logo.png"
   },
   {
@@ -1328,13 +1328,13 @@
   {
     "name": "Surya Movies (1080p)",
     "type": "Movies",
-    "url": "https://playyonogames.in/live.php?id=1754&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=1754",
     "img": "https://i.imgur.com/FkSCjIo.png"
   },
   {
     "name": "Udaya Movies (576p)",
     "type": "Movies",
-    "url": "https://playyonogames.in/live.php?id=678&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=678",
     "img": "https://i.imgur.com/UNEQaAv.png"
   },
   {
@@ -1424,49 +1424,49 @@
   {
     "name": "Colors (1080p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=144&extension=.m3u8",
+    "url": "https://playyonogames.in/live.php?extension=.m3u8&id=144",
     "img": "https://i.imgur.com/M8uCJ0D.png"
   },
   {
     "name": "Colors Bangla (1080p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=756&format=.m3u8",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png"
   },
   {
     "name": "Colors Gujarati (1080p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=196&format=.m3u8",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsGujarati/JCHLS/index.m3u8",
     "img": "https://i.imgur.com/ZWMyR3j.png"
   },
   {
     "name": "Colors Infinity (1080p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=1158&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=1158",
     "img": "https://i.imgur.com/a5uES9j.png"
   },
   {
     "name": "Colors Kannada (1080p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=757&format=.m3u8",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/index.m3u8",
     "img": "https://i.imgur.com/CFUn43Z.png"
   },
   {
     "name": "Colors Marathi (1080p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=755&format=.m3u8",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8",
     "img": "https://i.imgur.com/q43P31H.png"
   },
   {
-    "name": "Colors Super (720p)",
+    "name": "Colors Super (1080p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=785&format=.m3u8",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Colors Tamil (1080p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=429&format=.m3u8",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8",
     "img": "https://i.imgur.com/zZXCFqF.png"
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "name": "Flowers TV (576p)",
     "type": "Entertainment",
-    "url": "https://playyonogames.in/live.php?id=634&format=.m3u8",
+    "url": "http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443062",
     "img": "https://i.imgur.com/vpoiA6i.png"
   },
   {
@@ -1712,13 +1712,13 @@
   {
     "name": "Sony Entertainment Television (1080p)",
     "type": "Entertainment",
-    "url": "https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8",
+    "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897686",
     "img": "https://i.imgur.com/AkdfpVr.png"
   },
   {
     "name": "Sony SAB (1080p)",
     "type": "Entertainment",
-    "url": "https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8",
+    "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0897678986",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png"
   },
   {
@@ -2138,7 +2138,7 @@
   {
     "name": "Max Middle East (1080p)",
     "type": "Undefined",
-    "url": "https://nxtlive.net/sliv/stream.php?id=94312380256&e=.m3u8",
+    "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=94312380256",
     "img": "https://i.imgur.com/AFXPVYD.png"
   },
   {
@@ -2264,7 +2264,7 @@
   {
     "name": "Rang (576p)",
     "type": "Undefined",
-    "url": "https://playyonogames.in/live.php?id=623&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=623",
     "img": "https://i.imgur.com/B8GrFwu.png"
   },
   {
@@ -2396,7 +2396,7 @@
   {
     "name": "Sony Marathi (1080p)",
     "type": "Undefined",
-    "url": "https://nxtlive.net/sliv/stream.php?id=985980256&e=.m3u8",
+    "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985980256",
     "img": "https://i.imgur.com/uiDnvqt.png"
   },
   {
@@ -2408,7 +2408,7 @@
   {
     "name": "Sony Pal (1080p)",
     "type": "Undefined",
-    "url": "https://nxtlive.net/sliv/stream.php?id=985663255656&e=.m3u8",
+    "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=985663255656",
     "img": "https://i.imgur.com/GnoJkj4.png"
   },
   {
@@ -2420,7 +2420,7 @@
   {
     "name": "Sony Yay! (1080p)",
     "type": "Undefined",
-    "url": "https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8",
+    "url": "https://nxtlive.net/sliv/stream.php?e=.m3u8&id=0657898986",
     "img": "https://i.imgur.com/MhlO1dB.png"
   },
   {
@@ -2450,7 +2450,7 @@
   {
     "name": "Sun Bangla (1080p)",
     "type": "Undefined",
-    "url": "https://playyonogames.in/live.php?id=1669&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=1669",
     "img": "https://i.imgur.com/fH62JFs.png"
   },
   {
@@ -2558,7 +2558,7 @@
   {
     "name": "Udaya TV (1080p)",
     "type": "Undefined",
-    "url": "https://playyonogames.in/live.php?id=901&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=901",
     "img": "https://i.imgur.com/BQfcmJy.png"
   },
   {
@@ -2568,9 +2568,9 @@
     "img": "https://i.imgur.com/KuLZt2a.png"
   },
   {
-    "name": "Vasanth TV (240p)",
+    "name": "Vasanth TV (720p)",
     "type": "Undefined",
-    "url": "https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8",
+    "url": "https://cdn-3.pishow.tv/live/1247/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png"
   },
   {
@@ -2718,9 +2718,9 @@
     "img": "https://i.imgur.com/4ss0KfA.png"
   },
   {
-    "name": "Colors Rishtey Asia (576p)",
+    "name": "Colors Rishtey Asia (1080p)",
     "type": "General",
-    "url": "https://playyonogames.in/live.php?id=279&format=.m3u8",
+    "url": "https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8",
     "img": "https://i.imgur.com/YKWfMZo.png"
   },
   {
@@ -2924,13 +2924,13 @@
   {
     "name": "Kairali TV (576p)",
     "type": "General",
-    "url": "https://playyonogames.in/live.php?id=710&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=710",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/512px-Kairali_TV.svg.png"
   },
   {
-    "name": "Kalaignar TV (396p)",
+    "name": "Kalaignar TV (576p)",
     "type": "General",
-    "url": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/kalaignartv/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"
   },
   {
@@ -3054,9 +3054,9 @@
     "img": "https://i.imgur.com/ueI0VwW.png"
   },
   {
-    "name": "NDTV Profit (480p)",
+    "name": "NDTV Profit (480p) [Not 24/7]",
     "type": "Business",
-    "url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8",
+    "url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8",
     "img": "https://i.imgur.com/WK4tZ6p.png"
   },
   {
@@ -3308,7 +3308,7 @@
   {
     "name": "Sonic (576p)",
     "type": "Kids",
-    "url": "https://playyonogames.in/jio/app/ts_live_815.m3u8",
+    "url": "http://116.90.120.149:8000/play/a0cc/index.m3u8",
     "img": "https://i.imgur.com/vSJzF6o.png"
   },
   {
@@ -3344,7 +3344,7 @@
   {
     "name": "Surya Comedy (576p)",
     "type": "Comedy",
-    "url": "https://playyonogames.in/live.php?id=1662&format=.m3u8",
+    "url": "https://playyonogames.in/live.php?format=.m3u8&id=1662",
     "img": "https://i.imgur.com/dNI0Vm5.png"
   },
   {
