@@ -6,16 +6,16 @@
     "img": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg"
   },
   {
-    "name": "Baaghi 4",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
-    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
-  },
-  {
     "name": "Thama",
     "type": "Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20262",
     "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Thamma/poster.jpg"
+  },
+  {
+    "name": "Baaghi 4",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096",
+    "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
   },
   {
     "name": "ATN Bangla",
@@ -42,16 +42,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
   },
   {
-    "name": "Sangeet Bangla",
-    "type": "Live Tv",
-    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
-  },
-  {
     "name": "Sun Bangla",
     "type": "Live Tv",
     "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "type": "Live Tv",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
   },
   {
     "name": "zee bangla cinema",
@@ -72,6 +72,12 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
   },
   {
+    "name": "Star Gold HD",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Zee Bangla",
     "type": "Live Tv",
     "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54",
@@ -82,12 +88,6 @@
     "type": "Live Tv",
     "url": "http://filex.me:8080//live/1234567890/1234567890/499616.ts",
     "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
-  },
-  {
-    "name": "Star Gold HD",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Zee Cinema hd",
@@ -108,21 +108,15 @@
     "img": "https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp"
   },
   {
-    "name": "Star Plus HD",
+    "name": "Doreamon",
     "type": "Live Tv",
-    "url": "https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4",
-    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Tom & Jerry",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Doreamon",
-    "type": "Live Tv",
-    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
