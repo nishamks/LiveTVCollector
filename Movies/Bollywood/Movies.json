@@ -1,6 +1,15 @@
 {
-  "date": "2025-11-11 22:05:29",
+  "date": "2025-11-12 07:23:00",
   "channels": {
+    "Uncategorized": [
+      {
+        "name": "tvg-logo=\"https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg\",Md.Mahabubul Alam Mim",
+        "logo": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view"
+      }
+    ],
     "Hindi Movies": [
       {
         "name": "Thama",
@@ -17,16 +26,14 @@
         "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20096"
       }
     ],
-    "Uncategorized": [
-      {
-        "name": "tvg-logo=\"https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg\",Md.Mahabubul Alam Mim",
-        "logo": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://drive.google.com/file/d/1klrntX1ueTiHqk0lbJ5yoQoQ9u9H4c5K/view"
-      }
-    ],
     "Live Tv": [
+      {
+        "name": "ATN Bangla",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+      },
       {
         "name": "BTV HD",
         "logo": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg",
@@ -42,11 +49,11 @@
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
       },
       {
-        "name": "ATN Bangla",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",
+        "name": "Star Jalsha",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
+        "url": "http://filex.tv:8080/live/uk1212/123456/499653.ts"
       },
       {
         "name": "Sangeet Bangla",
@@ -56,13 +63,6 @@
         "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
       },
       {
-        "name": "Star Jalsha",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://filex.tv:8080/live/uk1212/123456/499653.ts"
-      },
-      {
         "name": "Sun Bangla",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s",
         "group": "Live Tv",
@@ -70,18 +70,18 @@
         "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8"
       },
       {
-        "name": "Zee Bangla",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54"
-      },
-      {
         "name": "zee bangla cinema",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8"
+      },
+      {
+        "name": "Zee Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54"
       },
       {
         "name": "Colors Bangla Cinema",
@@ -133,18 +133,11 @@
         "url": "https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8"
       },
       {
-        "name": "Star Plus HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4"
-      },
-      {
-        "name": "Tom & Jerry",
+        "name": "Motu Patlu",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8"
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
       },
       {
         "name": "Doreamon",
@@ -154,11 +147,11 @@
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
       },
       {
-        "name": "Motu Patlu",
+        "name": "Tom & Jerry",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
+        "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "PTV Sports",
@@ -166,6 +159,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://filex.me:8080/live/444476/444476/453434.m3u8"
+      },
+      {
+        "name": "Star Plus HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://bongoflixbd.top/stream.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4"
       }
     ]
   }
