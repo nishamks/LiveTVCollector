@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-13 07:24:15",
+  "date": "2025-11-13 14:06:26",
   "channels": {
     "Uncategorized": [
       {
@@ -49,18 +49,18 @@
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
       },
       {
-        "name": "Sangeet Bangla",
-        "logo": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
-      },
-      {
         "name": "Star Jalsha",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://filex.tv:8080/live/uk1212/123456/499653.ts"
+      },
+      {
+        "name": "Sangeet Bangla",
+        "logo": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
       },
       {
         "name": "Sun Bangla",

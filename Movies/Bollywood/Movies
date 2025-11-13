@@ -36,16 +36,16 @@
     "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
-    "name": "Sangeet Bangla",
-    "type": "Live Tv",
-    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
-  },
-  {
     "name": "Star Jalsha",
     "type": "Live Tv",
     "url": "http://filex.tv:8080/live/uk1212/123456/499653.ts",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "type": "Live Tv",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
   },
   {
     "name": "Sun Bangla",
