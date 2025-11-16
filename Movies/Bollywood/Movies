@@ -18,16 +18,16 @@
     "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
   },
   {
-    "name": "BTV HD",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
-    "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
-  },
-  {
     "name": "ATN Bangla",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s"
+  },
+  {
+    "name": "BTV HD",
+    "type": "Live Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
+    "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
   },
   {
     "name": "Deepto TV",
@@ -36,16 +36,16 @@
     "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
-    "name": "Star Jalsha",
-    "type": "Live Tv",
-    "url": "http://filex.tv:8080/live/uk1212/123456/499653.ts",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
-  },
-  {
     "name": "Star Jalsha hd",
     "type": "Live Tv",
     "url": "http://103.240.44.26/Star-Jasha-HD/tracks-a1/index.fmp4.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10"
+  },
+  {
+    "name": "Star Jalsha",
+    "type": "Live Tv",
+    "url": "http://filex.tv:8080/live/uk1212/123456/499653.ts",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
   },
   {
     "name": "Sangeet Bangla",
@@ -60,6 +60,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Star Gold HD",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Colors Bangla Cinema",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8",
@@ -70,12 +76,6 @@
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
-  },
-  {
-    "name": "Star Gold HD",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "& picture hd",
@@ -108,10 +108,10 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "PTV Sports",
+    "name": "Colors Bangla",
     "type": "Live Tv",
-    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
+    "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Colors Cineplex Bollywood",
@@ -120,10 +120,10 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png"
   },
   {
-    "name": "Colors Bangla",
+    "name": "PTV Sports",
     "type": "Live Tv",
-    "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
   },
   {
     "name": "Star Plus HD",
