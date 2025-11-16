@@ -1,5 +1,5 @@
 {
-  "date": "2025-11-15 21:42:30",
+  "date": "2025-11-16 06:32:31",
   "channels": {
     "News": [
       {
@@ -1685,6 +1685,20 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://87.255.35.150:18507"
+      },
+      {
+        "name": "Zee Bollymovies (1080p) [Geo-blocked]",
+        "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Zee Bollymovies Australia (1080p) [Geo-blocked]",
+        "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Zee Bollywood (576p)",
