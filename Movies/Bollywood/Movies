@@ -6,10 +6,10 @@
     "img": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg"
   },
   {
-    "name": "The Girlfriend",
+    "name": "Tere Ishk Mein",
     "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20332",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10"
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20400",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10"
   },
   {
     "name": "Baaghi 4",
@@ -18,10 +18,10 @@
     "img": "https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg"
   },
   {
-    "name": "De De Pyaar De 2",
+    "name": "The Girlfriend",
     "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20329",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10"
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20332",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10"
   },
   {
     "name": "Jatadhara",
@@ -30,16 +30,16 @@
     "img": "https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg"
   },
   {
+    "name": "De De Pyaar De 2",
+    "type": "Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20329",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10"
+  },
+  {
     "name": "Masti 4",
     "type": "Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20364",
     "img": "https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg"
-  },
-  {
-    "name": "Tere Ishk Mein",
-    "type": "Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20400",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10"
   },
   {
     "name": "Neel Chakra",
@@ -78,16 +78,16 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
   },
   {
-    "name": "Deepto TV",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
-    "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
-  },
-  {
     "name": "Sangeet Bangla",
     "type": "Live Tv",
     "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
     "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
+  },
+  {
+    "name": "Deepto TV",
+    "type": "Live Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
     "name": "Colors Bangla Cinema",
@@ -138,27 +138,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "PTV Sports",
-    "type": "Live Tv",
-    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
-  },
-  {
     "name": "Colors Cineplex Bollywood",
     "type": "Live Tv",
     "url": "http://66.102.120.18:8000/play/a01a/index.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png"
   },
   {
+    "name": "PTV Sports",
+    "type": "Live Tv",
+    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
+  },
+  {
     "name": "Colors Bangla",
     "type": "Live Tv",
     "url": "https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Love Leason",
-    "type": "Hollywood Hindi Movies",
-    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=575",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -171,6 +165,12 @@
     "name": "Bad Guy",
     "type": "Hollywood Hindi Movies",
     "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=513",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Love Leason",
+    "type": "Hollywood Hindi Movies",
+    "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=575",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   }
 ]
