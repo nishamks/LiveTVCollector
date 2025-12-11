@@ -1,27 +1,13 @@
 {
-  "date": "2025-12-10 21:49:34",
+  "date": "2025-12-11 06:34:05",
   "channels": {
     "Movies": [
-      {
-        "name": "MyCamTV Teen Girls",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Movies",
-        "source": "https://adultiptv.net/chs.m3u",
-        "url": "http://live.mycamtv.com/teen.m3u8"
-      },
       {
         "name": "MyCamTV MILF",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Movies",
         "source": "https://adultiptv.net/chs.m3u",
         "url": "http://live.mycamtv.com/milf.m3u8"
-      },
-      {
-        "name": "MyCamTV Young Girls",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Movies",
-        "source": "https://adultiptv.net/chs.m3u",
-        "url": "http://live.mycamtv.com/young.m3u8"
       },
       {
         "name": "MyCamTV Mature",
@@ -199,13 +185,6 @@
         "group": "XXX",
         "source": "https://adultiptv.net/chs.m3u",
         "url": "http://cdn.adultiptv.net/blowjob.m3u8"
-      },
-      {
-        "name": "AdultIPTV.net Teen",
-        "logo": "https://files.adultiptv.net/adultiptvnet.jpg",
-        "group": "XXX",
-        "source": "https://adultiptv.net/chs.m3u",
-        "url": "http://cdn.adultiptv.net/teen.m3u8"
       },
       {
         "name": "AdultIPTV.net Hardcore",

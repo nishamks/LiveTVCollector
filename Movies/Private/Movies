@@ -1,20 +1,8 @@
 [
   {
-    "name": "MyCamTV Teen Girls",
-    "type": "Movies",
-    "url": "http://live.mycamtv.com/teen.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "MyCamTV MILF",
     "type": "Movies",
     "url": "http://live.mycamtv.com/milf.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MyCamTV Young Girls",
-    "type": "Movies",
-    "url": "http://live.mycamtv.com/young.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -165,12 +153,6 @@
     "name": "AdultIPTV.net Blowjob",
     "type": "XXX",
     "url": "http://cdn.adultiptv.net/blowjob.m3u8",
-    "img": "https://files.adultiptv.net/adultiptvnet.jpg"
-  },
-  {
-    "name": "AdultIPTV.net Teen",
-    "type": "XXX",
-    "url": "http://cdn.adultiptv.net/teen.m3u8",
     "img": "https://files.adultiptv.net/adultiptvnet.jpg"
   },
   {

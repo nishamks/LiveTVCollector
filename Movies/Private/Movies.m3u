@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Movies",MyCamTV Teen Girls
-http://live.mycamtv.com/teen.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Movies",MyCamTV MILF
 http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Movies",MyCamTV Young Girls
-http://live.mycamtv.com/young.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Movies",MyCamTV Mature
 http://live.mycamtv.com/bigtits.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Movies",MyCamTV Arab Girls
@@ -55,8 +51,6 @@ http://cdn.adultiptv.net/latina.m3u8
 http://cdn.adultiptv.net/pov.m3u8
 #EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Teen
-http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
 #EXTINF:-1 tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Cuckold

@@ -7283,18 +7283,8 @@ Source: https://raw.githubusercontent.com/3thAn9u/yang-m3u/refs/heads/main/A.m3u
 --------------------------------------------------
 
 Group: Movies
-Name: MyCamTV Teen Girls
-URL: http://live.mycamtv.com/teen.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://adultiptv.net/chs.m3u
---------------------------------------------------
 Name: MyCamTV MILF
 URL: http://live.mycamtv.com/milf.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://adultiptv.net/chs.m3u
---------------------------------------------------
-Name: MyCamTV Young Girls
-URL: http://live.mycamtv.com/young.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://adultiptv.net/chs.m3u
 --------------------------------------------------
@@ -8286,11 +8276,6 @@ Source: https://adultiptv.net/chs.m3u
 --------------------------------------------------
 Name: AdultIPTV.net Blowjob
 URL: http://cdn.adultiptv.net/blowjob.m3u8
-Logo: https://files.adultiptv.net/adultiptvnet.jpg
-Source: https://adultiptv.net/chs.m3u
---------------------------------------------------
-Name: AdultIPTV.net Teen
-URL: http://cdn.adultiptv.net/teen.m3u8
 Logo: https://files.adultiptv.net/adultiptvnet.jpg
 Source: https://adultiptv.net/chs.m3u
 --------------------------------------------------
