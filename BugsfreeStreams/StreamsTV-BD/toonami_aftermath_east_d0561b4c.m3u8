@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=884781,RESOLUTION=640x480
-http://asp6.toonamiaftermath.com:1934/livehttporigin/est/mK3giB-7keZ7B-chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=916068,RESOLUTION=640x480
+http://asp6.toonamiaftermath.com:1934/livehttporigin/est/Y88IYF-wnJ4fo-chunklist.m3u8
