@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-22 08:06:16",
+  "date": "2026-02-22 14:13:19",
   "channels": {
     "Uncategorized": [
       {
@@ -12,6 +12,13 @@
     ],
     "Hindi Movies": [
       {
+        "name": "Dhurandar",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dhurandhar_poster.jpg/250px-Dhurandhar_poster.jpg",
+        "group": "Hindi Movies",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20417"
+      },
+      {
         "name": "Masti 4",
         "logo": "https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg",
         "group": "Hindi Movies",
@@ -19,11 +26,39 @@
         "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20364"
       },
       {
+        "name": "Jatadhara",
+        "logo": "https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg",
+        "group": "Hindi Movies",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20331"
+      },
+      {
+        "name": "Tu Meri Main Tera Main Tera Tu Meri",
+        "logo": "https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg",
+        "group": "Hindi Movies",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20493"
+      },
+      {
+        "name": "Border 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Hindi Movies",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20565"
+      },
+      {
         "name": "Rahu Ketu",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20564"
+      },
+      {
+        "name": "De De Pyaar De 2",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10",
+        "group": "Hindi Movies",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20329"
       },
       {
         "name": "Baaghi 4",
@@ -40,27 +75,6 @@
         "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20400"
       },
       {
-        "name": "Border 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20565"
-      },
-      {
-        "name": "The Girlfriend",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20332"
-      },
-      {
-        "name": "Dhurandar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dhurandhar_poster.jpg/250px-Dhurandhar_poster.jpg",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20417"
-      },
-      {
         "name": "Kis Kis ko Pyaar karoon 2",
         "logo": "https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  ",
         "group": "Hindi Movies",
@@ -68,25 +82,11 @@
         "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20454"
       },
       {
-        "name": "Tu Meri Main Tera Main Tera Tu Meri",
-        "logo": "https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg",
+        "name": "The Girlfriend",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10",
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20493"
-      },
-      {
-        "name": "De De Pyaar De 2",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20329"
-      },
-      {
-        "name": "Jatadhara",
-        "logo": "https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20331"
+        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20332"
       }
     ],
     "Southindian Hindi Dubbed Movies": [
@@ -114,6 +114,13 @@
         "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20271"
       },
       {
+        "name": "Noor",
+        "logo": "https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg",
+        "group": "Bangla Movies",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20461"
+      },
+      {
         "name": "Neel Chakra",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrtbZXO-irYq2Y5p_5s0-6ZmJLIsYZNcsoMgLDuxwrDD9zmWLkMhQhhvu&s=10",
         "group": "Bangla Movies",
@@ -126,23 +133,9 @@
         "group": "Bangla Movies",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20529"
-      },
-      {
-        "name": "Noor",
-        "logo": "https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg",
-        "group": "Bangla Movies",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=movies&id=20461"
       }
     ],
     "Web Series": [
-      {
-        "name": "Episode 4 - Gyaarah Gyaarah",
-        "logo": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg",
-        "group": "Web Series",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589"
-      },
       {
         "name": "Episode 2 - Gyaarah Gyaarah",
         "logo": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg",
@@ -151,18 +144,11 @@
         "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587"
       },
       {
-        "name": "Episode 7 - Gyaarah Gyaarah",
+        "name": "Episode 5 - Gyaarah Gyaarah",
         "logo": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg",
         "group": "Web Series",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592"
-      },
-      {
-        "name": "Episode 6 - Gyaarah Gyaarah",
-        "logo": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg",
-        "group": "Web Series",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591"
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590"
       },
       {
         "name": "Episode 1 - Gyaarah Gyaarah",
@@ -170,6 +156,13 @@
         "group": "Web Series",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586"
+      },
+      {
+        "name": "Episode 4 - Gyaarah Gyaarah",
+        "logo": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg",
+        "group": "Web Series",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589"
       },
       {
         "name": "Episode 3 - Gyaarah Gyaarah",
@@ -186,11 +179,18 @@
         "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593"
       },
       {
-        "name": "Episode 5 - Gyaarah Gyaarah",
+        "name": "Episode 6 - Gyaarah Gyaarah",
         "logo": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg",
         "group": "Web Series",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590"
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591"
+      },
+      {
+        "name": "Episode 7 - Gyaarah Gyaarah",
+        "logo": "https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg",
+        "group": "Web Series",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592"
       }
     ],
     "Hollywood Hindi Movies": [
@@ -246,13 +246,6 @@
         "url": "http://103.140.254.2:3500/live/144.m3u8"
       },
       {
-        "name": "Motu Patlu",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
-      },
-      {
         "name": "Doreamon",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -260,11 +253,11 @@
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8"
       },
       {
-        "name": "PTV Sports",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s",
+        "name": "Motu Patlu",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://filex.me:8080/live/444476/444476/453434.m3u8"
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8"
       },
       {
         "name": "Channel 193",
@@ -281,13 +274,6 @@
         "url": "http://103.175.73.12:8080/live/194/194_0.m3u8"
       },
       {
-        "name": "Channel 373",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/373/373_0.m3u8"
-      },
-      {
         "name": "Channel 195",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -300,6 +286,34 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/196/196_0.m3u8"
+      },
+      {
+        "name": "Channel 373",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/373/373_0.m3u8"
+      },
+      {
+        "name": "PTV Sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://filex.me:8080/live/444476/444476/453434.m3u8"
+      },
+      {
+        "name": "Channel 198",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/198/198_0.m3u8"
+      },
+      {
+        "name": "Channel 246",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/246/246_0.m3u8"
       },
       {
         "name": "Channel 250",
@@ -316,20 +330,6 @@
         "url": "http://103.175.73.12:8080/live/252/252_0.m3u8"
       },
       {
-        "name": "Channel 198",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/198/198_0.m3u8"
-      },
-      {
-        "name": "Channel 253",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/253/253_0.m3u8"
-      },
-      {
         "name": "Channel 254",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -342,6 +342,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/374/374_0.m3u8"
+      },
+      {
+        "name": "Channel 253",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/253/253_0.m3u8"
       },
       {
         "name": "Channel 379",
@@ -365,13 +372,6 @@
         "url": "http://103.175.73.12:8080/live/3/3_0.m3u8"
       },
       {
-        "name": "Channel 5",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/5/5_0.m3u8"
-      },
-      {
         "name": "Channel 7",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -379,11 +379,11 @@
         "url": "http://103.175.73.12:8080/live/7/7_0.m3u8"
       },
       {
-        "name": "Channel 11",
+        "name": "Channel 5",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/11/11_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/5/5_0.m3u8"
       },
       {
         "name": "Channel 9",
@@ -393,11 +393,18 @@
         "url": "http://103.175.73.12:8080/live/9/9_0.m3u8"
       },
       {
-        "name": "Channel 10",
+        "name": "Channel 11",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/10/10_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/11/11_0.m3u8"
+      },
+      {
+        "name": "Channel 13",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/13/13_0.m3u8"
       },
       {
         "name": "Channel 12",
@@ -405,6 +412,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/12/12_0.m3u8"
+      },
+      {
+        "name": "Channel 10",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/10/10_0.m3u8"
       },
       {
         "name": "Channel 15",
@@ -421,18 +435,18 @@
         "url": "http://103.175.73.12:8080/live/17/17_0.m3u8"
       },
       {
-        "name": "Channel 13",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/13/13_0.m3u8"
-      },
-      {
         "name": "Channel 18",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/18/18_0.m3u8"
+      },
+      {
+        "name": "Channel 19",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/19/19_0.m3u8"
       },
       {
         "name": "Channel 21",
@@ -449,18 +463,11 @@
         "url": "http://103.175.73.12:8080/live/23/23_0.m3u8"
       },
       {
-        "name": "Channel 19",
+        "name": "Channel 25",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/19/19_0.m3u8"
-      },
-      {
-        "name": "Channel 246",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/246/246_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/25/25_0.m3u8"
       },
       {
         "name": "Channel 28",
@@ -470,11 +477,11 @@
         "url": "http://103.175.73.12:8080/live/28/28_0.m3u8"
       },
       {
-        "name": "Channel 25",
+        "name": "Channel 30",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/25/25_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/30/30_0.m3u8"
       },
       {
         "name": "Channel 29",
@@ -484,18 +491,18 @@
         "url": "http://103.175.73.12:8080/live/29/29_0.m3u8"
       },
       {
+        "name": "Channel 32",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/32/32_0.m3u8"
+      },
+      {
         "name": "Channel 31",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/31/31_0.m3u8"
-      },
-      {
-        "name": "Channel 30",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/30/30_0.m3u8"
       },
       {
         "name": "Channel 33",
@@ -512,13 +519,6 @@
         "url": "http://103.175.73.12:8080/live/34/34_0.m3u8"
       },
       {
-        "name": "Channel 32",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/32/32_0.m3u8"
-      },
-      {
         "name": "Channel 35",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -533,11 +533,11 @@
         "url": "http://103.175.73.12:8080/live/36/36_0.m3u8"
       },
       {
-        "name": "Channel 37",
+        "name": "Channel 265",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/37/37_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/265/265_0.m3u8"
       },
       {
         "name": "Channel 14",
@@ -547,18 +547,18 @@
         "url": "http://103.175.73.12:8080/live/14/14_0.m3u8"
       },
       {
+        "name": "Channel 37",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/37/37_0.m3u8"
+      },
+      {
         "name": "Channel 264",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/264/264_0.m3u8"
-      },
-      {
-        "name": "Channel 265",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/265/265_0.m3u8"
       },
       {
         "name": "Channel 266",
@@ -582,6 +582,13 @@
         "url": "http://103.175.73.12:8080/live/268/268_0.m3u8"
       },
       {
+        "name": "Channel 269",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/269/269_0.m3u8"
+      },
+      {
         "name": "Channel 270",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -589,11 +596,11 @@
         "url": "http://103.175.73.12:8080/live/270/270_0.m3u8"
       },
       {
-        "name": "Channel 269",
+        "name": "Channel 38",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/269/269_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/38/38_0.m3u8"
       },
       {
         "name": "Channel 271",
@@ -610,13 +617,6 @@
         "url": "http://103.175.73.12:8080/live/272/272_0.m3u8"
       },
       {
-        "name": "Channel 273",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/273/273_0.m3u8"
-      },
-      {
         "name": "Channel 39",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -624,11 +624,11 @@
         "url": "http://103.175.73.12:8080/live/39/39_0.m3u8"
       },
       {
-        "name": "Channel 38",
+        "name": "Channel 273",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/38/38_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/273/273_0.m3u8"
       },
       {
         "name": "Channel 40",
@@ -636,6 +636,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/40/40_0.m3u8"
+      },
+      {
+        "name": "Channel 41",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/41/41_0.m3u8"
       },
       {
         "name": "Channel 42",
@@ -652,13 +659,6 @@
         "url": "http://103.175.73.12:8080/live/43/43_0.m3u8"
       },
       {
-        "name": "Channel 41",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/41/41_0.m3u8"
-      },
-      {
         "name": "Channel 44",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -666,25 +666,11 @@
         "url": "http://103.175.73.12:8080/live/44/44_0.m3u8"
       },
       {
-        "name": "Channel 46",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/46/46_0.m3u8"
-      },
-      {
         "name": "Channel 47",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/47/47_0.m3u8"
-      },
-      {
-        "name": "Channel 149",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/149/149_0.m3u8"
       },
       {
         "name": "Channel 153",
@@ -701,11 +687,32 @@
         "url": "http://103.175.73.12:8080/live/154/154_0.m3u8"
       },
       {
+        "name": "Channel 149",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/149/149_0.m3u8"
+      },
+      {
+        "name": "Channel 46",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/46/46_0.m3u8"
+      },
+      {
         "name": "Channel 155",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/155/155_0.m3u8"
+      },
+      {
+        "name": "Channel 156",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/156/156_0.m3u8"
       },
       {
         "name": "Channel 157",
@@ -722,13 +729,6 @@
         "url": "http://103.175.73.12:8080/live/158/158_0.m3u8"
       },
       {
-        "name": "Channel 156",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/156/156_0.m3u8"
-      },
-      {
         "name": "Channel 159",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -743,18 +743,25 @@
         "url": "http://103.175.73.12:8080/live/161/161_0.m3u8"
       },
       {
-        "name": "Channel 51",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/51/51_0.m3u8"
-      },
-      {
         "name": "Channel 52",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/52/52_0.m3u8"
+      },
+      {
+        "name": "Channel 54",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/54/54_0.m3u8"
+      },
+      {
+        "name": "Channel 51",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/51/51_0.m3u8"
       },
       {
         "name": "Channel 56",
@@ -769,13 +776,6 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/53/53_0.m3u8"
-      },
-      {
-        "name": "Channel 54",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/54/54_0.m3u8"
       },
       {
         "name": "Channel 58",
@@ -820,11 +820,11 @@
         "url": "http://103.175.73.12:8080/live/113/113_0.m3u8"
       },
       {
-        "name": "Channel 122",
+        "name": "Channel 123",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/122/122_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/123/123_0.m3u8"
       },
       {
         "name": "Channel 121",
@@ -834,11 +834,18 @@
         "url": "http://103.175.73.12:8080/live/121/121_0.m3u8"
       },
       {
-        "name": "Channel 123",
+        "name": "Channel 122",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/123/123_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/122/122_0.m3u8"
+      },
+      {
+        "name": "Channel 125",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/125/125_0.m3u8"
       },
       {
         "name": "Channel 124",
@@ -855,13 +862,6 @@
         "url": "http://103.175.73.12:8080/live/126/126_0.m3u8"
       },
       {
-        "name": "Channel 125",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/125/125_0.m3u8"
-      },
-      {
         "name": "Channel 127",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -876,18 +876,18 @@
         "url": "http://103.175.73.12:8080/live/128/128_0.m3u8"
       },
       {
-        "name": "Channel 130",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/130/130_0.m3u8"
-      },
-      {
         "name": "Channel 129",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/129/129_0.m3u8"
+      },
+      {
+        "name": "Channel 130",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/130/130_0.m3u8"
       },
       {
         "name": "Channel 131",
@@ -897,13 +897,6 @@
         "url": "http://103.175.73.12:8080/live/131/131_0.m3u8"
       },
       {
-        "name": "Channel 135",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/135/135_0.m3u8"
-      },
-      {
         "name": "Channel 133",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -911,18 +904,18 @@
         "url": "http://103.175.73.12:8080/live/133/133_0.m3u8"
       },
       {
+        "name": "Channel 135",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/135/135_0.m3u8"
+      },
+      {
         "name": "Channel 137",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/137/137_0.m3u8"
-      },
-      {
-        "name": "Channel 138",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/138/138_0.m3u8"
       },
       {
         "name": "Channel 142",
@@ -937,6 +930,20 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/143/143_0.m3u8"
+      },
+      {
+        "name": "Channel 138",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/138/138_0.m3u8"
+      },
+      {
+        "name": "Channel 144",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/144/144_0.m3u8"
       },
       {
         "name": "Channel 145",
@@ -967,11 +974,11 @@
         "url": "http://103.175.73.12:8080/live/175/175_0.m3u8"
       },
       {
-        "name": "Channel 178",
+        "name": "Channel 176",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/178/178_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/176/176_0.m3u8"
       },
       {
         "name": "Channel 179",
@@ -981,11 +988,11 @@
         "url": "http://103.175.73.12:8080/live/179/179_0.m3u8"
       },
       {
-        "name": "Channel 176",
+        "name": "Channel 178",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/176/176_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/178/178_0.m3u8"
       },
       {
         "name": "Channel 180",
@@ -993,6 +1000,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/180/180_0.m3u8"
+      },
+      {
+        "name": "Channel 181",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/181/181_0.m3u8"
       },
       {
         "name": "Channel 189",
@@ -1009,13 +1023,6 @@
         "url": "http://103.175.73.12:8080/live/188/188_0.m3u8"
       },
       {
-        "name": "Channel 181",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/181/181_0.m3u8"
-      },
-      {
         "name": "Channel 247",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -1023,18 +1030,18 @@
         "url": "http://103.175.73.12:8080/live/247/247_0.m3u8"
       },
       {
-        "name": "Channel 256",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/256/256_0.m3u8"
-      },
-      {
         "name": "Channel 255",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/255/255_0.m3u8"
+      },
+      {
+        "name": "Channel 256",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/256/256_0.m3u8"
       },
       {
         "name": "Channel 257",
@@ -1051,18 +1058,18 @@
         "url": "http://103.175.73.12:8080/live/258/258_0.m3u8"
       },
       {
+        "name": "Channel 261",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/261/261_0.m3u8"
+      },
+      {
         "name": "Channel 274",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/274/274_0.m3u8"
-      },
-      {
-        "name": "Channel 278",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/278/278_0.m3u8"
       },
       {
         "name": "Channel 277",
@@ -1072,11 +1079,11 @@
         "url": "http://103.175.73.12:8080/live/277/277_0.m3u8"
       },
       {
-        "name": "Channel 261",
+        "name": "Channel 279",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/261/261_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/279/279_0.m3u8"
       },
       {
         "name": "Channel 280",
@@ -1086,18 +1093,18 @@
         "url": "http://103.175.73.12:8080/live/280/280_0.m3u8"
       },
       {
+        "name": "Channel 278",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/278/278_0.m3u8"
+      },
+      {
         "name": "Channel 283",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/283/283_0.m3u8"
-      },
-      {
-        "name": "Channel 279",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/279/279_0.m3u8"
       },
       {
         "name": "Channel 319",
@@ -1107,11 +1114,11 @@
         "url": "http://103.175.73.12:8080/live/319/319_0.m3u8"
       },
       {
-        "name": "Channel 322",
+        "name": "Channel 320",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/322/322_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/320/320_0.m3u8"
       },
       {
         "name": "Channel 321",
@@ -1121,13 +1128,6 @@
         "url": "http://103.175.73.12:8080/live/321/321_0.m3u8"
       },
       {
-        "name": "Channel 320",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/320/320_0.m3u8"
-      },
-      {
         "name": "Channel 323",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -1135,18 +1135,11 @@
         "url": "http://103.175.73.12:8080/live/323/323_0.m3u8"
       },
       {
-        "name": "Channel 327",
+        "name": "Channel 322",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/327/327_0.m3u8"
-      },
-      {
-        "name": "Channel 326",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/326/326_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/322/322_0.m3u8"
       },
       {
         "name": "Channel 324",
@@ -1156,11 +1149,39 @@
         "url": "http://103.175.73.12:8080/live/324/324_0.m3u8"
       },
       {
+        "name": "Channel 326",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/326/326_0.m3u8"
+      },
+      {
         "name": "Channel 328",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/328/328_0.m3u8"
+      },
+      {
+        "name": "Channel 327",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/327/327_0.m3u8"
+      },
+      {
+        "name": "Channel 332",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/332/332_0.m3u8"
+      },
+      {
+        "name": "Channel 331",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/331/331_0.m3u8"
       },
       {
         "name": "Channel 330",
@@ -1233,18 +1254,18 @@
         "url": "http://103.175.73.12:8080/live/378/378_0.m3u8"
       },
       {
-        "name": "Channel 417",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/417/417_0.m3u8"
-      },
-      {
         "name": "Channel 416",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/416/416_0.m3u8"
+      },
+      {
+        "name": "Channel 417",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/417/417_0.m3u8"
       },
       {
         "name": "Channel 431",
@@ -1261,18 +1282,18 @@
         "url": "http://103.175.73.12:8080/live/433/433_0.m3u8"
       },
       {
-        "name": "Channel 439",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/439/439_0.m3u8"
-      },
-      {
         "name": "Channel 437",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/437/437_0.m3u8"
+      },
+      {
+        "name": "Channel 439",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/439/439_0.m3u8"
       },
       {
         "name": "Channel 441",
@@ -1303,6 +1324,13 @@
         "url": "http://103.175.73.12:8080/live/581/581_0.m3u8"
       },
       {
+        "name": "Channel 584",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/584/584_0.m3u8"
+      },
+      {
         "name": "Channel 637",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -1310,11 +1338,11 @@
         "url": "http://103.175.73.12:8080/live/637/637_0.m3u8"
       },
       {
-        "name": "Channel 584",
+        "name": "Channel 660",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/584/584_0.m3u8"
+        "url": "http://103.175.73.12:8080/live/660/660_0.m3u8"
       },
       {
         "name": "Channel 640",
@@ -1336,13 +1364,6 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/648/648_0.m3u8"
-      },
-      {
-        "name": "Channel 660",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/660/660_0.m3u8"
       },
       {
         "name": "Channel 664",
@@ -1387,13 +1408,6 @@
         "url": "http://103.175.73.12:8080/live/65/65_0.m3u8"
       },
       {
-        "name": "Channel 67",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/67/67_0.m3u8"
-      },
-      {
         "name": "Channel 70",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -1401,11 +1415,32 @@
         "url": "http://103.175.73.12:8080/live/70/70_0.m3u8"
       },
       {
+        "name": "Channel 67",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/67/67_0.m3u8"
+      },
+      {
         "name": "Channel 72",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/72/72_0.m3u8"
+      },
+      {
+        "name": "Channel 69",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/69/69_0.m3u8"
+      },
+      {
+        "name": "Channel 74",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "http://103.175.73.12:8080/live/74/74_0.m3u8"
       },
       {
         "name": "Channel 73",
@@ -1441,13 +1476,6 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://103.175.73.12:8080/live/82/82_0.m3u8"
-      },
-      {
-        "name": "Channel 74",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "http://103.175.73.12:8080/live/74/74_0.m3u8"
       },
       {
         "name": "Channel 83",
