@@ -9,26 +9,26 @@ URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20354
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrtbZXO-irYq2Y5p_5s0-6ZmJLIsYZNcsoMgLDuxwrDD9zmWLkMhQhhvu&s=10
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Grehoprobesh
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20271
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Aatka
 URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20529
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Grehoprobesh
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20271
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 
 Group: Hindi Movies
+Name: Baaghi 4
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20096
+Logo: https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Jatadhara
 URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20331
 Logo: https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: The Girlfriend
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20332
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Masti 4
@@ -36,14 +36,14 @@ URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20364
 Logo: https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Rahu Ketu
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20564
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Name: Tu Meri Main Tera Main Tera Tu Meri
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20493
+Logo: https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Tere Ishk Mein
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20400
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10
+Name: The Girlfriend
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20332
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Dhurandar
@@ -51,29 +51,29 @@ URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20417
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dhurandhar_poster.jpg/250px-Dhurandhar_poster.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Kis Kis ko Pyaar karoon 2
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20454
-Logo: https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: De De Pyaar De 2
 URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20329
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Baaghi 4
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20096
-Logo: https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg
+Name: Rahu Ketu
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20564
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Tu Meri Main Tera Main Tera Tu Meri
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20493
-Logo: https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg
+Name: Kis Kis ko Pyaar karoon 2
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20454
+Logo: https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Border 2
 URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20565
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Tere Ishk Mein
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20400
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 
@@ -115,13 +115,13 @@ URL: http://103.140.254.2:3500/live/144.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Motu Patlu
-URL: https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+Name: Doreamon
+URL: https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Doreamon
-URL: https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+Name: Motu Patlu
+URL: https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -140,13 +140,13 @@ URL: http://103.175.73.12:8080/live/194/194_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 373
-URL: http://103.175.73.12:8080/live/373/373_0.m3u8
+Name: Channel 195
+URL: http://103.175.73.12:8080/live/195/195_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 195
-URL: http://103.175.73.12:8080/live/195/195_0.m3u8
+Name: Channel 373
+URL: http://103.175.73.12:8080/live/373/373_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -155,13 +155,13 @@ URL: http://103.175.73.12:8080/live/196/196_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 198
-URL: http://103.175.73.12:8080/live/198/198_0.m3u8
+Name: Channel 246
+URL: http://103.175.73.12:8080/live/246/246_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 246
-URL: http://103.175.73.12:8080/live/246/246_0.m3u8
+Name: Channel 198
+URL: http://103.175.73.12:8080/live/198/198_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -185,8 +185,13 @@ URL: http://103.175.73.12:8080/live/254/254_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 374
-URL: http://103.175.73.12:8080/live/374/374_0.m3u8
+Name: Channel 3
+URL: http://103.175.73.12:8080/live/3/3_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 379
+URL: http://103.175.73.12:8080/live/379/379_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -195,13 +200,8 @@ URL: http://103.175.73.12:8080/live/1/1_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 3
-URL: http://103.175.73.12:8080/live/3/3_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 379
-URL: http://103.175.73.12:8080/live/379/379_0.m3u8
+Name: Channel 374
+URL: http://103.175.73.12:8080/live/374/374_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -230,13 +230,13 @@ URL: http://103.175.73.12:8080/live/10/10_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 13
-URL: http://103.175.73.12:8080/live/13/13_0.m3u8
+Name: Channel 12
+URL: http://103.175.73.12:8080/live/12/12_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 12
-URL: http://103.175.73.12:8080/live/12/12_0.m3u8
+Name: Channel 13
+URL: http://103.175.73.12:8080/live/13/13_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -245,18 +245,13 @@ URL: http://103.175.73.12:8080/live/15/15_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 17
-URL: http://103.175.73.12:8080/live/17/17_0.m3u8
+Name: Channel 19
+URL: http://103.175.73.12:8080/live/19/19_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Channel 18
 URL: http://103.175.73.12:8080/live/18/18_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 19
-URL: http://103.175.73.12:8080/live/19/19_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -280,13 +275,13 @@ URL: http://103.175.73.12:8080/live/28/28_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 30
-URL: http://103.175.73.12:8080/live/30/30_0.m3u8
+Name: Channel 29
+URL: http://103.175.73.12:8080/live/29/29_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 29
-URL: http://103.175.73.12:8080/live/29/29_0.m3u8
+Name: Channel 30
+URL: http://103.175.73.12:8080/live/30/30_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -330,18 +325,13 @@ URL: http://103.175.73.12:8080/live/37/37_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 265
-URL: http://103.175.73.12:8080/live/265/265_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 264
 URL: http://103.175.73.12:8080/live/264/264_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 267
-URL: http://103.175.73.12:8080/live/267/267_0.m3u8
+Name: Channel 265
+URL: http://103.175.73.12:8080/live/265/265_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -350,8 +340,8 @@ URL: http://103.175.73.12:8080/live/266/266_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 268
-URL: http://103.175.73.12:8080/live/268/268_0.m3u8
+Name: Channel 267
+URL: http://103.175.73.12:8080/live/267/267_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -360,8 +350,18 @@ URL: http://103.175.73.12:8080/live/269/269_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 268
+URL: http://103.175.73.12:8080/live/268/268_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 270
 URL: http://103.175.73.12:8080/live/270/270_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 17
+URL: http://103.175.73.12:8080/live/17/17_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -400,13 +400,13 @@ URL: http://103.175.73.12:8080/live/41/41_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 42
-URL: http://103.175.73.12:8080/live/42/42_0.m3u8
+Name: Channel 43
+URL: http://103.175.73.12:8080/live/43/43_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 43
-URL: http://103.175.73.12:8080/live/43/43_0.m3u8
+Name: Channel 42
+URL: http://103.175.73.12:8080/live/42/42_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -425,13 +425,13 @@ URL: http://103.175.73.12:8080/live/47/47_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 149
-URL: http://103.175.73.12:8080/live/149/149_0.m3u8
+Name: Channel 153
+URL: http://103.175.73.12:8080/live/153/153_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 153
-URL: http://103.175.73.12:8080/live/153/153_0.m3u8
+Name: Channel 149
+URL: http://103.175.73.12:8080/live/149/149_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -475,13 +475,13 @@ URL: http://103.175.73.12:8080/live/51/51_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 52
-URL: http://103.175.73.12:8080/live/52/52_0.m3u8
+Name: Channel 53
+URL: http://103.175.73.12:8080/live/53/53_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 53
-URL: http://103.175.73.12:8080/live/53/53_0.m3u8
+Name: Channel 52
+URL: http://103.175.73.12:8080/live/52/52_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -490,13 +490,18 @@ URL: http://103.175.73.12:8080/live/54/54_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 56
+URL: http://103.175.73.12:8080/live/56/56_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 58
 URL: http://103.175.73.12:8080/live/58/58_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 56
-URL: http://103.175.73.12:8080/live/56/56_0.m3u8
+Name: Channel 61
+URL: http://103.175.73.12:8080/live/61/61_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -510,23 +515,18 @@ URL: http://103.175.73.12:8080/live/62/62_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 61
-URL: http://103.175.73.12:8080/live/61/61_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 63
 URL: http://103.175.73.12:8080/live/63/63_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 121
-URL: http://103.175.73.12:8080/live/121/121_0.m3u8
+Name: Channel 113
+URL: http://103.175.73.12:8080/live/113/113_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 113
-URL: http://103.175.73.12:8080/live/113/113_0.m3u8
+Name: Channel 121
+URL: http://103.175.73.12:8080/live/121/121_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -545,23 +545,8 @@ URL: http://103.175.73.12:8080/live/124/124_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 126
-URL: http://103.175.73.12:8080/live/126/126_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 125
 URL: http://103.175.73.12:8080/live/125/125_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 127
-URL: http://103.175.73.12:8080/live/127/127_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 129
-URL: http://103.175.73.12:8080/live/129/129_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -570,18 +555,33 @@ URL: http://103.175.73.12:8080/live/128/128_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 127
+URL: http://103.175.73.12:8080/live/127/127_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 126
+URL: http://103.175.73.12:8080/live/126/126_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 129
+URL: http://103.175.73.12:8080/live/129/129_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 130
 URL: http://103.175.73.12:8080/live/130/130_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 131
-URL: http://103.175.73.12:8080/live/131/131_0.m3u8
+Name: Channel 133
+URL: http://103.175.73.12:8080/live/133/133_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 133
-URL: http://103.175.73.12:8080/live/133/133_0.m3u8
+Name: Channel 131
+URL: http://103.175.73.12:8080/live/131/131_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -600,8 +600,8 @@ URL: http://103.175.73.12:8080/live/138/138_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 143
-URL: http://103.175.73.12:8080/live/143/143_0.m3u8
+Name: Channel 144
+URL: http://103.175.73.12:8080/live/144/144_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -610,18 +610,18 @@ URL: http://103.175.73.12:8080/live/142/142_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 144
-URL: http://103.175.73.12:8080/live/144/144_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 173
-URL: http://103.175.73.12:8080/live/173/173_0.m3u8
+Name: Channel 143
+URL: http://103.175.73.12:8080/live/143/143_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Channel 145
 URL: http://103.175.73.12:8080/live/145/145_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 173
+URL: http://103.175.73.12:8080/live/173/173_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -635,11 +635,6 @@ URL: http://103.175.73.12:8080/live/175/175_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 178
-URL: http://103.175.73.12:8080/live/178/178_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 176
 URL: http://103.175.73.12:8080/live/176/176_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -647,6 +642,11 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 --------------------------------------------------
 Name: Channel 179
 URL: http://103.175.73.12:8080/live/179/179_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 178
+URL: http://103.175.73.12:8080/live/178/178_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -670,8 +670,8 @@ URL: http://103.175.73.12:8080/live/189/189_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 256
-URL: http://103.175.73.12:8080/live/256/256_0.m3u8
+Name: Channel 247
+URL: http://103.175.73.12:8080/live/247/247_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -680,8 +680,8 @@ URL: http://103.175.73.12:8080/live/255/255_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 247
-URL: http://103.175.73.12:8080/live/247/247_0.m3u8
+Name: Channel 256
+URL: http://103.175.73.12:8080/live/256/256_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -695,13 +695,13 @@ URL: http://103.175.73.12:8080/live/258/258_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 274
-URL: http://103.175.73.12:8080/live/274/274_0.m3u8
+Name: Channel 261
+URL: http://103.175.73.12:8080/live/261/261_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 261
-URL: http://103.175.73.12:8080/live/261/261_0.m3u8
+Name: Channel 274
+URL: http://103.175.73.12:8080/live/274/274_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -715,11 +715,6 @@ URL: http://103.175.73.12:8080/live/278/278_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 279
-URL: http://103.175.73.12:8080/live/279/279_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 280
 URL: http://103.175.73.12:8080/live/280/280_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -730,18 +725,23 @@ URL: http://103.175.73.12:8080/live/283/283_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 279
+URL: http://103.175.73.12:8080/live/279/279_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 319
 URL: http://103.175.73.12:8080/live/319/319_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 321
-URL: http://103.175.73.12:8080/live/321/321_0.m3u8
+Name: Channel 320
+URL: http://103.175.73.12:8080/live/320/320_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 320
-URL: http://103.175.73.12:8080/live/320/320_0.m3u8
+Name: Channel 321
+URL: http://103.175.73.12:8080/live/321/321_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -760,23 +760,18 @@ URL: http://103.175.73.12:8080/live/324/324_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 326
-URL: http://103.175.73.12:8080/live/326/326_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 327
 URL: http://103.175.73.12:8080/live/327/327_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 328
-URL: http://103.175.73.12:8080/live/328/328_0.m3u8
+Name: Channel 326
+URL: http://103.175.73.12:8080/live/326/326_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 330
-URL: http://103.175.73.12:8080/live/330/330_0.m3u8
+Name: Channel 328
+URL: http://103.175.73.12:8080/live/328/328_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -787,6 +782,11 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 --------------------------------------------------
 Name: Channel 332
 URL: http://103.175.73.12:8080/live/332/332_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 330
+URL: http://103.175.73.12:8080/live/330/330_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -810,11 +810,6 @@ URL: http://103.175.73.12:8080/live/352/352_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 354
-URL: http://103.175.73.12:8080/live/354/354_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 368
 URL: http://103.175.73.12:8080/live/368/368_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -825,18 +820,13 @@ URL: http://103.175.73.12:8080/live/375/375_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 354
+URL: http://103.175.73.12:8080/live/354/354_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 378
 URL: http://103.175.73.12:8080/live/378/378_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 416
-URL: http://103.175.73.12:8080/live/416/416_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 431
-URL: http://103.175.73.12:8080/live/431/431_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -845,8 +835,18 @@ URL: http://103.175.73.12:8080/live/417/417_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 416
+URL: http://103.175.73.12:8080/live/416/416_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 433
 URL: http://103.175.73.12:8080/live/433/433_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 431
+URL: http://103.175.73.12:8080/live/431/431_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -870,6 +870,11 @@ URL: http://103.175.73.12:8080/live/469/469_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 584
+URL: http://103.175.73.12:8080/live/584/584_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 471
 URL: http://103.175.73.12:8080/live/471/471_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -877,11 +882,6 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 --------------------------------------------------
 Name: Channel 581
 URL: http://103.175.73.12:8080/live/581/581_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 584
-URL: http://103.175.73.12:8080/live/584/584_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -895,13 +895,18 @@ URL: http://103.175.73.12:8080/live/640/640_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 658
+URL: http://103.175.73.12:8080/live/658/658_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 648
 URL: http://103.175.73.12:8080/live/648/648_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 658
-URL: http://103.175.73.12:8080/live/658/658_0.m3u8
+Name: Channel 660
+URL: http://103.175.73.12:8080/live/660/660_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -915,8 +920,8 @@ URL: http://103.175.73.12:8080/live/673/673_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 660
-URL: http://103.175.73.12:8080/live/660/660_0.m3u8
+Name: Channel 688
+URL: http://103.175.73.12:8080/live/688/688_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -925,23 +930,18 @@ URL: http://103.175.73.12:8080/live/695/695_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 688
-URL: http://103.175.73.12:8080/live/688/688_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 64
 URL: http://103.175.73.12:8080/live/64/64_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 65
-URL: http://103.175.73.12:8080/live/65/65_0.m3u8
+Name: Channel 67
+URL: http://103.175.73.12:8080/live/67/67_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 67
-URL: http://103.175.73.12:8080/live/67/67_0.m3u8
+Name: Channel 65
+URL: http://103.175.73.12:8080/live/65/65_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -955,13 +955,13 @@ URL: http://103.175.73.12:8080/live/70/70_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 72
-URL: http://103.175.73.12:8080/live/72/72_0.m3u8
+Name: Channel 73
+URL: http://103.175.73.12:8080/live/73/73_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 73
-URL: http://103.175.73.12:8080/live/73/73_0.m3u8
+Name: Channel 82
+URL: http://103.175.73.12:8080/live/82/82_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -970,23 +970,23 @@ URL: http://103.175.73.12:8080/live/74/74_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 76
-URL: http://103.175.73.12:8080/live/76/76_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 78
-URL: http://103.175.73.12:8080/live/78/78_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 80
 URL: http://103.175.73.12:8080/live/80/80_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 82
-URL: http://103.175.73.12:8080/live/82/82_0.m3u8
+Name: Channel 76
+URL: http://103.175.73.12:8080/live/76/76_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 72
+URL: http://103.175.73.12:8080/live/72/72_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 78
+URL: http://103.175.73.12:8080/live/78/78_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -1016,23 +1016,13 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 --------------------------------------------------
 
 Group: Web Series
-Name: Episode 2 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587
+Name: Episode 8 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Episode 3 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
-Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Episode 4 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
-Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Episode 1 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586
+Name: Episode 5 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -1046,13 +1036,23 @@ URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Episode 8 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
+Name: Episode 2 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19587
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Episode 5 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590
+Name: Episode 1 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586
+Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Episode 3 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
+Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Episode 4 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
