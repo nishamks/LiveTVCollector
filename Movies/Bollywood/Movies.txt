@@ -1,7 +1,7 @@
 Group: Bangla Movies
-Name: Aatka
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20529
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Name: Noor
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20461
+Logo: https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Neel Chakra
@@ -9,9 +9,9 @@ URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20354
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrtbZXO-irYq2Y5p_5s0-6ZmJLIsYZNcsoMgLDuxwrDD9zmWLkMhQhhvu&s=10
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Noor
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20461
-Logo: https://bmdb.com.bd/wp-content/uploads/2023/05/noor.jpg
+Name: Aatka
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20529
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Grehoprobesh
@@ -21,34 +21,9 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 --------------------------------------------------
 
 Group: Hindi Movies
-Name: Kis Kis ko Pyaar karoon 2
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20454
-Logo: https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Tu Meri Main Tera Main Tera Tu Meri
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20493
-Logo: https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: The Girlfriend
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20332
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Jatadhara
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20331
-Logo: https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Tere Ishk Mein
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20400
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Dhurandar
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20417
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dhurandhar_poster.jpg/250px-Dhurandhar_poster.jpg
+Name: Border 2
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20565
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: De De Pyaar De 2
@@ -56,14 +31,9 @@ URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20329
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6mUM-Gi7GhC8uD7BP2D75iao3WupXSCLvbZen5GcOw&s=10
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Border 2
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20565
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Baaghi 4
-URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20096
-Logo: https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg
+Name: Jatadhara
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20331
+Logo: https://stat5.bollywoodhungama.in/wp-content/uploads/2025/08/Jatadhara-3.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Rahu Ketu
@@ -74,6 +44,36 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 Name: Masti 4
 URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20364
 Logo: https://media5.bollywoodhungama.in/wp-content/uploads/2024/01/Mastiii4.jpeg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Tu Meri Main Tera Main Tera Tu Meri
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20493
+Logo: https://m.media-amazon.com/images/M/MV5BMDdiY2EzZjAtY2YxNC00Yjg2LTliNzEtOGNjYTk5YmU4YzA0XkEyXkFqcGc@._V1_.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Kis Kis ko Pyaar karoon 2
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20454
+Logo: https://bahrain.cineco.net/wp-content/uploads/2025/12/KIS-KISKO-PYAAR-KAROON-2-3.jpg  
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: The Girlfriend
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20332
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38796NBC_mg9Kp0E6A_YNCuRIBf4VR2rcMlOJ8YUXvyG49Lqk9GjH2Io&s=10
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Baaghi 4
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20096
+Logo: https://cds1.discoveryftp.net/Movies/Hindi/2025/Baaghi%204/poster.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Dhurandar
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20417
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dhurandhar_poster.jpg/250px-Dhurandhar_poster.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Tere Ishk Mein
+URL: https://fmftp.net/api/stream/video/stream?type=movies&id=20400
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJrRSqR_E6efhpDAhpmKrxqUT-VA4Px1A96X8AxnImgJzLCjIbYizRXxJ&s=10
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 
@@ -135,6 +135,11 @@ URL: http://103.175.73.12:8080/live/379/379_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 9
+URL: http://103.175.73.12:8080/live/9/9_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 12
 URL: http://103.175.73.12:8080/live/12/12_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -150,6 +155,11 @@ URL: http://103.175.73.12:8080/live/15/15_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 17
+URL: http://103.175.73.12:8080/live/17/17_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 18
 URL: http://103.175.73.12:8080/live/18/18_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -157,11 +167,6 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 --------------------------------------------------
 Name: Channel 19
 URL: http://103.175.73.12:8080/live/19/19_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 17
-URL: http://103.175.73.12:8080/live/17/17_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -200,8 +205,8 @@ URL: http://103.175.73.12:8080/live/271/271_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 44
-URL: http://103.175.73.12:8080/live/44/44_0.m3u8
+Name: Channel 42
+URL: http://103.175.73.12:8080/live/42/42_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -210,8 +215,8 @@ URL: http://103.175.73.12:8080/live/43/43_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 42
-URL: http://103.175.73.12:8080/live/42/42_0.m3u8
+Name: Channel 44
+URL: http://103.175.73.12:8080/live/44/44_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -230,6 +235,11 @@ URL: http://103.175.73.12:8080/live/155/155_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
+Name: Channel 156
+URL: http://103.175.73.12:8080/live/156/156_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
 Name: Channel 157
 URL: http://103.175.73.12:8080/live/157/157_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -237,11 +247,6 @@ Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/M
 --------------------------------------------------
 Name: Channel 158
 URL: http://103.175.73.12:8080/live/158/158_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Channel 156
-URL: http://103.175.73.12:8080/live/156/156_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -305,13 +310,13 @@ URL: http://103.175.73.12:8080/live/176/176_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 178
-URL: http://103.175.73.12:8080/live/178/178_0.m3u8
+Name: Channel 179
+URL: http://103.175.73.12:8080/live/179/179_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 179
-URL: http://103.175.73.12:8080/live/179/179_0.m3u8
+Name: Channel 178
+URL: http://103.175.73.12:8080/live/178/178_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -455,23 +460,23 @@ URL: http://103.175.73.12:8080/live/648/648_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 658
-URL: http://103.175.73.12:8080/live/658/658_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Channel 660
 URL: http://103.175.73.12:8080/live/660/660_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Channel 673
-URL: http://103.175.73.12:8080/live/673/673_0.m3u8
+Name: Channel 658
+URL: http://103.175.73.12:8080/live/658/658_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
 Name: Channel 664
 URL: http://103.175.73.12:8080/live/664/664_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Channel 673
+URL: http://103.175.73.12:8080/live/673/673_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -516,13 +521,8 @@ URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19586
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Episode 7 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
-Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Episode 6 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591
+Name: Episode 3 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
@@ -536,18 +536,23 @@ URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19590
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
-Name: Episode 4 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
-Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
-Name: Episode 3 - Gyaarah Gyaarah
-URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19588
-Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
-Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
---------------------------------------------------
 Name: Episode 8 - Gyaarah Gyaarah
 URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19593
+Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Episode 6 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19591
+Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Episode 7 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19592
+Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
+Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
+--------------------------------------------------
+Name: Episode 4 - Gyaarah Gyaarah
+URL: https://fmftp.net/api/stream/video/stream?type=tv_shows&id=19589
 Logo: https://m.media-amazon.com/images/M/MV5BYTkwZTFjYjItZTdlYi00OGQ3LTg4NWItOTc4MGY0MmI4YjU0XkEyXkFqcGc@._V1_QL75_UX123_.jpg
 Source: https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection
 --------------------------------------------------
