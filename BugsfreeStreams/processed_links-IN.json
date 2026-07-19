@@ -350,5 +350,9 @@
   "https://livetv-channels.b-cdn.net/8006/playlist.m3u8": {
     "last_checked": 1745903635.9033182,
     "is_active": false
+  },
+  "http://iptv-org.github.io/iptv/sample.m3u8": {
+    "last_checked": 1784424095.2883515,
+    "is_active": false
   }
 }
