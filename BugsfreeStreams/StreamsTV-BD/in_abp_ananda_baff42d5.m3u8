@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1214400,RESOLUTION=640x360
+https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/ts-ap-s1-n1/playlist/amg01412-xiaomiasia-abpananda-xiaomi/y1c5GWVzYI-Eyz1vzvVJgv1GK8UPb4ooLf8V0iCCWxqavu_A71XsekifF9s0DWhUDnqaGdx5HMbfLKlMPHRGdYec43_cyxRft9gGLivRHiR1xoegSxRzE6OLOC3HWpd8CRThHGMkQ-ffLMhWzhFNOKFJXM7vgiFsV2pFr19I3fR_3tpdJ5-EFdGYoMHOFoy3ozLT62n-wosby1z0NLRX3sesyLk8uKDRKu0P7TpESidsjIVqh9oS5JTJO3fPA0g8fl-E8sIeL90ElPc6PB2Z1R_klke16l1bgwlgnA/11/640x360_1214400/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3572800,RESOLUTION=1280x720
+https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/ts-ap-s1-n1/playlist/amg01412-xiaomiasia-abpananda-xiaomi/y1c5GWVzYI-Eyz1vzvVJgv1GK8UPb4ooLf8V0iCCWxqavu_A71XsekifF9s0DWhUDnqaGdx5HMbfLKlMPHRGdYec43_cyxRft9gGLivRHiR1xoegSxRzE6OLOC3HWpd8CRThHGMkQ-ffLMhWzhFNOKFJXM7vgiFsV2pFr19I3fR_3tpdJ5-EFdGYoMHOFoy3ozLT62n-wosby1z0NLRX3sesyLk8uKDRKu0P7TpESidsjIVqh9oS5JTJO3fPA0g8fl-E8sIeL90ElPc6PB2Z1R_klke16l1bgwlgnA/11/1280x720_3572800/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3502400,RESOLUTION=1920x1080
+https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/ts-ap-s1-n1/playlist/amg01412-xiaomiasia-abpananda-xiaomi/y1c5GWVzYI-Eyz1vzvVJgv1GK8UPb4ooLf8V0iCCWxqavu_A71XsekifF9s0DWhUDnqaGdx5HMbfLKlMPHRGdYec43_cyxRft9gGLivRHiR1xoegSxRzE6OLOC3HWpd8CRThHGMkQ-ffLMhWzhFNOKFJXM7vgiFsV2pFr19I3fR_3tpdJ5-EFdGYoMHOFoy3ozLT62n-wosby1z0NLRX3sesyLk8uKDRKu0P7TpESidsjIVqh9oS5JTJO3fPA0g8fl-E8sIeL90ElPc6PB2Z1R_klke16l1bgwlgnA/11/1920x1080_3502400/index.m3u8
