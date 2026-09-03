@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
-https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4540800,RESOLUTION=Variant_1
-https://dai.google.com/linear/hls/pa/event/r4sa-f6GSN2XIvzKv5jVng/stream/b9a39f0f-e82f-44be-8813-f0f5a8748ba9:MRN2/variant/427d5fb03d3ce03beab13998d1f11a35/bandwidth/4540800.m3u8
