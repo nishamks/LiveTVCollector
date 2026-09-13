@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1141998,RESOLUTION=480x270
+https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/y1U9GXlsZImY1D5j1-9CotkkRMEedIxqMbcWwjSEShrB_-7B80jtdl-NC9hnXj8CDmfOBI8qA87De6kHNWFFJpKer3zfkBdY44kJe3uxLHwBxCYtAd6eEKOLLzvHUIB3DAftDS5lJoypDO5Uev-ydPpftF9g70sEAwUd2wVNlP0L4aayDG_odpGzCnBNGGQ0F-k9xMzJ8P2T_ZAT3bV8bYjP-o5FwN_CMrYk6j0KWSVyo_wT5dlEotKVZ3SOdDlTG0bysNysAG_UCRAumIWrtQeoQS7ojCSYgt3gsY0xDUOv8VlQB1gHbxQH/72/480x270_1141998/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2753216,RESOLUTION=640x360
+https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/y1U9GXlsZImY1D5j1-9CotkkRMEedIxqMbcWwjSEShrB_-7B80jtdl-NC9hnXj8CDmfOBI8qA87De6kHNWFFJpKer3zfkBdY44kJe3uxLHwBxCYtAd6eEKOLLzvHUIB3DAftDS5lJoypDO5Uev-ydPpftF9g70sEAwUd2wVNlP0L4aayDG_odpGzCnBNGGQ0F-k9xMzJ8P2T_ZAT3bV8bYjP-o5FwN_CMrYk6j0KWSVyo_wT5dlEotKVZ3SOdDlTG0bysNysAG_UCRAumIWrtQeoQS7ojCSYgt3gsY0xDUOv8VlQB1gHbxQH/72/640x360_2753216/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6713185,RESOLUTION=1280x720
+https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/y1U9GXlsZImY1D5j1-9CotkkRMEedIxqMbcWwjSEShrB_-7B80jtdl-NC9hnXj8CDmfOBI8qA87De6kHNWFFJpKer3zfkBdY44kJe3uxLHwBxCYtAd6eEKOLLzvHUIB3DAftDS5lJoypDO5Uev-ydPpftF9g70sEAwUd2wVNlP0L4aayDG_odpGzCnBNGGQ0F-k9xMzJ8P2T_ZAT3bV8bYjP-o5FwN_CMrYk6j0KWSVyo_wT5dlEotKVZ3SOdDlTG0bysNysAG_UCRAumIWrtQeoQS7ojCSYgt3gsY0xDUOv8VlQB1gHbxQH/72/1280x720_6713185/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=18593445,RESOLUTION=1920x1080
+https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/ts-ap-s1-n1/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/y1U9GXlsZImY1D5j1-9CotkkRMEedIxqMbcWwjSEShrB_-7B80jtdl-NC9hnXj8CDmfOBI8qA87De6kHNWFFJpKer3zfkBdY44kJe3uxLHwBxCYtAd6eEKOLLzvHUIB3DAftDS5lJoypDO5Uev-ydPpftF9g70sEAwUd2wVNlP0L4aayDG_odpGzCnBNGGQ0F-k9xMzJ8P2T_ZAT3bV8bYjP-o5FwN_CMrYk6j0KWSVyo_wT5dlEotKVZ3SOdDlTG0bysNysAG_UCRAumIWrtQeoQS7ojCSYgt3gsY0xDUOv8VlQB1gHbxQH/72/1920x1080_18593445/index.m3u8
