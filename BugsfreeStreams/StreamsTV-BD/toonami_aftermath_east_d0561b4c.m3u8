@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1200000,RESOLUTION=Variant_1
-http://n3.toonamiaftermath.com:1934/livehttporigin/est/Yt0f2a-iFU2xG-chunklist.m3u8
+http://n3.toonamiaftermath.com:1934/livehttporigin/est/qCz2bX-RInTvb-chunklist-hls10.m3u8
